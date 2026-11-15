@@ -1,0 +1,104 @@
+V1 | gemini-2.5-flash-lite | hotpotqa/union | todo 303 (done 0)
+  25/303 12s
+  50/303 18s
+  75/303 28s
+  100/303 33s
+  125/303 45s
+  150/303 54s
+  175/303 61s
+  200/303 70s
+  225/303 82s
+  250/303 93s
+  275/303 102s
+  300/303 111s
+  done 303/303  issued calls 291  tokens 505999/8260  truncated 0  ≈¥0.0194
+P1 | gemini-2.5-flash-lite | hotpotqa/union | todo 303 (done 0)
+  25/303 53s
+  50/303 100s
+  75/303 146s
+  100/303 185s
+  125/303 225s
+  150/303 272s
+  175/303 315s
+  200/303 360s
+  225/303 418s
+  250/303 469s
+  275/303 518s
+  300/303 567s
+  done 303/303  issued calls 3763  tokens 6087116/51957  truncated 0  ≈¥0.2266
+LOI | gemini-2.5-flash-lite | hotpotqa/union | todo 303 (done 0)
+  25/303 37s
+  50/303 64s
+  75/303 99s
+  100/303 134s
+  125/303 168s
+  150/303 216s
+  175/303 255s
+  200/303 289s
+  225/303 342s
+  250/303 394s
+  275/303 445s
+  300/303 498s
+  done 303/303  issued calls 2904  tokens 1023791/35985  truncated 0  ≈¥0.0420
+cache: {'hits': 908, 'misses': 6958, 'hit_rate': 0.11543351131451818}
+V1 | gemini-2.5-flash-lite | hotpotqa/union | todo 303 (done 0)
+  25/303 14s
+  50/303 24s
+  75/303 35s
+  100/303 43s
+  125/303 53s
+  150/303 66s
+  175/303 79s
+  200/303 91s
+  225/303 103s
+  250/303 123s
+  275/303 133s
+  300/303 140s
+  done 303/303  issued calls 291  tokens 505603/8228  truncated 0  ≈¥0.0194
+P1 | gemini-2.5-flash-lite | hotpotqa/union | todo 303 (done 0)
+  25/303 81s
+  50/303 159s
+  75/303 237s
+  100/303 319s
+  125/303 385s
+  150/303 468s
+  175/303 532s
+  200/303 584s
+  225/303 632s
+  250/303 691s
+  275/303 753s
+  300/303 814s
+  done 303/303  issued calls 4012  tokens 6531765/55410  truncated 0  ≈¥0.2431
+cache: {'hits': 236, 'misses': 4303, 'hit_rate': 0.05199383124036131}
+RM64 | gemini-2.5-flash-lite | hotpotqa/union | todo 303 (done 0)
+  25/303 174s
+  50/303 297s
+  75/303 428s
+  100/303 552s
+  125/303 716s
+  150/303 864s
+  175/303 1029s
+  200/303 1178s
+  225/303 1352s
+  250/303 1518s
+  275/303 1683s
+  300/303 1833s
+  done 303/303  issued calls 17604  tokens 16438277/243034  truncated 0  ≈¥0.6268
+cache: {'hits': 1446, 'misses': 17604, 'hit_rate': 0.07590551181102362}
+MAIN_DONE gemini-2.5-flash-lite hotpotqa
+V1 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 303)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 303)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 303)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 303)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 303)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 303)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+MAIN_DONE gemini-2.5-flash-lite hotpotqa

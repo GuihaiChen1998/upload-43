@@ -1,0 +1,32 @@
+{
+ "seed": 20261104,
+ "M": 10,
+ "n_same_page_max": 3,
+ "min_tokens": 6,
+ "question_template": "Is the following claim true according to the sources? Claim: \"{claim}\" Answer \"yes\" if the sources support the claim, \"no\" if they contradict it, or \"unknown\" if they do not contain enough information.",
+ "stats": {
+  "dev:REFUTES": 354,
+  "dev:SUPPORTS": 354,
+  "dev:claim=C,evid=E": 177,
+  "dev:claim=C,evid=E2": 177,
+  "dev:claim=C2,evid=E": 177,
+  "dev:claim=C2,evid=E2": 177,
+  "n_same_page=0": 10,
+  "n_same_page=1": 12,
+  "n_same_page=2": 27,
+  "n_same_page=3": 306,
+  "test:REFUTES": 356,
+  "test:SUPPORTS": 356,
+  "test:claim=C,evid=E": 178,
+  "test:claim=C,evid=E2": 178,
+  "test:claim=C2,evid=E": 178,
+  "test:claim=C2,evid=E2": 178
+ },
+ "unmatched_families": [],
+ "inputs_sha256": {
+  "fever_symmetric_dev.jsonl": "1d43d016da9264de2139cd10edd459ffbeac84f1fd85d60b70ab6ef63d283f81",
+  "fever_symmetric_test.jsonl": "b2ff560615bd3337c858bc5b09256d04f39aaa034aaae2351bb2d6345c110f83",
+  "shared_task_dev.jsonl": "e89865bfe1b4dd054e03dd57d7241a6fde24862905f31117cf0cd719f7c78df7",
+  "wiki_subset.jsonl.gz": "06365d450dd38dd14a2430f6430f861808fd4edcae219e0a7e6f91034c9bbaad"
+ }
+}

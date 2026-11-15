@@ -1,0 +1,99 @@
+{
+ "model": "claude-haiku-5-5",
+ "endpoint": "tian-shu",
+ "dataset": "symfever",
+ "pool": "symfever.dev",
+ "n": 40,
+ "leak_rate": 0.225,
+ "evaluable_rate": 0.35,
+ "bucket_counts": {
+  "leaked": 9,
+  "context_dep": 4,
+  "abstained_correct": 10,
+  "abstained_wrong": 11,
+  "both_wrong": 6,
+  "unparsable": 0
+ },
+ "hop_total": {},
+ "hop_evaluable": {},
+ "usage": {
+  "prompt_tokens": 41709,
+  "completion_tokens": 11865,
+  "reasoning_tokens": 0,
+  "est_cost_cny": 0.0025,
+  "mean_latency_s": 2.49,
+  "finish_reasons": {
+   "stop": 80
+  },
+  "calls_recorded": 80
+ },
+ "buckets": {
+  "leaked": [
+   "symfever_1287410000003",
+   "symfever_1163190000004",
+   "symfever_170398",
+   "symfever_1658980000003",
+   "symfever_1969600000003",
+   "symfever_2044320000003",
+   "symfever_24684",
+   "symfever_35309",
+   "symfever_71511"
+  ],
+  "context_dep": [
+   "symfever_1807320000004",
+   "symfever_1840830000003",
+   "symfever_268390000002",
+   "symfever_733510000002"
+  ],
+  "abstained_correct": [
+   "symfever_147670000002",
+   "symfever_163980",
+   "symfever_1740260000003",
+   "symfever_1967400000003",
+   "symfever_2163870000003",
+   "symfever_2151350000003",
+   "symfever_219126",
+   "symfever_35830000004",
+   "symfever_521860000002",
+   "symfever_789970000004"
+  ],
+  "abstained_wrong": [
+   "symfever_1319310000003",
+   "symfever_1077860000002",
+   "symfever_1224570000002",
+   "symfever_1211190000002",
+   "symfever_1224570000004",
+   "symfever_1516500000004",
+   "symfever_1658980000002",
+   "symfever_421880000002",
+   "symfever_680320000002",
+   "symfever_97",
+   "symfever_755990000002"
+  ],
+  "both_wrong": [
+   "symfever_1287410000004",
+   "symfever_1790070000002",
+   "symfever_2210850000002",
+   "symfever_236280000004",
+   "symfever_487070000002",
+   "symfever_396060000002"
+  ],
+  "unparsable": []
+ },
+ "evaluable": [
+  "symfever_1807320000004",
+  "symfever_1840830000003",
+  "symfever_268390000002",
+  "symfever_733510000002",
+  "symfever_147670000002",
+  "symfever_163980",
+  "symfever_1740260000003",
+  "symfever_1967400000003",
+  "symfever_2163870000003",
+  "symfever_2151350000003",
+  "symfever_219126",
+  "symfever_35830000004",
+  "symfever_521860000002",
+  "symfever_789970000004"
+ ]
+}

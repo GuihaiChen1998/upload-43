@@ -1,0 +1,100 @@
+Traceback (most recent call last):
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/24_endpoint_agreement.py", line 87, in <module>
+    main()
+    ~~~~^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/24_endpoint_agreement.py", line 57, in main
+    rows = list(ex.map(lambda i: k3p.premise_one(i, backend, cfg, cache, 1)[0], insts))
+  File "/usr/local/lib/python3.13/concurrent/futures/_base.py", line 625, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/usr/local/lib/python3.13/concurrent/futures/_base.py", line 318, in _result_or_cancel
+    return fut.result(timeout)
+           ~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/lib/python3.13/concurrent/futures/_base.py", line 460, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/usr/local/lib/python3.13/concurrent/futures/_base.py", line 402, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.13/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/24_endpoint_agreement.py", line 57, in <lambda>
+    rows = list(ex.map(lambda i: k3p.premise_one(i, backend, cfg, cache, 1)[0], insts))
+                                 ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../scripts/20_k3_premise.py", line 63, in premise_one
+    obs, c = _answers_for([subset_prompt(inst, probes[n]) for n in names], backend, cfg, cache, r, workers)
+             ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/pipelines/subset.py", line 168, in _answers_for
+    res = [one(p) for p in uniq]
+           ~~~^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/pipelines/subset.py", line 151, in one
+    o, c = collect_observations(backend, p, strat, sp, cfg, cache, repeat=repeat)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/stages/sampling.py", line 132, in collect_observations
+    res = [_one(i) for i in range(sampling.n)]
+           ~~~~^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/stages/sampling.py", line 95, in _one
+    text, c = _gen(msgs, i)
+              ~~~~^^^^^^^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/stages/sampling.py", line 82, in _gen
+    text, meta = backend.generate_with_meta(
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        msgs, cfg, seed=(seed_base + i) if backend.supports_seed else None
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../scripts/../scripts/17_run_closed.py", line 71, in generate_with_meta
+    text, meta = self._inner.generate_with_meta(messages, cfg, seed=seed)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/backends/openai_backend.py", line 105, in generate_with_meta
+    raise RuntimeError(f"{self.model}: generation failed after retries: {last}")
+RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - 当前模型负载高，请稍后重试，或切换其他渠道使用
+Traceback (most recent call last):
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/24_endpoint_agreement.py", line 87, in <module>
+    main()
+    ~~~~^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/24_endpoint_agreement.py", line 57, in main
+    rows = list(ex.map(lambda i: k3p.premise_one(i, backend, cfg, cache, 1)[0], insts))
+  File "/usr/local/lib/python3.13/concurrent/futures/_base.py", line 625, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/usr/local/lib/python3.13/concurrent/futures/_base.py", line 318, in _result_or_cancel
+    return fut.result(timeout)
+           ~~~~~~~~~~^^^^^^^^^
+  File "/usr/local/lib/python3.13/concurrent/futures/_base.py", line 460, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/usr/local/lib/python3.13/concurrent/futures/_base.py", line 402, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.13/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/24_endpoint_agreement.py", line 57, in <lambda>
+    rows = list(ex.map(lambda i: k3p.premise_one(i, backend, cfg, cache, 1)[0], insts))
+                                 ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../scripts/20_k3_premise.py", line 63, in premise_one
+    obs, c = _answers_for([subset_prompt(inst, probes[n]) for n in names], backend, cfg, cache, r, workers)
+             ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/pipelines/subset.py", line 168, in _answers_for
+    res = [one(p) for p in uniq]
+           ~~~^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/pipelines/subset.py", line 151, in one
+    o, c = collect_observations(backend, p, strat, sp, cfg, cache, repeat=repeat)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/stages/sampling.py", line 132, in collect_observations
+    res = [_one(i) for i in range(sampling.n)]
+           ~~~~^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/stages/sampling.py", line 95, in _one
+    text, c = _gen(msgs, i)
+              ~~~~^^^^^^^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/stages/sampling.py", line 82, in _gen
+    text, meta = backend.generate_with_meta(
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        msgs, cfg, seed=(seed_base + i) if backend.supports_seed else None
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../scripts/../scripts/17_run_closed.py", line 71, in generate_with_meta
+    text, meta = self._inner.generate_with_meta(messages, cfg, seed=seed)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../src/backends/openai_backend.py", line 105, in generate_with_meta
+    raise RuntimeError(f"{self.model}: generation failed after retries: {last}")
+RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - 当前模型负载高，请稍后重试，或切换其他渠道使用

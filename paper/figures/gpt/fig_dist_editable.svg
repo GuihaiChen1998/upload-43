@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="424" viewBox="0 0 1200 424" role="img" aria-label="Answer variation and score distributions">
+<title>Answer variation and score distributions</title>
+<rect width="100%" height="100%" fill="white"/>
+<defs></defs>
+<text x="24" y="69" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">(a) Full-context changes</text>
+<text x="418" y="69" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">(b) P1 top-set structure</text>
+<text x="812" y="69" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">(c) RM64 score percentiles</text>
+<text x="24" y="122" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">HotpotQA</text>
+<text x="418" y="122" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">HotpotQA</text>
+<text x="812" y="122" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">HotpotQA</text>
+<rect x="128" y="110" width="235.51" height="24" rx="0" fill="#e2edf8" stroke="#ffffff" stroke-width="0.7"/>
+<text x="245.76" y="122" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">90%</text>
+<rect x="363.51" y="110" width="11.45" height="24" rx="0" fill="#9ac0df" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="374.97" y="110" width="8.83" height="24" rx="0" fill="#4c91c4" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="383.8" y="110" width="6.2" height="24" rx="0" fill="#165483" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="522" y="110" width="64.25" height="24" rx="0" fill="#d9dee4" stroke="#ffffff" stroke-width="0.7"/>
+<text x="554.13" y="122" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">25%</text>
+<rect x="586.25" y="110" width="125.41" height="24" rx="0" fill="#1375ad" stroke="#ffffff" stroke-width="0.7"/>
+<text x="648.95" y="122" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700" dominant-baseline="central">48%</text>
+<rect x="711.66" y="110" width="39.98" height="24" rx="0" fill="#efbd83" stroke="#ffffff" stroke-width="0.7"/>
+<text x="731.65" y="122" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">15%</text>
+<rect x="751.64" y="110" width="32.36" height="24" rx="0" fill="#b64c26" stroke="#ffffff" stroke-width="0.7"/>
+<text x="24" y="175" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">MuSiQue</text>
+<text x="418" y="175" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">MuSiQue</text>
+<text x="812" y="175" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">MuSiQue</text>
+<rect x="128" y="163" width="220.46" height="24" rx="0" fill="#e2edf8" stroke="#ffffff" stroke-width="0.7"/>
+<text x="238.23" y="175" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">84%</text>
+<rect x="348.46" y="163" width="17.67" height="24" rx="0" fill="#9ac0df" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="366.13" y="163" width="11.12" height="24" rx="0" fill="#4c91c4" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="377.25" y="163" width="12.75" height="24" rx="0" fill="#165483" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="522" y="163" width="16.27" height="24" rx="0" fill="#d9dee4" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="538.27" y="163" width="106.84" height="24" rx="0" fill="#1375ad" stroke="#ffffff" stroke-width="0.7"/>
+<text x="591.68" y="175" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700" dominant-baseline="central">41%</text>
+<rect x="645.1" y="163" width="51.37" height="24" rx="0" fill="#efbd83" stroke="#ffffff" stroke-width="0.7"/>
+<text x="670.79" y="175" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">20%</text>
+<rect x="696.47" y="163" width="87.53" height="24" rx="0" fill="#b64c26" stroke="#ffffff" stroke-width="0.7"/>
+<text x="740.24" y="175" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700" dominant-baseline="central">33%</text>
+<text x="24" y="228" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Qasper</text>
+<text x="418" y="228" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Qasper</text>
+<text x="812" y="228" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Qasper</text>
+<rect x="128" y="216" width="185.55" height="24" rx="0" fill="#e2edf8" stroke="#ffffff" stroke-width="0.7"/>
+<text x="220.78" y="228" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">71%</text>
+<rect x="313.55" y="216" width="28.02" height="24" rx="0" fill="#9ac0df" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="341.57" y="216" width="25.05" height="24" rx="0" fill="#4c91c4" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="366.62" y="216" width="23.38" height="24" rx="0" fill="#165483" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="522" y="216" width="22.27" height="24" rx="0" fill="#d9dee4" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="544.27" y="216" width="116.9" height="24" rx="0" fill="#1375ad" stroke="#ffffff" stroke-width="0.7"/>
+<text x="602.72" y="228" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700" dominant-baseline="central">45%</text>
+<rect x="661.16" y="216" width="30.99" height="24" rx="0" fill="#efbd83" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="692.15" y="216" width="91.85" height="24" rx="0" fill="#b64c26" stroke="#ffffff" stroke-width="0.7"/>
+<text x="738.08" y="228" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700" dominant-baseline="central">35%</text>
+<text x="24" y="281" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Sym. FEVER</text>
+<text x="418" y="281" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Sym. FEVER</text>
+<text x="812" y="281" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Sym. FEVER</text>
+<rect x="128" y="269" width="245.3" height="24" rx="0" fill="#e2edf8" stroke="#ffffff" stroke-width="0.7"/>
+<text x="250.65" y="281" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">94%</text>
+<rect x="373.3" y="269" width="8.17" height="24" rx="0" fill="#9ac0df" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="381.47" y="269" width="3.87" height="24" rx="0" fill="#4c91c4" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="385.34" y="269" width="4.66" height="24" rx="0" fill="#165483" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="522" y="269" width="10.68" height="24" rx="0" fill="#d9dee4" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="532.68" y="269" width="215.35" height="24" rx="0" fill="#1375ad" stroke="#ffffff" stroke-width="0.7"/>
+<text x="640.35" y="281" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700" dominant-baseline="central">82%</text>
+<rect x="748.03" y="269" width="12.11" height="24" rx="0" fill="#efbd83" stroke="#ffffff" stroke-width="0.7"/>
+<rect x="760.14" y="269" width="23.86" height="24" rx="0" fill="#b64c26" stroke="#ffffff" stroke-width="0.7"/>
+<polyline points="128,294 128,304" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="128" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">0%</text>
+<polyline points="259,294 259,304" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="259" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">50%</text>
+<polyline points="390,294 390,304" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="390" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">100%</text>
+<polyline points="128,299 390,299" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="259" y="340" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">Share of instances</text>
+<polyline points="522,294 522,304" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="522" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">0%</text>
+<polyline points="653,294 653,304" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="653" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">50%</text>
+<polyline points="784,294 784,304" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="784" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">100%</text>
+<polyline points="522,299 784,299" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="653" y="340" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">Share of instances</text>
+<rect x="24" y="369" width="13" height="13" rx="1" fill="#e2edf8" stroke="none" stroke-width="1"/>
+<text x="42" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">0 of 3</text>
+<rect x="113" y="369" width="13" height="13" rx="1" fill="#9ac0df" stroke="none" stroke-width="1"/>
+<text x="131" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">1 of 3</text>
+<rect x="202" y="369" width="13" height="13" rx="1" fill="#4c91c4" stroke="none" stroke-width="1"/>
+<text x="220" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">2 of 3</text>
+<rect x="291" y="369" width="13" height="13" rx="1" fill="#165483" stroke="none" stroke-width="1"/>
+<text x="309" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">3 of 3</text>
+<rect x="418" y="369" width="13" height="13" rx="1" fill="#d9dee4" stroke="none" stroke-width="1"/>
+<text x="436" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">All zero</text>
+<rect x="507" y="369" width="13" height="13" rx="1" fill="#1375ad" stroke="none" stroke-width="1"/>
+<text x="525" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">Unique</text>
+<rect x="596" y="369" width="13" height="13" rx="1" fill="#efbd83" stroke="none" stroke-width="1"/>
+<text x="614" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">2-way</text>
+<rect x="685" y="369" width="13" height="13" rx="1" fill="#b64c26" stroke="none" stroke-width="1"/>
+<text x="703" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">3+ tie</text>
+<polyline points="1043,99 1043,296" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5 5"/>
+<polyline points="1029.31,116 1170,116" fill="none" stroke="#1765a2" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1054.97" y="112" width="86" height="8" rx="1" fill="#1765a2" stroke="#1765a2" stroke-width="1"/>
+<polygon points="1094.92,112.5 1098.42,116 1094.92,119.5 1091.42,116" fill="#ffffff" stroke="#1765a2" stroke-width="1.5"/>
+<polyline points="1017.78,129 1069.84,129" fill="none" stroke="#60798b" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1032.55" y="125" width="21.710000000000036" height="8" rx="1" fill="#60798b" stroke="#60798b" stroke-width="1"/>
+<polygon points="1039.5,125.5 1046.5,125.5 1046.5,132.5 1039.5,132.5" fill="#ffffff" stroke="#60798b" stroke-width="1.5"/>
+<polyline points="1024.07,169 1170,169" fill="none" stroke="#1765a2" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1046.16" y="165" width="65.22000000000003" height="8" rx="1" fill="#1765a2" stroke="#1765a2" stroke-width="1"/>
+<polygon points="1069.21,165.5 1072.71,169 1069.21,172.5 1065.71,169" fill="#ffffff" stroke="#1765a2" stroke-width="1.5"/>
+<polyline points="1018.58,182 1067.66,182" fill="none" stroke="#60798b" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1033.42" y="178" width="19.210000000000036" height="8" rx="1" fill="#60798b" stroke="#60798b" stroke-width="1"/>
+<polygon points="1039.5,178.5 1046.5,178.5 1046.5,185.5 1039.5,185.5" fill="#ffffff" stroke="#60798b" stroke-width="1.5"/>
+<polyline points="1043,222 1170,222" fill="none" stroke="#1765a2" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1089.92" y="218" width="80.07999999999993" height="8" rx="1" fill="#1765a2" stroke="#1765a2" stroke-width="1"/>
+<polygon points="1144.23,218.5 1147.73,222 1144.23,225.5 1140.73,222" fill="#ffffff" stroke="#1765a2" stroke-width="1.5"/>
+<polyline points="1018.31,235 1071.22,235" fill="none" stroke="#60798b" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1034.68" y="231" width="19.029999999999973" height="8" rx="1" fill="#60798b" stroke="#60798b" stroke-width="1"/>
+<polygon points="1039.5,231.5 1046.5,231.5 1046.5,238.5 1039.5,238.5" fill="#ffffff" stroke="#60798b" stroke-width="1.5"/>
+<polyline points="1094.59,275 1170,275" fill="none" stroke="#1765a2" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1165.62" y="271" width="4.380000000000109" height="8" rx="1" fill="#1765a2" stroke="#1765a2" stroke-width="1"/>
+<polygon points="1170,271.5 1173.5,275 1170,278.5 1166.5,275" fill="#ffffff" stroke="#1765a2" stroke-width="1.5"/>
+<polyline points="1016.98,288 1070.78,288" fill="none" stroke="#60798b" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1032.42" y="284" width="22.49000000000001" height="8" rx="1" fill="#60798b" stroke="#60798b" stroke-width="1"/>
+<polygon points="1039.62,284.5 1046.62,284.5 1046.62,291.5 1039.62,291.5" fill="#ffffff" stroke="#60798b" stroke-width="1.5"/>
+<polyline points="916,294 916,304" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="916" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">-1</text>
+<polyline points="979.5,294 979.5,304" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="979.5" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">-0.5</text>
+<polyline points="1043,294 1043,304" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1043" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">0</text>
+<polyline points="1106.5,294 1106.5,304" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1106.5" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">0.5</text>
+<polyline points="1170,294 1170,304" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1170" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">1</text>
+<polyline points="916,299 1170,299" fill="none" stroke="#8796a2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1043" y="340" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">Banzhaf score</text>
+<polygon points="832,371 837,376 832,381 827,376" fill="#1765a2" stroke="none" stroke-width="1"/>
+<text x="843" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">Gold</text>
+<polygon points="899,371 909,371 909,381 899,381" fill="#60798b" stroke="none" stroke-width="1"/>
+<text x="916" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">Non-gold</text>
+<text x="812" y="403" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">Median · 25–75% box · 5–95% whiskers</text>
+</svg>

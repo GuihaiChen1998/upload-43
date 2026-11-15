@@ -1,0 +1,112 @@
+{
+ "runs": [
+  {
+   "calls": 759,
+   "prompt_tokens": 3693202,
+   "completion_tokens": 35786,
+   "reasoning_tokens": 22358,
+   "finish_length": 0,
+   "latency_s": 14465.07599999999,
+   "est_cost_cny": 0.07744,
+   "n_instances_run": 764,
+   "wall_s": 1848.7,
+   "time": "2026-11-04 06:46:23"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 07:23:11"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 07:58:37"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 07:58:39"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 08:23:07"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 10:03:41"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 10:24:58"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 10:39:02"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 11:14:00"
+  }
+ ]
+}

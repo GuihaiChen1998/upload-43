@@ -1,0 +1,89 @@
+{
+ "model": "gemini-2.5-flash",
+ "endpoint": "xiaojingai",
+ "dataset": "symfever",
+ "pool": "symfever.dev",
+ "n": 40,
+ "leak_rate": 0.475,
+ "evaluable_rate": 0.125,
+ "bucket_counts": {
+  "leaked": 19,
+  "context_dep": 5,
+  "abstained_correct": 0,
+  "abstained_wrong": 1,
+  "both_wrong": 15,
+  "unparsable": 0
+ },
+ "hop_total": {},
+ "hop_evaluable": {},
+ "usage": {
+  "prompt_tokens": 35994,
+  "completion_tokens": 655,
+  "reasoning_tokens": 0,
+  "est_cost_cny": 0.0045,
+  "mean_latency_s": 32.5,
+  "finish_reasons": {
+   "stop": 80
+  },
+  "calls_recorded": 80
+ },
+ "buckets": {
+  "leaked": [
+   "symfever_1287410000003",
+   "symfever_163980",
+   "symfever_170398",
+   "symfever_1658980000003",
+   "symfever_1807320000004",
+   "symfever_1740260000003",
+   "symfever_2151350000003",
+   "symfever_219126",
+   "symfever_24684",
+   "symfever_35309",
+   "symfever_35830000004",
+   "symfever_1163190000004",
+   "symfever_1967400000003",
+   "symfever_2044320000003",
+   "symfever_97",
+   "symfever_2163870000003",
+   "symfever_71511",
+   "symfever_1840830000003",
+   "symfever_1969600000003"
+  ],
+  "context_dep": [
+   "symfever_147670000002",
+   "symfever_268390000002",
+   "symfever_521860000002",
+   "symfever_733510000002",
+   "symfever_789970000004"
+  ],
+  "abstained_correct": [],
+  "abstained_wrong": [
+   "symfever_680320000002"
+  ],
+  "both_wrong": [
+   "symfever_1287410000004",
+   "symfever_1224570000004",
+   "symfever_1224570000002",
+   "symfever_1516500000004",
+   "symfever_1319310000003",
+   "symfever_1077860000002",
+   "symfever_1211190000002",
+   "symfever_1658980000002",
+   "symfever_1790070000002",
+   "symfever_2210850000002",
+   "symfever_396060000002",
+   "symfever_421880000002",
+   "symfever_487070000002",
+   "symfever_755990000002",
+   "symfever_236280000004"
+  ],
+  "unparsable": []
+ },
+ "evaluable": [
+  "symfever_147670000002",
+  "symfever_268390000002",
+  "symfever_521860000002",
+  "symfever_733510000002",
+  "symfever_789970000004"
+ ]
+}

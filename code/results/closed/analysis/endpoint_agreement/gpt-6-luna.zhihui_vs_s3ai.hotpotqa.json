@@ -1,0 +1,41 @@
+{
+ "model": "gpt-6-luna",
+ "endpoint": "zhihui",
+ "instances": "data/constructed/k3/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz",
+ "conditions": [
+  "C",
+  "F"
+ ],
+ "n_variants": 100,
+ "stats": {
+  "full": {
+   "n": 300,
+   "acc_ref": 0.957,
+   "acc_new": 0.917,
+   "agree_cross": 0.867,
+   "agree_within_ref": 0.9
+  },
+  "drop_ap": {
+   "n": 300,
+   "acc_ref": 0.59,
+   "acc_new": 0.603,
+   "agree_cross": 0.73,
+   "agree_within_ref": 0.785
+  },
+  "drop_group": {
+   "n": 300,
+   "acc_ref": 0.287,
+   "acc_new": 0.307,
+   "agree_cross": 0.583,
+   "agree_within_ref": 0.685
+  }
+ },
+ "usage": {
+  "calls": 750,
+  "prompt_tokens": 4868102,
+  "completion_tokens": 60756,
+  "reasoning_tokens": 49965,
+  "finish_length": 0,
+  "latency_s": 27615.196999999986
+ }
+}

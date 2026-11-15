@@ -1,0 +1,32 @@
+{
+ "aggregation": {
+  "beta": 0.3,
+  "lambda": 0.5,
+  "tau": 0.5
+ },
+ "dataset": "qasper",
+ "exclude_qids": null,
+ "fingerprint": {
+  "backend": "OpenAIBackend",
+  "base_url": "https://open.xiaojingai.com/v1",
+  "disable_thinking": false,
+  "extra": {},
+  "extra_body": {},
+  "max_tokens": 1024,
+  "presence_penalty": 0.0,
+  "send_thinking_kwarg": false,
+  "top_k": 20,
+  "top_p": null
+ },
+ "full_repeats": 0,
+ "include_qids": "results/closed/screen/qasper/gemini-2.5-flash/qasper.all.limit40.jsonl",
+ "method": "RM64",
+ "model": "gemini-2.5-flash",
+ "n_samples": 1,
+ "pool": "qasper.all.jsonl.gz",
+ "repeat": 0,
+ "rm_k": 64,
+ "sample_n": 8,
+ "sample_seed": 0,
+ "script": "17_run_closed"
+}

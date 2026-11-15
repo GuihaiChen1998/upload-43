@@ -1,0 +1,66 @@
+{
+ "hotpotqa": {
+  "spont_dist": [
+   0.899,
+   0.044,
+   0.034,
+   0.024
+  ],
+  "p1_structure": {
+   "unique": 0.479,
+   "2-way tie": 0.153,
+   "3+ tie": 0.124,
+   "all zero": 0.245
+  },
+  "rm_gold_median": 0.4088185206606259,
+  "rm_nongold_median": 0.0
+ },
+ "musique": {
+  "spont_dist": [
+   0.841,
+   0.067,
+   0.042,
+   0.049
+  ],
+  "p1_structure": {
+   "unique": 0.408,
+   "2-way tie": 0.196,
+   "3+ tie": 0.334,
+   "all zero": 0.062
+  },
+  "rm_gold_median": 0.2064134695713643,
+  "rm_nongold_median": 0.0
+ },
+ "qasper": {
+  "spont_dist": [
+   0.708,
+   0.107,
+   0.096,
+   0.089
+  ],
+  "p1_structure": {
+   "unique": 0.446,
+   "2-way tie": 0.118,
+   "3+ tie": 0.351,
+   "all zero": 0.085
+  },
+  "rm_gold_median": 0.7970588235294118,
+  "rm_nongold_median": 0.0
+ },
+ "symfever": {
+  "spont_dist": [
+   0.936,
+   0.031,
+   0.015,
+   0.018
+  ],
+  "p1_structure": {
+   "unique": 0.822,
+   "2-way tie": 0.046,
+   "3+ tie": 0.091,
+   "all zero": 0.041
+  },
+  "rm_gold_median": 1.0,
+  "rm_nongold_median": 0.0009775171065493637
+ }
+}

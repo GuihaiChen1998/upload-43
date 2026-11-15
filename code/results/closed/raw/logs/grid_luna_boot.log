@@ -1,0 +1,184 @@
+=== 2026-11-03T07:32:20Z start gpt-6-luna musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub
+V2 | gpt-6-luna | musique/union | todo 200 (done 0)
+  25/200 56s
+  50/200 105s
+  75/200 149s
+  100/200 218s
+  125/200 272s
+  150/200 342s
+  175/200 419s
+  200/200 511s
+  done 200/200  issued calls 1000  tokens 12131528/229997  truncated 0  ≈¥0.2656
+V3 | gpt-6-luna | musique/union | todo 200 (done 0)
+  25/200 19s
+  50/200 38s
+  75/200 49s
+  100/200 67s
+  125/200 85s
+  150/200 106s
+  175/200 128s
+  200/200 150s
+  done 200/200  issued calls 200  tokens 2473231/28956  truncated 0  ≈¥0.0524
+V4 | gpt-6-luna | musique/union | todo 200 (done 0)
+  25/200 48s
+  50/200 95s
+  75/200 141s
+  100/200 194s
+  125/200 245s
+  150/200 312s
+  175/200 379s
+  200/200 444s
+  done 200/200  issued calls 1000  tokens 11366190/148166  truncated 0  ≈¥0.2421
+V5 | gpt-6-luna | musique/union | todo 200 (done 0)
+  25/200 0s
+  50/200 0s
+  75/200 0s
+  100/200 0s
+  125/200 1s
+  150/200 1s
+  175/200 1s
+  200/200 1s
+  done 200/200  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6-luna | musique/union | todo 200 (done 0)
+  25/200 18s
+  50/200 41s
+  75/200 63s
+  100/200 87s
+  125/200 109s
+  150/200 141s
+  175/200 171s
+  200/200 197s
+  done 200/200  issued calls 200  tokens 2281953/52925  truncated 0  ≈¥0.0509
+V7 | gpt-6-luna | musique/union | todo 200 (done 0)
+  25/200 52s
+  50/200 104s
+  75/200 161s
+  100/200 224s
+  125/200 325s
+  150/200 451s
+  175/200 623s
+  200/200 830s
+  done 200/200  issued calls 1000  tokens 11835980/237334  truncated 0  ≈¥0.2605
+P2 | gpt-6-luna | musique/union | todo 200 (done 0)
+  25/200 480s
+  50/200 943s
+  75/200 1422s
+  100/200 2277s
+  125/200 2759s
+  150/200 3303s
+  175/200 3917s
+  ! 4hop3__129682_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000506, 需要预扣费额度: $0.001976 (request id: 20261103091913986268759BcPWxQ1lqw8M5Luo)
+  ! 4hop1__151903_5274_458768_33633: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001612, 需要预扣费额度: $0.001986 (request id: 20261103091944072080102BcPWxQ1laRrthq9F)
+  ! 4hop1__152146_5274_458768_33633: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001982 (request id: 20261103092102691033268BcPWxQ1lBTncvPVC)
+  ! 4hop2__71753_158279_70784_79935: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000506, 需要预扣费额度: $0.001956 (request id: 20261103091915174775214BcPWxQ1lKG8KPiwH)
+  ! 4hop1__166471_49925_13759_736921: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000506, 需要预扣费额度: $0.002022 (request id: 20261103091915270106213BcPWxQ1lMpHonPia)
+  ! 4hop1__636860_49925_13759_736921: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001674, 需要预扣费额度: $0.002034 (request id: 20261103091929842241585BcPWxQ1lfbQGPv2s)
+  ! 4hop1__105688_17130_70784_79935: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000506, 需要预扣费额度: $0.002028 (request id: 20261103091912639751022BcPWxQ1l1sp0WFdY)
+  ! 4hop1__752321_153080_159767_81096: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000506, 需要预扣费额度: $0.001996 (request id: 20261103091917924927633BcPWxQ1lqXfhToh6)
+  ! 4hop1__638988_17130_70784_61381: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.002022 (request id: 20261103092136980450577BcPWxQ1l2OV4EdjS)
+  ! 4hop1__88342_75218_128008_54974: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.002102 (request id: 20261103092149165512826BcPWxQ1lH9x9hCBf)
+  ! 4hop1__342858_131850_33952_34099: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001972 (request id: 20261103092514582134360BcPWxQ1l8o5yA7tU)
+  done 189/200  issued calls 12252  tokens 143888134/2155786  truncated 0  ≈¥3.0933
+P3 | gpt-6-luna | musique/union | todo 200 (done 0)
+=== 2026-11-03T09:41:14Z start gpt-6-luna musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub
+V2 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gpt-6-luna | musique/union | todo 11 (done 189)
+=== 2026-11-03T09:45:00Z start gpt-6-luna musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub
+V2 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gpt-6-luna | musique/union | todo 11 (done 189)
+  done 11/11  issued calls 345  tokens 4343293/125748  truncated 0  ≈¥0.0994
+P3 | gpt-6-luna | musique/union | todo 200 (done 0)
+  25/200 285s
+  50/200 525s
+  75/200 890s
+  100/200 1184s
+  125/200 1429s
+  150/200 1719s
+  175/200 2046s
+  200/200 2321s
+  done 200/200  issued calls 4799  tokens 63280861/747482  truncated 0  ≈¥1.3404
+P4 | gpt-6-luna | musique/union | todo 200 (done 0)
+  25/200 521s
+  50/200 878s
+  75/200 1287s
+  100/200 1752s
+  125/200 2217s
+  150/200 2879s
+  ! 4hop3__31333_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000194, 需要预扣费额度: $0.002000 (request id: 20261103111834684506907BcPWxQ1liQMXI0rU)
+  ! 4hop1__343844_17130_70784_79935: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000194, 需要预扣费额度: $0.002050 (request id: 20261103111834759543560BcPWxQ1l2E416c4S)
+  ! 4hop3__129754_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000722, 需要预扣费额度: $0.001950 (request id: 20261103111831262881405BcPWxQ1lUo9EfCmp)
+  ! 4hop1__152028_141441_458768_33633: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001950 (request id: 20261103111843273898096BcPWxQ1lb0p1gW9b)
+  ! 4hop1__429751_32392_823060_610794: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.002016 (request id: 20261103111841331927718BcPWxQ1l9v68fmTW)
+  ! 4hop2__5206_39078_8987_8974: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.002012 (request id: 20261103111844512481253BcPWxQ1lofuWh46D)
+  ! 4hop3__131775_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001992 (request id: 20261103111855215077032BcPWxQ1lEW5oX3Ms)
+  ! 4hop1__3496_5274_458768_33633: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001964 (request id: 20261103111906853068392BcPWxQ1lj2tRxcYd)
+  ! 4hop3__160230_470287_128875_72134: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001988 (request id: 20261103112449632783470BcPWxQ1laKnDYyHW)
+  ! 4hop1__3496_5274_458768_33677: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001978 (request id: 20261103112451406713728BcPWxQ1l6q1FElmR)
+  ! 4hop2__71753_648517_70784_79935: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001980 (request id: 20261103112456613112729BcPWxQ1lOcgdEPP5)
+  ! 4hop2__103790_14670_8987_8974: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.002028 (request id: 20261103112458826840637BcPWxQ1loguBsj3b)
+  ! 4hop3__710473_354093_254885_76356: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001938 (request id: 20261103112500221467716BcPWxQ1lQ4J2rGcU)
+  ! 4hop2__9988_158279_70784_61381: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001968 (request id: 20261103112500929875602BcPWxQ1lRPKVZ0hb)
+  ! 4hop3__322354_466199_695123_72134: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001956 (request id: 20261103112519075952895BcPWxQ1liveI6oV1)
+  ! 4hop1__118068_582428_157828_162309: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.002084 (request id: 20261103112728020405404BcPWxQ1lFUCTssNn)
+  ! 4hop2__103790_14670_8987_8529: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.002010 (request id: 20261103113312643364263BcPWxQ1lKDgX6Mhq)
+  ! 4hop3__130404_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001940 (request id: 20261103113314629704865BcPWxQ1lKadsRCyr)
+  ! 4hop2__71753_158985_70784_61381: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001990 (request id: 20261103113319222766356BcPWxQ1lZMTNB8kM)
+  ! 4hop1__58323_375563_161848_44231: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001992 (request id: 20261103113317494817149BcPWxQ1lpLwlkbAo)
+  ! 4hop2__103790_39078_8987_8529: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.002022 (request id: 20261103113315958610000BcPWxQ1ldmzUMlaL)
+  ! 4hop1__473563_309800_355213_203322: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.002006 (request id: 20261103113313041939518BcPWxQ1lfjRH92rJ)
+  ! 4hop1__161605_32392_823060_610794: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001982 (request id: 20261103113344206871460BcPWxQ1lptkBUWFi)
+=== 2026-11-03T13:57:45Z start gpt-6-luna musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub
+V2 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | gpt-6-luna | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | gpt-6-luna | musique/union | todo 47 (done 153)
+  25/47 669s
+  done 47/47  issued calls 2738  tokens 34686698/784499  truncated 0  ≈¥0.7722
+P5 | gpt-6-luna | musique/union | todo 200 (done 0)
+  25/200 2s
+  50/200 3s
+  75/200 5s
+  100/200 6s
+  125/200 8s
+  150/200 9s
+  175/200 10s
+  200/200 12s
+  done 200/200  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 28872, 'misses': 2738, 'hit_rate': 0.913381841189497}
+GRID_DONE sub gpt-6-luna musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+GRID_LINE_END gpt-6-luna musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub

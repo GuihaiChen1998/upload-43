@@ -1,0 +1,37 @@
+V1 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 34273/282  truncated 0  ≈¥0.0089
+V2 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+V1 | gpt-6.1-terra | hotpotqa/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V2 | gpt-6.1-terra | hotpotqa/intersection | todo 3 (done 3)
+  done 3/3  issued calls 11  tokens 63111/704  truncated 0  ≈¥0.0167
+V3 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 34667/54  truncated 0  ≈¥0.0087
+V4 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 30  tokens 173335/326  truncated 0  ≈¥0.0437
+V5 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 34459/594  truncated 0  ≈¥0.0094
+V7 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 30  tokens 172295/2228  truncated 0  ≈¥0.0459
+P1 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 78  tokens 436809/3104  truncated 0  ≈¥0.1131
+P2 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 198  tokens 1105401/8905  truncated 0  ≈¥0.2875
+P3 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 84  tokens 475312/1012  truncated 0  ≈¥0.1201
+P4 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 198  tokens 1115599/3133  truncated 0  ≈¥0.2828
+P5 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 370  tokens 1875746/14456  truncated 0  ≈¥0.4870
+LOI | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 56  tokens 256726/2057  truncated 0  ≈¥0.0668
+cache: {'hits': 844, 'misses': 1067, 'hit_rate': 0.4416535845107274}
+V1 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 34273/116  truncated 0  ≈¥0.0087
+P1 | gpt-6.1-terra | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 84  tokens 470980/1618  truncated 0  ≈¥0.1198
+cache: {'hits': 0, 'misses': 90, 'hit_rate': 0.0}

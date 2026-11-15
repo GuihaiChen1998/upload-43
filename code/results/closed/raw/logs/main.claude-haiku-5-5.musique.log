@@ -1,0 +1,302 @@
+V1 | claude-haiku-5-5 | musique/union | todo 762 (done 0)
+  25/762 17s
+  50/762 31s
+  75/762 46s
+  100/762 62s
+  125/762 75s
+  150/762 89s
+  175/762 105s
+  200/762 121s
+  225/762 135s
+  250/762 150s
+  275/762 166s
+  300/762 181s
+  325/762 196s
+  350/762 209s
+  375/762 224s
+  400/762 239s
+  425/762 261s
+  450/762 279s
+  475/762 296s
+  500/762 315s
+  525/762 336s
+  550/762 352s
+  575/762 369s
+  600/762 393s
+  625/762 410s
+  650/762 432s
+  675/762 454s
+  700/762 471s
+  725/762 500s
+  750/762 528s
+  done 762/762  issued calls 750  tokens 3203742/427940  truncated 1  ≈¥0.1336
+P1 | claude-haiku-5-5 | musique/union | todo 762 (done 0)
+  25/762 121s
+  50/762 245s
+  75/762 367s
+  100/762 486s
+  125/762 601s
+  150/762 759s
+  175/762 900s
+  200/762 1023s
+  225/762 1141s
+  250/762 1269s
+  275/762 1386s
+  300/762 1503s
+  325/762 1621s
+  350/762 1741s
+  375/762 1854s
+  400/762 1992s
+  425/762 2137s
+  450/762 2282s
+  475/762 2418s
+  500/762 2567s
+  525/762 2701s
+  550/762 2840s
+  575/762 2980s
+  600/762 3131s
+  625/762 3277s
+  650/762 3431s
+  675/762 3591s
+  700/762 3715s
+  725/762 3945s
+  750/762 4126s
+  done 762/762  issued calls 17873  tokens 72818698/8808764  truncated 3  ≈¥2.9216
+LOI | claude-haiku-5-5 | musique/union | todo 762 (done 0)
+  25/762 65s
+  50/762 254s
+  75/762 331s
+  100/762 397s
+  125/762 462s
+  150/762 525s
+  175/762 587s
+  200/762 648s
+  225/762 708s
+  250/762 779s
+  275/762 838s
+  300/762 899s
+  325/762 965s
+  350/762 1028s
+  375/762 1087s
+  400/762 1154s
+  425/762 1229s
+  450/762 1306s
+  475/762 1377s
+  500/762 1449s
+  525/762 1522s
+  550/762 1586s
+  575/762 1657s
+  600/762 1733s
+  625/762 1800s
+  650/762 1874s
+  675/762 1956s
+  700/762 2018s
+  725/762 2104s
+  750/762 2181s
+  done 762/762  issued calls 14984  tokens 5140984/4439050  truncated 0  ≈¥0.6834
+cache: {'hits': 1344, 'misses': 33607, 'hit_rate': 0.038453835369517325}
+V1 | claude-haiku-5-5 | musique/union | todo 762 (done 0)
+  25/762 17s
+  50/762 31s
+  75/762 45s
+  100/762 61s
+  125/762 75s
+  150/762 90s
+  175/762 105s
+  200/762 120s
+  225/762 134s
+  250/762 150s
+  275/762 165s
+  300/762 182s
+  325/762 198s
+  350/762 212s
+  375/762 227s
+V1 | claude-haiku-5-5 | musique/union | todo 0 (done 762)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | claude-haiku-5-5 | musique/union | todo 0 (done 762)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | claude-haiku-5-5 | musique/union | todo 0 (done 762)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | claude-haiku-5-5 | musique/union | todo 387 (done 375)
+  25/387 20s
+  50/387 37s
+  75/387 54s
+  100/387 73s
+  125/387 89s
+  150/387 103s
+  175/387 121s
+  200/387 137s
+  225/387 160s
+  250/387 178s
+  275/387 197s
+  300/387 217s
+  325/387 234s
+  350/387 265s
+  375/387 289s
+  done 387/387  issued calls 379  tokens 1653269/279019  truncated 1  ≈¥0.0762
+P1 | claude-haiku-5-5 | musique/union | todo 762 (done 0)
+  25/762 108s
+  50/762 220s
+  75/762 326s
+  100/762 443s
+  125/762 545s
+  150/762 646s
+  175/762 754s
+  200/762 874s
+  225/762 984s
+  250/762 1106s
+  275/762 1203s
+  300/762 1315s
+  325/762 1434s
+  350/762 1674s
+  375/762 1780s
+  ! 2hop__9223_9237: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021436273321384838268d9d685EUd2IO)
+  ! 2hop__89991_58067: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021436268419754638268d9d6qTK4pPCT)
+  ! 2hop__9174_9237: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021436272116240498268d9d68yxEQvJI)
+  ! 2hop__88834_425488: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021436268360348318268d9d60jeshAQb)
+  ! 2hop__91248_84207: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021436269277881768268d9d69rev5VO0)
+  ! 2hop__92385_2072: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021438331958909938268d9d6As2tHKdy)
+  ! 2hop__91713_289940: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021436269665773498268d9d6fBNjQ9jT)
+  ! 2hop__94507_654855: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021440388003266228268d9d6mXspGnIk)
+  ! 2hop__92590_43786: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021440390688491378268d9d6NuDZbx9p)
+  ! 2hop__9238_9237: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021440390341606658268d9d6RxWxNbeb)
+  ! 2hop__92716_319330: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021440396170533308268d9d6YtvdM1N6)
+  ! 2hop__9285_42311: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021440392850285968268d9d6gU6iFtiC)
+  ! 2hop__95172_152907: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021440396258290418268d9d6sJyAiThq)
+  ! 2hop__95687_2684: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021442443698145828268d9d6mRf3zPuq)
+  ! 2hop__9930_21567: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021442446060624218268d9d67eM19B8A)
+  ! 2hop__95970_152907: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021442446910049258268d9d6PC3uC24i)
+  ! 2hop__95773_51329: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021442445550579898268d9d6UJNqci1F)
+  ! 2hop__998_25855: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021442448348061418268d9d6Bski3OeY)
+  ! 2hop__96062_159673: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021442446374739988268d9d63IvpvCFF)
+  ! 3hop1__102087_214799_259594: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021444496354524808268d9d6Zvea9ZM0)
+  ! 3hop1__103197_214799_259594: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021444499701155538268d9d6vuFiLi42)
+  ! 3hop1__102461_24918_24991: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021444500546598948268d9d6aTI1Jz95)
+  ! 3hop1__103254_214799_259594: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021444501480055258268d9d6gnorEaHc)
+  ! 3hop1__103662_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021444502861811548268d9d6dcKf8gnd)
+  ! 3hop1__103180_214799_259594: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021444502369937828268d9d6rrR4bzDm)
+  ! 3hop1__103751_24918_24991: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021446555208744738268d9d6okJJzjfy)
+  ! 3hop1__105126_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021446560208724758268d9d6uCm0caXY)
+  ! 3hop1__104762_24918_24991: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021446559035958748268d9d6QNTzzNO2)
+  ! 3hop1__103881_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021446559953926298268d9d6s8GMg4Yb)
+  ! 3hop1__103890_10659_83548: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021446562223172608268d9d6WvmVhzHQ)
+  ! 3hop1__103890_10659_67187: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021446562562214728268d9d6cdmp4kDg)
+  ! 3hop1__106094_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021449017480617788268d9d68CqnvDnB)
+  ! 3hop1__105767_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021449017760216898268d9d63e1iI4s3)
+  ! 3hop1__109185_720914_41132: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021449019009424588268d9d6D2xPsk1E)
+  ! 3hop1__106864_160713_77246: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021449015498072758268d9d6fZ6rhHda)
+  ! 3hop1__106313_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021449020054903468268d9d6W5Gq3Wny)
+  ! 3hop1__106900_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021449022978830088268d9d60hNw1CIL)
+  ! 3hop1__131820_59747_90139: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021451083829869438268d9d6CSxZmbs7)
+  ! 3hop1__131829_39743_24526: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021451088776717208268d9d6WdGvfqhp)
+  ! 3hop1__131820_59747_43101: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021451092903880148268d9d64xaKO3EY)
+  ! 3hop1__131820_59747_60748: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021451096134376658268d9d64wdsbYm6)
+  ! 3hop1__120881_2053_52946: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021451097241357378268d9d6OmdC9JT5)
+  ! 3hop1__129499_33897_81096: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021451097443464678268d9d6m55xxbsL)
+  ! 3hop1__139773_88110_21193: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021453146297149518268d9d6U50pJYJ0)
+  ! 3hop1__136083_87694_124169: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021453144915761648268d9d6JBvFzutc)
+  ! 3hop1__135392_87694_124169: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021453147978765608268d9d6zv5Ea0el)
+  ! 3hop1__135659_87694_124169: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021453152133241838268d9d6pTfSVQWP)
+  ! 3hop1__136016_87694_124169: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021453152460614338268d9d6I5ite626)
+  ! 3hop1__139773_88110_77129: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021453155497743038268d9d6TsgDiKsS)
+  ! 3hop1__140345_2053_52946: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021455200517607098268d9d6JyK2zL9w)
+  ! 3hop1__140786_2053_5289: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021455202160278288268d9d6RzkcHtOG)
+  ! 3hop1__139862_2053_5289: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021455205594904618268d9d6xdYyBoz2)
+  ! 3hop1__139862_2053_52946: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021455205674677748268d9d6CMMpcT8a)
+  ! 3hop1__140554_2053_52946: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021455209510140248268d9d6K7qiXNS5)
+  ! 3hop1__140786_2053_52946: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021455210707862628268d9d6qcfjfALM)
+  ! 3hop1__140855_2053_5289: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021457261353170908268d9d6LDVV2zny)
+  ! 3hop1__140855_2053_52946: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021457265876502358268d9d6oYTAmatp)
+  ! 3hop1__144439_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021457268665378478268d9d6qCugzCWX)
+  ! 3hop1__141138_2053_52946: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021457268816125248268d9d6UJe6Putc)
+  ! 3hop1__145194_160545_34751: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021457269465973508268d9d64L6rgndn)
+  ! 3hop1__140994_2053_52946: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021457271146871198268d9d6eYsVAmbz)
+  ! 3hop1__145212_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021459316578437698268d9d64FrVzDRq)
+  ! 3hop1__145290_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021459318863362868268d9d6WCebdbwy)
+  ! 3hop1__146155_131905_41948: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021459322127207538268d9d63g9WIN1O)
+  ! 3hop1__145411_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021459320173937408268d9d65mN0ti3v)
+  ! 3hop1__145194_160545_34754: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021459323418964288268d9d6NgbhhIV1)
+  ! 3hop1__145427_106426_77199: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021459330143201128268d9d6pRVmJX2q)
+  ! 3hop1__147162_131905_41948: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021501379306917358268d9d63KmK7hRK)
+  ! 3hop1__158139_19788_15107: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021501381738942248268d9d6855SnbOL)
+  ! 3hop1__157807_19788_15107: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021501381894438778268d9d6YX5NQSfC)
+  ! 3hop1__152880_131926_13165: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021501382031737498268d9d6BxIu0fOt)
+  ! 3hop1__147135_159767_81096: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021501382711272658268d9d6jyUyxwIZ)
+  ! 3hop1__158848_66089_86107: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021501384585935278268d9d63f1V5UH7)
+  ! 3hop1__161433_33952_33939: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021503441692672188268d9d6yFgQbij5)
+  ! 3hop1__174833_650651_7262: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021503441993179408268d9d6788cA8gZ)
+  ! 3hop1__160324_131905_41948: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021503444693381498268d9d6sKwDggnt)
+  ! 3hop1__19768_19788_10117: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021503444981423398268d9d6Tz0Teo4S)
+  ! 3hop1__178435_547811_41132: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021503445930750578268d9d6TmeGpyrk)
+  ! 3hop1__163024_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021503452789462118268d9d6fsTWMVKG)
+  ! 3hop1__210639_147339_51423: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021505497197250728268d9d62L9W5gjY)
+  ! 3hop1__19768_19788_15107: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021505501254241338268d9d6kY5aAH2o)
+  ! 3hop1__222497_737465_93723: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021505501010514398268d9d6QyG0x5S8)
+  ! 3hop1__222380_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021505505078930228268d9d6b73xI5Jn)
+  ! 3hop1__19768_19788_19761: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021505507585189908268d9d6tOC6TLsY)
+  ! 3hop1__208108_547811_80702: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 403 - Insufficient user quota, remaining quota: ＄-0.004564 (request id: 202611021505510595592418268d9d6S29azjmy)
+  400/762 3816s
+  425/762 3946s
+  450/762 4079s
+  475/762 4190s
+  500/762 4323s
+  525/762 4454s
+  550/762 4591s
+  575/762 4727s
+  600/762 4852s
+  625/762 5020s
+  650/762 5218s
+  675/762 5395s
+  done 677/762  issued calls 15862  tokens 64084726/7674704  truncated 2  ≈¥2.5615
+cache: {'hits': 296, 'misses': 16345, 'hit_rate': 0.017787392584580255}
+RM64 | claude-haiku-5-5 | musique/union | todo 762 (done 0)
+  25/762 214s
+  50/762 444s
+  75/762 687s
+  100/762 920s
+  125/762 1133s
+  150/762 1341s
+V1 | claude-haiku-5-5 | musique/union | todo 0 (done 762)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | claude-haiku-5-5 | musique/union | todo 0 (done 762)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | claude-haiku-5-5 | musique/union | todo 0 (done 762)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | claude-haiku-5-5 | musique/union | todo 0 (done 762)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | claude-haiku-5-5 | musique/union | todo 85 (done 677)
+  25/85 126s
+  50/85 280s
+  75/85 408s
+  done 85/85  issued calls 1984  tokens 8556689/1102140  truncated 0  ≈¥0.3517
+cache: {'hits': 49, 'misses': 1984, 'hit_rate': 0.024102311854402363}
+RM64 | claude-haiku-5-5 | musique/union | todo 601 (done 161)
+  25/601 213s
+  50/601 409s
+  75/601 628s
+  100/601 830s
+  125/601 1038s
+  150/601 1283s
+  175/601 1482s
+  200/601 1685s
+  225/601 1909s
+  250/601 2165s
+  275/601 2438s
+  300/601 2704s
+  325/601 2975s
+  350/601 3242s
+  375/601 3470s
+  400/601 3701s
+  425/601 3967s
+  450/601 4239s
+  475/601 4502s
+  500/601 4745s
+  525/601 4992s
+  550/601 5294s
+  575/601 5641s
+  600/601 5917s
+  done 601/601  issued calls 37658  tokens 82512136/19588381  truncated 3  ≈¥4.5114
+cache: {'hits': 1405, 'misses': 37658, 'hit_rate': 0.03596753961549292}
+MAIN_DONE claude-haiku-5-5 musique

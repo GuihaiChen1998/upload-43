@@ -1,0 +1,41 @@
+\begin{table*}[t]
+\centering\footnotesize
+\caption{Results per cell on its common valid set ($n$: instances with records for all compared estimators and a valid reference wherever one is required; QA: test split, Symmetric FEVER: evidence-dependent set). Top-1: tie-aware gold top-1. $\Delta$RM64: RM64 $-$ \Vb{1} with 95\% paired bootstrap interval (FEVER: claim families, Qasper: papers resampled). Eq.: its 90\% interval lies within $\pm$0.05 (\checkmark), above ($\uparrow$) or below ($\downarrow$) zero, or none of these (?). Agree: share of instances on which \Vb{1}'s own answer equals the reference $a_0$; $\Delta$\Pb{1}$|$agree: \Pb{1} $-$ \Vb{1} on those instances. Routing: LOI escalated to RM64 when its maximum is not unique; esc.: share escalated; calls: routed / RM64 nominal calls; save: fewer calls; $\Delta$: routed $-$ RM64 top-1. On FEVER, flash and terra were run without RM.}
+\label{tab:main}
+\setlength{\tabcolsep}{2.9pt}
+\begin{tabular}{@{}llr ccccc cc cc cccc@{}}
+\toprule
+ & & & \multicolumn{5}{c}{top-1} & & & \multicolumn{2}{c}{alignment} & \multicolumn{4}{c}{routing LOI $\to$ RM64} \\
+\cmidrule(lr){4-8}\cmidrule(lr){11-12}\cmidrule(l){13-16}
+Data & Model & $n$ & \Vb{1} & \Pb{1} & MExGen & LOI & RM64 & $\Delta$RM64 [95\% CI] & Eq. & agree & $\Delta$\Pb{1}$|$agr. & esc. & calls & save & $\Delta$ \\
+\midrule
+HotpotQA & haiku & 510 & .962 & .737 & .781 & .751 & .947 & $-$.015 [$-$.033, +.002] & \checkmark & .95 & $-$.207 & 44\% & 38/63 & 39\% & $-$.005 \\
+ & luna & 155 & .973 & .596 & .634 & .713 & .901 & $-$.072 [$-$.116, $-$.034] & $\downarrow$ & .90 & $-$.348 & 53\% & 43/63 & 31\% & +.013 \\
+ & flash-lite & 291 & .961 & .719 & .774 & .873 & .968 & +.006 [$-$.012, +.023] & \checkmark & .93 & $-$.214 & 34\% & 32/63 & 49\% & $-$.003 \\
+\addlinespace[2pt]
+ & flash & 81 & .986 & .683 & .713 & .913 & 1.000 & +.014 [+.000, +.033] & \checkmark & .95 & $-$.282 & 46\% & 39/63 & 37\% & +.000 \\
+ & terra & 64 & .987 & .538 & .599 & .866 & .969 & $-$.018 [$-$.073, +.021] & ? & .94 & $-$.427 & 66\% & 52/63 & 18\% & +.000 \\
+\midrule
+MuSiQue & haiku & 747 & .950 & .734 & .807 & .396 & .948 & $-$.002 [$-$.020, +.016] & \checkmark & .87 & $-$.159 & 69\% & 65/65 & 0\% & $-$.004 \\
+ & luna & 602 & .952 & .596 & .676 & .749 & .890 & $-$.062 [$-$.086, $-$.036] & $\downarrow$ & .82 & $-$.284 & 38\% & 46/65 & 30\% & +.000 \\
+ & flash-lite & 774 & .934 & .718 & .790 & .792 & .980 & +.047 [+.032, +.060] & $\uparrow$ & .89 & $-$.181 & 27\% & 39/65 & 41\% & $-$.004 \\
+\addlinespace[2pt]
+ & flash & 62 & .953 & .775 & .810 & .867 & .968 & +.015 [$-$.023, +.052] & \checkmark & .97 & $-$.161 & 23\% & 35/65 & 45\% & +.000 \\
+ & terra & 54 & .975 & .760 & .793 & .880 & .981 & +.006 [$-$.040, +.046] & \checkmark & .91 & $-$.161 & 22\% & 35/65 & 46\% & +.000 \\
+\midrule
+Qasper & haiku & 294 & .866 & .505 & .749 & .661 & .768 & $-$.099 [$-$.144, $-$.055] & $\downarrow$ & .73 & $-$.253 & 37\% & 34/63 & 46\% & +.055 \\
+ & luna & 260 & .892 & .518 & .770 & .628 & .832 & $-$.060 [$-$.103, $-$.021] & $\downarrow$ & .72 & $-$.278 & 42\% & 37/63 & 41\% & +.003 \\
+ & flash-lite & 304 & .935 & .603 & .782 & .739 & .875 & $-$.060 [$-$.099, $-$.022] & $\downarrow$ & .81 & $-$.260 & 28\% & 28/63 & 55\% & $-$.013 \\
+\addlinespace[2pt]
+ & flash & 296 & .950 & .617 & .773 & .751 & .881 & $-$.069 [$-$.105, $-$.034] & $\downarrow$ & .79 & $-$.259 & 27\% & 28/63 & 56\% & +.000 \\
+ & terra & 258 & .868 & .487 & .730 & .639 & .776 & $-$.093 [$-$.142, $-$.046] & $\downarrow$ & .73 & $-$.301 & 39\% & 35/63 & 44\% & +.002 \\
+\midrule
+Sym.~FEVER & haiku & 678 & .973 & .882 & .882 & .928 & .978 & +.005 [$-$.008, +.019] & \checkmark & .97 & $-$.084 & 9\% & 17/63 & 73\% & +.004 \\
+ & luna & 764 & .979 & .844 & .844 & .922 & .962 & $-$.017 [$-$.031, $-$.003] & \checkmark & .98 & $-$.128 & 10\% & 17/63 & 72\% & +.003 \\
+ & flash-lite & 742 & .990 & .883 & .883 & .927 & .979 & $-$.012 [$-$.023, $-$.001] & \checkmark & .99 & $-$.101 & 11\% & 18/63 & 72\% & +.000 \\
+\addlinespace[2pt]
+ & flash & 750 & .991 & .871 & .871 & .929 & -- & -- & -- & .98 & $-$.106 & -- & -- & -- & -- \\
+ & terra & 722 & .969 & .859 & .859 & .924 & -- & -- & -- & .96 & $-$.101 & -- & -- & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table*}

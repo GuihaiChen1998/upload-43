@@ -1,0 +1,451 @@
+{
+ "summary": {
+  "model": "gpt-6-luna",
+  "endpoint": "s3ai",
+  "k": 5,
+  "probes": {
+   "open": {
+    "0.01": {
+     "distinct_texts": 5,
+     "distinct_answers": null
+    },
+    "0.7": {
+     "distinct_texts": 4,
+     "distinct_answers": null
+    }
+   },
+   "task:2hop__460946_294723": {
+    "0.01": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    },
+    "0.7": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    }
+   },
+   "task:2hop__252311_366220": {
+    "0.01": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    },
+    "0.7": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    }
+   },
+   "task:2hop__701895_752697": {
+    "0.01": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    },
+    "0.7": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    }
+   }
+  }
+ },
+ "rows": [
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 0,
+   "text": "Mothvolt Café",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 1,
+   "text": "Velvet Static",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 2,
+   "text": "Velvet Kettle",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 3,
+   "text": "Moth & Moka",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 4,
+   "text": "Mothmug",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 0,
+   "text": "Mothmilk Café",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 1,
+   "text": "Mothmilk",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 2,
+   "text": "Kettlewisp",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 3,
+   "text": "Velvet Kettle",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 4,
+   "text": "Mothmilk Café",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6-luna"
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+=== 2026-11-03T07:32:21Z start gpt-6-luna hotpotqa V2,V3,V4,V5,V6,V7,P2,P3 sub,full
+V2 | gpt-6-luna | hotpotqa/union | todo 166 (done 0)
+  25/166 359s
+  50/166 657s
+  75/166 1066s
+  100/166 1552s
+  125/166 2240s
+  150/166 2842s
+  done 166/166  issued calls 830  tokens 4550776/38764  truncated 0  ≈¥0.0949
+V3 | gpt-6-luna | hotpotqa/union | todo 166 (done 0)
+  25/166 69s
+  50/166 171s
+  75/166 219s
+  100/166 341s
+  125/166 431s
+  150/166 523s
+  done 166/166  issued calls 166  tokens 1660491/8842  truncated 0  ≈¥0.0341
+V4 | gpt-6-luna | hotpotqa/union | todo 166 (done 0)
+  25/166 913s
+  50/166 1916s
+  75/166 2419s
+  100/166 3175s
+=== 2026-11-03T09:41:16Z start gpt-6-luna hotpotqa V2,V3,V4,V5,V6,V7,P2,P3 sub,full
+V2 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gpt-6-luna | hotpotqa/union | todo 51 (done 115)
+  25/51 406s
+  50/51 688s
+  done 51/51  issued calls 246  tokens 1464694/5367  truncated 0  ≈¥0.0298
+V5 | gpt-6-luna | hotpotqa/union | todo 166 (done 0)
+  25/166 0s
+  50/166 0s
+  75/166 0s
+  100/166 0s
+  125/166 0s
+  150/166 0s
+  done 166/166  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6-luna | hotpotqa/union | todo 166 (done 0)
+  25/166 57s
+  50/166 136s
+  75/166 278s
+  100/166 383s
+  125/166 437s
+  150/166 474s
+  done 166/166  issued calls 166  tokens 2180254/11856  truncated 0  ≈¥0.0448
+V7 | gpt-6-luna | hotpotqa/union | todo 166 (done 0)
+  25/166 229s
+  50/166 429s
+  75/166 628s
+  100/166 807s
+  125/166 1043s
+  150/166 1262s
+  done 166/166  issued calls 830  tokens 13598203/71443  truncated 0  ≈¥0.2791
+P2 | gpt-6-luna | hotpotqa/union | todo 166 (done 0)
+  25/166 931s
+  50/166 2150s
+  75/166 3252s
+=== 2026-11-03T11:41:27Z start gpt-6-luna hotpotqa V2,V3,V4,V5,V6,V7,P2,P3 sub,full
+V2 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gpt-6-luna | hotpotqa/union | todo 68 (done 98)
+  25/68 1304s
+  50/68 2700s
+  done 68/68  issued calls 2147  tokens 14887579/69591  truncated 0  ≈¥0.3047
+refusing to resume /home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../results/closed/raw/hotpotqa/gpt-6-luna/grid_sub/P3.jsonl: run configuration differs from its manifest in ['fingerprint']. Use a different --out-root or --repeat.
+V2 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 0s
+  50/178 0s
+  75/178 0s
+  100/178 0s
+  125/178 0s
+  150/178 0s
+  175/178 0s
+  done 178/178  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 0s
+  50/178 0s
+  75/178 0s
+  100/178 0s
+  125/178 0s
+  150/178 0s
+  175/178 0s
+  done 178/178  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 0s
+  50/178 0s
+  75/178 0s
+  100/178 0s
+  125/178 0s
+  150/178 0s
+  175/178 0s
+  done 178/178  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 0s
+  50/178 0s
+  75/178 0s
+  100/178 0s
+  125/178 0s
+  150/178 0s
+  175/178 0s
+  done 178/178  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 0s
+  50/178 0s
+  75/178 0s
+  100/178 0s
+  125/178 0s
+  150/178 0s
+  175/178 0s
+  done 178/178  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 0s
+  50/178 0s
+  75/178 0s
+  100/178 0s
+  125/178 0s
+  150/178 0s
+  175/178 0s
+  done 178/178  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 0s
+  50/178 1s
+  75/178 1s
+  100/178 1s
+  125/178 1s
+  150/178 1s
+  175/178 1s
+  done 178/178  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 545s
+  50/178 1483s
+  75/178 2050s
+  100/178 2566s
+=== 2026-11-03T13:41:45Z start gpt-6-luna hotpotqa V2,V3,V4,V5,V6,V7,P2,P3 sub,full
+V2 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gpt-6-luna | hotpotqa/union | todo 0 (done 166)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+refusing to resume /home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../results/closed/raw/hotpotqa/gpt-6-luna/grid_sub/P3.jsonl: run configuration differs from its manifest in ['fingerprint']. Use a different --out-root or --repeat.
+V2 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | gpt-6-luna | hotpotqa/union | todo 59 (done 119)
+  25/59 1431s
+  50/59 2769s
+  done 59/59  issued calls 737  tokens 4254313/17792  truncated 0  ≈¥0.0869
+cache: {'hits': 915, 'misses': 737, 'hit_rate': 0.5538740920096852}
+GRID_DONE full gpt-6-luna hotpotqa V2,V3,V4,V5,V6,V7,P2,P3
+GRID_LINE_END gpt-6-luna hotpotqa V2,V3,V4,V5,V6,V7,P2,P3 sub,full

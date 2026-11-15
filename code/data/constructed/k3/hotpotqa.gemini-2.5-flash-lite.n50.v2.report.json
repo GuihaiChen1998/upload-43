@@ -1,0 +1,29 @@
+{
+ "dataset": "hotpotqa",
+ "model": "gemini-2.5-flash-lite",
+ "pool": "union",
+ "n_evaluable": 303,
+ "eligibility": {
+  "several_answer_passages": 75,
+  "eligible": 228
+ },
+ "n_base_built": 50,
+ "build": {
+  "ok": 50
+ },
+ "n_variants": 250,
+ "conditions": [
+  "F",
+  "C",
+  "FF",
+  "CF",
+  "CC"
+ ],
+ "hop_counts": {
+  "null": 50
+ },
+ "filler_len_gap_mean": 0.025,
+ "filler_len_gap_max": 0.049,
+ "k3_version": "v2",
+ "content_sha256": "7c48e8185be755486b1d18c8239317848f11a2cf0b07aaa07d949ffd7b55b9f7"
+}

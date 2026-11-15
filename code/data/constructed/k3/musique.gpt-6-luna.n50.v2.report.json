@@ -1,0 +1,31 @@
+{
+ "dataset": "musique",
+ "model": "gpt-6-luna",
+ "pool": "union",
+ "n_evaluable": 614,
+ "eligibility": {
+  "eligible": 577,
+  "several_answer_passages": 37
+ },
+ "n_base_built": 50,
+ "build": {
+  "ok": 50
+ },
+ "n_variants": 250,
+ "conditions": [
+  "F",
+  "C",
+  "FF",
+  "CF",
+  "CC"
+ ],
+ "hop_counts": {
+  "2": 17,
+  "3": 17,
+  "4": 16
+ },
+ "filler_len_gap_mean": 0.026,
+ "filler_len_gap_max": 0.05,
+ "k3_version": "v2",
+ "content_sha256": "80f7630e41ffa83a2f18013e4d6cdf10a3067b26380d7c5eace26cdf51ffeeef"
+}

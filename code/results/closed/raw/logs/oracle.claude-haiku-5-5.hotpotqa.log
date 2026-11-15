@@ -1,0 +1,2 @@
+drop-gold oracle | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  done 522/522  issued calls 1565  ≈¥0.1750  cache {'hits': 1, 'misses': 1565, 'hit_rate': 0.0006385696040868455}

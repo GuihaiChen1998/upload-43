@@ -1,0 +1,2 @@
+drop-gold oracle | claude-haiku-5-5 | musique/union | todo 762 (done 0)
+  done 762/762  issued calls 2286  ≈¥0.3604  cache {'hits': 0, 'misses': 2286, 'hit_rate': 0.0}

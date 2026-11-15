@@ -1,0 +1,13 @@
+dataset,model,P1_nongold_any_change_frac,P1_nongold_per_draw_rate,P2_nongold_any_change_frac,P2_nongold_per_draw_rate,P4_nongold_any_change_frac,P4_nongold_per_draw_rate
+hotpotqa,qwen3-1.7b,0.0544,0.0544,0.0629,0.0529,0.0629,0.0529
+hotpotqa,qwen3-4b,0.0266,0.0266,0.0316,0.0257,0.0316,0.0257
+hotpotqa,qwen3-8b,0.029,0.029,0.0354,0.0293,0.0354,0.0293
+hotpotqa,gemma3-1b,0.1026,0.1026,0.1399,0.1059,0.1399,0.1059
+hotpotqa,gemma3-4b,0.0401,0.0401,0.0455,0.0401,0.0455,0.0401
+hotpotqa,gemma3-12b,0.0136,0.0136,0.0197,0.0127,0.0197,0.0127
+musique,qwen3-1.7b,0.1341,0.1341,0.1701,0.1325,0.1701,0.1325
+musique,qwen3-4b,0.0597,0.0597,0.0729,0.0582,0.0729,0.0582
+musique,qwen3-8b,0.058,0.058,0.0847,0.0636,0.0847,0.0636
+musique,gemma3-1b,0.1338,0.1338,0.1752,0.1387,0.1752,0.1387
+musique,gemma3-4b,0.0538,0.0538,0.0722,0.0596,0.0722,0.0596
+musique,gemma3-12b,0.052,0.052,0.0692,0.0562,0.0692,0.0562

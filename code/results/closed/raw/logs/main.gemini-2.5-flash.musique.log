@@ -1,0 +1,44 @@
+V1 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 16s
+  50/68 24s
+  done 68/68  issued calls 62  tokens 186961/2008  truncated 0  ≈¥0.0220
+P1 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 101s
+  50/68 194s
+  done 68/68  issued calls 1425  tokens 4067291/23367  truncated 0  ≈¥0.4601
+LOI | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 88s
+  50/68 156s
+  done 68/68  issued calls 1239  tokens 449121/15558  truncated 0  ≈¥0.0624
+cache: {'hits': 400, 'misses': 2726, 'hit_rate': 0.12795905310300704}
+V1 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 13s
+  50/68 24s
+  done 68/68  issued calls 62  tokens 186686/2026  truncated 0  ≈¥0.0220
+P1 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 114s
+  50/68 224s
+  done 68/68  issued calls 1487  tokens 4239255/24392  truncated 0  ≈¥0.4795
+cache: {'hits': 150, 'misses': 1549, 'hit_rate': 0.08828722778104768}
+RM64 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 308s
+  50/68 610s
+  done 68/68  issued calls 3967  tokens 6330640/67511  truncated 0  ≈¥0.7438
+cache: {'hits': 453, 'misses': 3967, 'hit_rate': 0.10248868778280543}
+MAIN_DONE gemini-2.5-flash musique
+V1 | gemini-2.5-flash | musique/intersection | todo 0 (done 68)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gemini-2.5-flash | musique/intersection | todo 0 (done 68)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gemini-2.5-flash | musique/intersection | todo 0 (done 68)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | gemini-2.5-flash | musique/intersection | todo 0 (done 68)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gemini-2.5-flash | musique/intersection | todo 0 (done 68)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | gemini-2.5-flash | musique/intersection | todo 0 (done 68)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+MAIN_DONE gemini-2.5-flash musique

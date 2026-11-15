@@ -1,0 +1,11 @@
+name: qwen3-8b
+backend: openai
+model: /data1/ekyang/cgh/cache/huggingface_hub/hub/models--Qwen--Qwen3-8B
+base_url: http://localhost:8000/v1
+family: qwen3
+params_b: 8
+disable_thinking: true      # hard switch via chat_template_kwargs
+gen:
+  top_p: 0.8                # Qwen3 non-thinking best practice
+  top_k: 20
+  max_tokens: 256

@@ -1,0 +1,37 @@
+V1 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 52669/7531  truncated 0  ≈¥0.0023
+V2 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+V1 | claude-haiku-5-5 | musique/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V2 | claude-haiku-5-5 | musique/union | todo 1 (done 11)
+  done 1/1  issued calls 1  tokens 4594/634  truncated 0  ≈¥0.0002
+V3 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 54035/6071  truncated 0  ≈¥0.0021
+V4 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 270160/31735  truncated 0  ≈¥0.0107
+V5 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 53209/8317  truncated 0  ≈¥0.0024
+V7 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 266045/37357  truncated 0  ≈¥0.0113
+P1 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 286  tokens 1194119/141929  truncated 0  ≈¥0.0476
+P2 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 756  tokens 3143303/389707  truncated 0  ≈¥0.1273
+P3 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 288  tokens 1228607/148579  truncated 0  ≈¥0.0493
+P4 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 756  tokens 3206669/393662  truncated 0  ≈¥0.1294
+P5 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 768  tokens 1708892/406301  truncated 0  ≈¥0.0935
+LOI | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 240  tokens 83640/81087  truncated 0  ≈¥0.0122
+cache: {'hits': 2838, 'misses': 3239, 'hit_rate': 0.4670067467500411}
+V1 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 52669/7199  truncated 0  ≈¥0.0022
+P1 | claude-haiku-5-5 | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 288  tokens 1204634/145042  truncated 0  ≈¥0.0482
+cache: {'hits': 0, 'misses': 300, 'hit_rate': 0.0}

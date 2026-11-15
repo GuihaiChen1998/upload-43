@@ -1,0 +1,31 @@
+{
+ "aggregation": {
+  "beta": 0.3,
+  "lambda": 0.5,
+  "tau": 0.5
+ },
+ "dataset": "hotpotqa",
+ "exclude_qids": "results/closed/raw/hotpotqa/gemini-2.5-flash-lite/pilot/qids.json",
+ "fingerprint": {
+  "backend": "OpenAIBackend",
+  "base_url": "https://open.xiaojingai.com/v1",
+  "disable_thinking": false,
+  "extra": {},
+  "extra_body": {},
+  "max_tokens": 1024,
+  "presence_penalty": 0.0,
+  "send_thinking_kwarg": false,
+  "top_k": 20,
+  "top_p": null
+ },
+ "full_repeats": 0,
+ "method": "V2",
+ "model": "gemini-2.5-flash-lite",
+ "n_samples": 5,
+ "pool": "union",
+ "repeat": 0,
+ "rm_k": null,
+ "sample_n": 200,
+ "sample_seed": 0,
+ "script": "17_run_closed"
+}

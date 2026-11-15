@@ -1,0 +1,27 @@
+{
+ "dataset": "hotpotqa",
+ "model": "gpt-6-luna",
+ "pool": "union",
+ "n_evaluable": 178,
+ "eligibility": {
+  "eligible": 142,
+  "several_answer_passages": 36
+ },
+ "n_base_built": 50,
+ "build": {
+  "ok": 50
+ },
+ "n_variants": 250,
+ "conditions": [
+  "F",
+  "C",
+  "FF",
+  "CF",
+  "CC"
+ ],
+ "hop_counts": {
+  "null": 50
+ },
+ "filler_len_gap_mean": 0.026,
+ "filler_len_gap_max": 0.05
+}

@@ -1,0 +1,91 @@
+=== 2026-11-03T09:29:40Z start gpt-6-luna hotpotqa P4,P5 sub,full
+P4 | gpt-6-luna | hotpotqa/union | todo 166 (done 0)
+  ! 5a710d155542994082a3e520: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001932 (request id: 20261103093118474737758BcPWxQ1lfIda3sdD)
+  ! 5a74655b55429974ef308bf0: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001968 (request id: 20261103093118601576366BcPWxQ1loKwJIwCH)
+  ! 5a739b1955429978a71e9044: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001924 (request id: 20261103093118630338330BcPWxQ1lAGRk7WYf)
+  ! 5a72a4645542991f9a20c54c: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001880 (request id: 20261103093119058596212BcPWxQ1llmHfvnw4)
+  ! 5a75e62f5542992d0ec06013: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001904 (request id: 20261103093325929892323BcPWxQ1l4UpfrHov)
+  ! 5a75639255429916b01642f7: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001890 (request id: 20261103093325917520182BcPWxQ1lEQBKhAtm)
+  ! 5a75083b5542996c70cfae7e: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001902 (request id: 20261103093326205251663BcPWxQ1l2ryW1RL9)
+  ! 5a7666095542992d0ec060db: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001904 (request id: 20261103093326211892620BcPWxQ1l70A9xzRs)
+  ! 5a77414155429972597f14d7: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001912 (request id: 20261103093533539535083BcPWxQ1lG0boVbdo)
+  ! 5a7734ce5542993735360217: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001964 (request id: 20261103093533622288307BcPWxQ1lAAm9nC0L)
+  ! 5a7768cb5542993569682d88: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001894 (request id: 20261103093533647535000BcPWxQ1lLrO7HBAx)
+  ! 5a77769e5542997042120a65: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001902 (request id: 20261103093533856920729BcPWxQ1lJCDU7QSQ)
+  ! 5a77d2d25542992a6e59dfe2: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001924 (request id: 20261103093740908741702BcPWxQ1lJsMp9Q0x)
+  ! 5a77a14655429949eeb29f13: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001976 (request id: 20261103093740942401529BcPWxQ1lpGS9xljf)
+  ! 5a77f4755542992a6e59e01f: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001884 (request id: 20261103093741060326318BcPWxQ1l1bx8pgWh)
+  ! 5a77a3a355429967ab105211: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001888 (request id: 20261103093741408596223BcPWxQ1lhsTVktlH)
+  ! 5a79c8fa5542994bb94570a1: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001932 (request id: 20261103093948277979949BcPWxQ1lrNgMzp3n)
+  ! 5a78a7025542990784727710: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001942 (request id: 20261103093948363497505BcPWxQ1lOADVVoRs)
+  ! 5a78f18855429974737f7915: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001896 (request id: 20261103093948406806878BcPWxQ1lOexO7kV1)
+  ! 5a79db655542994bb94570f4: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.001294, 需要预扣费额度: $0.001990 (request id: 20261103093949128239502BcPWxQ1lLGcE5zsc)
+=== 2026-11-03T09:45:02Z start gpt-6-luna hotpotqa P4,P5 sub,full
+P4 | gpt-6-luna | hotpotqa/union | todo 166 (done 0)
+  25/166 816s
+  50/166 1778s
+  75/166 2557s
+  100/166 3373s
+  125/166 4235s
+  150/166 5054s
+  ! 5ae789615542997ec2727695: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000194, 需要预扣费额度: $0.001882 (request id: 20261103111835133378289BcPWxQ1llLr850Lk)
+  ! 5ae830f05542997ec2727758: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001930 (request id: 20261103112040895251228BcPWxQ1lktK8S0bV)
+  ! 5ae82ae555429952e35eaa71: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000194, 需要预扣费额度: $0.001980 (request id: 20261103111834466886434BcPWxQ1la4FwPXJm)
+  ! 5ae81032554299540e5a572a: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001876 (request id: 20261103111842007370127BcPWxQ1lXYa9qlI8)
+  ! 5ae80d25554299540e5a5709: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001880 (request id: 20261103111848188104132BcPWxQ1lOU0HUXtY)
+  done 161/166  issued calls 11017  tokens 140494274/692634  truncated 0  ≈¥2.8791
+P5 | gpt-6-luna | hotpotqa/union | todo 166 (done 0)
+  25/166 1s
+  50/166 1s
+  75/166 2s
+  100/166 3s
+  125/166 4s
+  150/166 4s
+  ! 5ae789615542997ec2727695: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001882 (request id: 20261103112716050494021BcPWxQ1leScyyyIh)
+  ! 5ae830f05542997ec2727758: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001930 (request id: 20261103112923209064637BcPWxQ1ljFRg8nyJ)
+  ! 5ae82ae555429952e35eaa71: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001980 (request id: 20261103112715405753423BcPWxQ1llOO4rcCd)
+  ! 5ae81032554299540e5a572a: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001876 (request id: 20261103112715994528977BcPWxQ1lQQrtMwUz)
+  ! 5ae80d25554299540e5a5709: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001880 (request id: 20261103112715723932651BcPWxQ1lG9vE7yjs)
+  done 161/166  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 11029, 'misses': 11069, 'hit_rate': 0.49909494071861704}
+GRID_DONE sub gpt-6-luna hotpotqa P4,P5
+P4 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 1s
+  ! 5a7cc0d4554299452d57ba07: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001920 (request id: 20261103113546453334820BcPWxQ1l2rmFCIRu)
+  ! 5a7e86245542991319bc94ce: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001896 (request id: 20261103113546523340585BcPWxQ1l20DyQOgo)
+  ! 5a7a05485542990198eaf04c: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001902 (request id: 20261103113546482162865BcPWxQ1lrnuqikTH)
+  ! 5a7a0a2d5542990783324e06: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001938 (request id: 20261103113546578133281BcPWxQ1lmBuV6Cys)
+  50/178 128s
+  75/178 129s
+  ! 5a8adbf55542992d82986fab: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001910 (request id: 20261103113754168764660BcPWxQ1lsVL68gid)
+  ! 5a866fed554299211dda2b2e: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001942 (request id: 20261103113754212022051BcPWxQ1lEuYq2TiU)
+  ! 5a9023d355429916514e742f: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001924 (request id: 20261103113754518673700BcPWxQ1lOdLHi3GD)
+  ! 5ab42b8955429942dd415ea6: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001908 (request id: 20261103113754789812491BcPWxQ1lVRzlCt14)
+  100/178 256s
+  125/178 257s
+  150/178 257s
+  ! 5ade09a15542995b365fabdf: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001930 (request id: 20261103114002560224223BcPWxQ1ld5WvzQGC)
+  ! 5ae09d6155429945ae9593d4: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001886 (request id: 20261103114002937254600BcPWxQ1l1wa6eImb)
+  ! 5ae533535542993aec5ec173: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001898 (request id: 20261103114003490367420BcPWxQ1lGd7aT4KX)
+  ! 5ae0a2c75542993d6555ebcf: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001884 (request id: 20261103114004007697101BcPWxQ1lSOW3IDYW)
+=== 2026-11-03T13:57:46Z start gpt-6-luna hotpotqa P4,P5 sub,full
+P4 | gpt-6-luna | hotpotqa/union | todo 5 (done 161)
+  done 5/5  issued calls 229  tokens 2500048/19845  truncated 0  ≈¥0.0520
+P5 | gpt-6-luna | hotpotqa/union | todo 5 (done 161)
+  done 5/5  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 451, 'misses': 229, 'hit_rate': 0.663235294117647}
+GRID_DONE sub gpt-6-luna hotpotqa P4,P5
+P4 | gpt-6-luna | hotpotqa/union | todo 17 (done 161)
+  done 17/17  issued calls 814  tokens 9107603/55816  truncated 0  ≈¥0.1877
+P5 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 1s
+  50/178 2s
+  75/178 2s
+  100/178 3s
+  125/178 4s
+  150/178 5s
+  175/178 6s
+  done 178/178  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 12410, 'misses': 814, 'hit_rate': 0.9384452510586812}
+GRID_DONE full gpt-6-luna hotpotqa P4,P5
+GRID_LINE_END gpt-6-luna hotpotqa P4,P5 sub,full

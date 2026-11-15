@@ -1,0 +1,358 @@
+V1 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 24s
+  50/614 42s
+  75/614 61s
+  100/614 78s
+  125/614 96s
+  150/614 118s
+  175/614 150s
+  200/614 196s
+  225/614 214s
+  250/614 233s
+  275/614 250s
+  300/614 271s
+  325/614 296s
+  350/614 319s
+  375/614 341s
+  400/614 362s
+  425/614 383s
+  450/614 403s
+  475/614 424s
+  500/614 455s
+  525/614 474s
+  550/614 493s
+  575/614 520s
+  600/614 547s
+  done 614/614  issued calls 614  tokens 3023388/99896  truncated 0  ≈¥0.0705
+P1 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 175s
+  50/614 361s
+  75/614 540s
+  100/614 718s
+  125/614 884s
+  150/614 1033s
+  175/614 1209s
+  200/614 1362s
+  225/614 1534s
+  250/614 1697s
+  275/614 1853s
+  300/614 2027s
+  325/614 2222s
+  350/614 2421s
+  375/614 2641s
+  400/614 2895s
+  425/614 3155s
+  450/614 3351s
+  475/614 3496s
+  500/614 3729s
+  525/614 3929s
+  550/614 4126s
+  575/614 4460s
+  600/614 4745s
+  done 614/614  issued calls 14674  tokens 78993090/1701067  truncated 0  ≈¥1.7500
+LOI | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 197s
+  50/614 318s
+  75/614 460s
+  100/614 604s
+  125/614 725s
+  150/614 856s
+  175/614 970s
+  200/614 1122s
+  225/614 1250s
+  250/614 1373s
+  275/614 1488s
+  300/614 1649s
+V1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gpt-6-luna | musique/union | todo 296 (done 318)
+  25/296 208s
+  50/296 419s
+  75/296 615s
+  100/296 820s
+  125/296 1014s
+  150/296 1171s
+  175/296 1393s
+  200/296 1641s
+  225/296 1874s
+  250/296 2206s
+  275/296 2411s
+  done 296/296  issued calls 5871  tokens 20679409/1750497  truncated 1  ≈¥0.5886
+cache: {'hits': 340, 'misses': 5871, 'hit_rate': 0.05474158750603768}
+V1 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 18s
+  50/614 36s
+  75/614 53s
+  100/614 67s
+  125/614 82s
+  150/614 98s
+  175/614 111s
+  200/614 125s
+  225/614 137s
+  250/614 151s
+  275/614 164s
+  300/614 180s
+  325/614 196s
+  350/614 215s
+  375/614 232s
+  400/614 250s
+  425/614 267s
+  450/614 290s
+  475/614 309s
+  500/614 330s
+  525/614 349s
+  550/614 368s
+  575/614 402s
+  600/614 437s
+  done 614/614  issued calls 614  tokens 3518251/90934  truncated 0  ≈¥0.0795
+P1 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 162s
+  50/614 325s
+  75/614 457s
+  100/614 600s
+  125/614 744s
+  150/614 877s
+  175/614 1028s
+  200/614 1170s
+  225/614 1316s
+  250/614 1459s
+  275/614 1611s
+  300/614 1797s
+  325/614 1959s
+  350/614 2118s
+  375/614 2279s
+  400/614 2457s
+  425/614 2621s
+  450/614 2789s
+  475/614 2961s
+  500/614 3178s
+  525/614 3371s
+  550/614 3607s
+  575/614 3908s
+V1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | musique/union | todo 28 (done 586)
+  25/28 202s
+  done 28/28  issued calls 580  tokens 3137202/108830  truncated 0  ≈¥0.0736
+cache: {'hits': 92, 'misses': 580, 'hit_rate': 0.13690476190476192}
+RM64 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 415s
+  50/614 911s
+  75/614 1309s
+  100/614 1715s
+  125/614 2137s
+  150/614 2534s
+  175/614 2938s
+  200/614 3388s
+  225/614 3791s
+  250/614 4165s
+  275/614 4553s
+  300/614 5040s
+  325/614 5499s
+  350/614 6021s
+  375/614 6573s
+V1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | gpt-6-luna | musique/union | todo 215 (done 399)
+  25/215 387s
+  50/215 917s
+  75/215 1370s
+  ! 4hop1__118068_582428_157828_162309: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103012357555443971BcPWxQ1lSFYIgrOM)
+  ! 4hop1__130508_32392_823060_610794: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103012357201567502BcPWxQ1ltcQUa89r)
+  ! 4hop1__130623_32392_823060_610794: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103012357777107355BcPWxQ1lSQMBeBdR)
+  ! 4hop1__13170_32392_823060_610794: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103012358097607083BcPWxQ1lJHFnNj1U)
+  ! 4hop1__131611_32392_823060_610794: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103012357760475467BcPWxQ1lyqWcAoHH)
+  ! 4hop1__145087_32392_823060_610794: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103012520835795324BcPWxQ1lupyJV9e5)
+  ! 4hop1__146971_698949_157828_162309: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103012621992362921BcPWxQ1l6QBqAQaE)
+  ! 4hop1__151650_5274_458768_33633: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103012843138227249BcPWxQ1l29cHHg6P)
+  ! 4hop1__151650_5274_458768_33677: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103012842948975674BcPWxQ1l1qj4LJW4)
+  ! 4hop1__151903_5274_458768_33633: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103012843250733156BcPWxQ1lipVgV7xd)
+  ! 4hop1__151650_5274_458768_33632: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103012843063010803BcPWxQ1l0ypKtE3p)
+  ! 4hop1__151903_5274_458768_33677: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013001927132485BcPWxQ1lILIuwH5Q)
+  ! 4hop1__152028_141441_458768_33633: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013106740468126BcPWxQ1lQoU7SsHs)
+  ! 4hop1__152146_5274_458768_33633: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013329315726709BcPWxQ1lVw5Bs0Ag)
+  ! 4hop1__152562_5274_458768_33677: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013329526167754BcPWxQ1lnZA1C2m9)
+  ! 4hop1__152562_5274_458768_33632: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013329387850130BcPWxQ1l7mtdZ7S9)
+  ! 4hop1__152146_5274_458768_33677: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013329163379412BcPWxQ1lftIxtpAq)
+  ! 4hop1__161605_32392_823060_610794: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013446295001026BcPWxQ1lEzMI86z8)
+  ! 4hop1__161810_583746_457883_650651: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013552466005773BcPWxQ1lclfc4r9x)
+  ! 4hop1__166471_49925_13759_736921: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013814574674774BcPWxQ1lXJUWlDpB)
+  ! 4hop1__17192_17130_70784_79935: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013816240666707BcPWxQ1lwk7JEEa1)
+  ! 4hop1__17192_17130_70784_61381: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013815030586372BcPWxQ1lUmu3tVe5)
+  ! 4hop1__178366_229349_66759_75165: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013815491454610BcPWxQ1leZoV0ixe)
+  ! 4hop1__236903_153080_159767_81096: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103013931686946197BcPWxQ1lFFgQzT1H)
+  ! 4hop1__236903_153080_33897_81096: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103014037371321954BcPWxQ1l2hDumm5P)
+  ! 4hop1__342858_131850_33897_81096: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103014259381175530BcPWxQ1lsRYFSqUx)
+  ! 4hop1__310029_153080_33897_81096: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103014300054905782BcPWxQ1l6jEm2rDZ)
+  ! 4hop1__310029_153080_159767_81096: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103014259883629446BcPWxQ1lvRHoY2NK)
+  ! 4hop1__342858_131850_159767_81096: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103014259691112681BcPWxQ1lWWcc41QF)
+  100/215 3363s
+  125/215 4076s
+  150/215 4826s
+  ! 4hop2__9988_158985_70784_61381: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022000488821419BcPWxQ1luL2A3CND)
+  ! 4hop2__9988_158279_70784_61381: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103021959845350981BcPWxQ1l5aBZ51oe)
+  ! 4hop2__9988_158985_70784_79935: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022001254826670BcPWxQ1liMnbroVv)
+  ! 4hop2__797545_14670_8987_8974: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022006131219114BcPWxQ1lMOs0XRwu)
+  ! 4hop2__9988_158279_70784_79935: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022006202047297BcPWxQ1lZGM0FP2q)
+  ! 4hop2__9988_261673_70784_79935: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022009821388554BcPWxQ1lgnGEzx4O)
+  ! 4hop2__9988_685934_70784_61381: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022445007754532BcPWxQ1lGwBkxFCe)
+  ! 4hop2__9988_729371_70784_79935: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022445124376647BcPWxQ1lvX60kHrY)
+  ! 4hop3__129682_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022445331288992BcPWxQ1lLjI3smA2)
+  ! 4hop3__129456_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022445951919882BcPWxQ1lPUJ53FTO)
+  ! 4hop2__9988_729371_70784_61381: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022445649586353BcPWxQ1lBpvEle21)
+  ! 4hop3__129754_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022449874458753BcPWxQ1lLHQKFNNs)
+  ! 4hop3__160230_470287_128875_72134: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022930426614595BcPWxQ1ltWSWhEL6)
+  ! 4hop3__131775_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022930482731314BcPWxQ1lwcFB6bKv)
+  ! 4hop3__131820_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022930878758446BcPWxQ1l96ryjycM)
+  ! 4hop3__160230_470287_345497_72134: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022930492481137BcPWxQ1lgaZ9hypV)
+  ! 4hop3__130404_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022930988426933BcPWxQ1lcYZreghv)
+  ! 4hop3__130276_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103022930486123368BcPWxQ1leaNPc4pc)
+  ! 4hop3__31333_29339_508306_70744: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023415883167262BcPWxQ1lFheGtr2R)
+  ! 4hop3__275416_24325_125104_10557: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023416308638671BcPWxQ1lyC1cthCy)
+  ! 4hop3__193820_466199_128875_72134: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023416913685351BcPWxQ1lxPcqOQI8)
+  ! 4hop3__160230_470287_862998_72134: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023416442674459BcPWxQ1lxe5vcZMx)
+  ! 4hop3__322354_466199_695123_72134: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023418391142281BcPWxQ1lAo7AIXDg)
+  ! 4hop3__275416_24325_156850_10557: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023416686499979BcPWxQ1lkL4kXGX6)
+  ! 4hop3__710473_354093_254885_76356: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023901281261818BcPWxQ1leBJwmsHt)
+  ! 4hop3__524186_219173_128875_72134: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023901120671791BcPWxQ1lXe590t6S)
+  ! 4hop3__524186_219173_862998_72134: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023901250627544BcPWxQ1lCzW3458y)
+  ! 4hop3__524186_219173_548463_72134: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023901452879834BcPWxQ1lHIkpkDhQ)
+  ! 4hop3__813358_24325_125104_10557: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023901471016494BcPWxQ1lE1eUtyYc)
+  ! 4hop3__524186_219173_638950_72134: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103023901685196459BcPWxQ1la9worvfS)
+  ! 4hop3__857_846_613770_7713: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103024346350509080BcPWxQ1lNTtGAlxB)
+  done 155/215  issued calls 10004  tokens 57283759/2188878  truncated 0  ≈¥1.3646
+cache: {'hits': 468, 'misses': 10287, 'hit_rate': 0.04351464435146443}
+LUNA_BOOT_MUSIQUE_DONE
+refusing to resume /home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../results/closed/raw/hotpotqa/gpt-6-luna/k3pilot_v2/V1.r3.jsonl: run configuration differs from its manifest in ['fingerprint']. Use a different --out-root or --repeat.
+V1 | gpt-6-luna | musique/musique.gpt-6-luna.n50.v2.jsonl.gz | todo 250 (done 0)
+  25/250 18s
+  50/250 49s
+  75/250 71s
+  100/250 92s
+  125/250 119s
+  150/250 141s
+  175/250 164s
+  200/250 196s
+  225/250 237s
+  250/250 269s
+  done 250/250  issued calls 250  tokens 1176269/48194  truncated 0  ≈¥0.0283
+P1 | gpt-6-luna | musique/musique.gpt-6-luna.n50.v2.jsonl.gz | todo 250 (done 0)
+  25/250 253s
+V1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | gpt-6-luna | musique/union | todo 60 (done 554)
+  25/60 736s
+  50/60 1489s
+  done 60/60  issued calls 3503  tokens 15133810/1315126  truncated 0  ≈¥0.4342
+cache: {'hits': 397, 'misses': 3503, 'hit_rate': 0.10179487179487179}
+LUNA_BOOT_MUSIQUE_DONE
+refusing to resume /home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../results/closed/raw/hotpotqa/gpt-6-luna/k3pilot_v2/V1.r3.jsonl: run configuration differs from its manifest in ['fingerprint']. Use a different --out-root or --repeat.
+V1 | gpt-6-luna | musique/musique.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | musique/musique.gpt-6-luna.n50.v2.jsonl.gz | todo 225 (done 25)
+  25/225 271s
+  50/225 474s
+  75/225 728s
+  100/225 941s
+  125/225 1190s
+  150/225 1412s
+  175/225 1600s
+  200/225 1845s
+  225/225 2075s
+  done 225/225  issued calls 5539  tokens 30799517/615304  truncated 0  ≈¥0.6775
+LOI | gpt-6-luna | musique/musique.gpt-6-luna.n50.v2.jsonl.gz | todo 250 (done 0)
+  25/250 153s
+  50/250 280s
+  75/250 413s
+  100/250 567s
+  125/250 684s
+  150/250 841s
+  175/250 987s
+  200/250 1356s
+  225/250 1527s
+  250/250 1845s
+  done 250/250  issued calls 2632  tokens 9997352/604432  truncated 0  ≈¥0.2604
+RM64 | gpt-6-luna | musique/musique.gpt-6-luna.n50.v2.jsonl.gz | todo 250 (done 0)
+  ! 2hop__24976_161105::K3::CF: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103043649627639453BcPWxQ1lm0pHKVb8)
+  ! 2hop__24976_161105::K3::CC: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103043649585465838BcPWxQ1l68uxwofI)
+  ! 2hop__24976_161105::K3::C: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103043649714482609BcPWxQ1l29qXUZ68)
+  ! 2hop__24976_161105::K3::FF: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103043649739956225BcPWxQ1ldunqFcYp)
+  ! 2hop__274529_5385::K3::C: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103043650174917255BcPWxQ1lwMSxoQIF)
+  ! 2hop__24976_161105::K3::F: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103043649629319440BcPWxQ1lPbtpaLO1)
+  ! 2hop__274529_5385::K3::CC: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044134956784103BcPWxQ1lVsZ5fONt)
+  ! 2hop__274529_5385::K3::FF: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044135325092763BcPWxQ1l79GKXEHn)
+  ! 2hop__30905_213732::K3::CC: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044135318996411BcPWxQ1lQoy7OXXZ)
+  ! 2hop__30905_213732::K3::C: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044135507678157BcPWxQ1lopWS75MU)
+  ! 2hop__274529_5385::K3::F: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044135571962674BcPWxQ1lZRVPn78q)
+  ! 2hop__274529_5385::K3::CF: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044135665826851BcPWxQ1lj4Hj184b)
+  ! 2hop__445963_6063::K3::C: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044619836760446BcPWxQ1laoTYMlzg)
+  ! 2hop__445963_6063::K3::CC: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044620045510959BcPWxQ1lOeRLfdwH)
+  ! 2hop__30905_213732::K3::FF: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044620588772901BcPWxQ1l8gujKLYy)
+  ! 2hop__30905_213732::K3::CF: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044619716531554BcPWxQ1l0m06Nik8)
+  ! 2hop__30905_213732::K3::F: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044619903773613BcPWxQ1lHtJywoYQ)
+  ! 2hop__445963_6063::K3::CF: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 503 - No available channel for model gpt-6-luna under group auto (distributor) (request id: 20261103044620345378079BcPWxQ1lzluhj6dF)
+  25/250 1473s
+V1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+LUNA_BOOT_MUSIQUE_DONE
+refusing to resume /home/claude/probing-context-attribution-in-strict-blackbox-llm/code/scripts/../results/closed/raw/hotpotqa/gpt-6-luna/k3pilot_v2/V1.r3.jsonl: run configuration differs from its manifest in ['fingerprint']. Use a different --out-root or --repeat.
+V1 | gpt-6-luna | musique/musique.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | musique/musique.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gpt-6-luna | musique/musique.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gpt-6-luna | musique/musique.gpt-6-luna.n50.v2.jsonl.gz | todo 224 (done 26)
+  25/224 434s
+  50/224 715s
+  75/224 1027s
+  100/224 1490s
+  125/224 1947s
+  150/224 2413s
+  175/224 3189s
+  200/224 3799s
+  done 224/224  issued calls 11144  tokens 57933955/2756869  truncated 0  ≈¥1.4344
+cache: {'hits': 3416, 'misses': 11144, 'hit_rate': 0.23461538461538461}
+LUNA_BOOT_K3_DONE

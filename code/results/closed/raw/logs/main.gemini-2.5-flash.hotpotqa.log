@@ -1,0 +1,50 @@
+V1 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 16s
+  50/87 24s
+  75/87 30s
+  done 87/87  issued calls 81  tokens 143363/2229  truncated 0  ≈¥0.0175
+P1 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 66s
+  50/87 120s
+  75/87 193s
+  done 87/87  issued calls 1053  tokens 1730038/14122  truncated 0  ≈¥0.1994
+LOI | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 35s
+  50/87 82s
+  75/87 119s
+  done 87/87  issued calls 810  tokens 307232/9760  truncated 0  ≈¥0.0419
+cache: {'hits': 318, 'misses': 1944, 'hit_rate': 0.14058355437665782}
+V1 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 13s
+  50/87 24s
+  75/87 31s
+  done 87/87  issued calls 81  tokens 145750/2251  truncated 0  ≈¥0.0177
+P1 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 87s
+  50/87 158s
+  75/87 226s
+  done 87/87  issued calls 1134  tokens 1874129/15315  truncated 0  ≈¥0.2160
+cache: {'hits': 90, 'misses': 1215, 'hit_rate': 0.06896551724137931}
+RM64 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 238s
+  50/87 554s
+  75/87 816s
+  done 87/87  issued calls 4918  tokens 4722270/67868  truncated 0  ≈¥0.5704
+cache: {'hits': 569, 'misses': 4918, 'hit_rate': 0.10369965372699107}
+MAIN_DONE gemini-2.5-flash hotpotqa
+V1 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 87)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 87)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 87)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 87)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 87)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 87)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+MAIN_DONE gemini-2.5-flash hotpotqa

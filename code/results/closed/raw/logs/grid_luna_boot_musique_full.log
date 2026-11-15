@@ -1,0 +1,205 @@
+=== 2026-11-03T15:12:01Z start gpt-6-luna musique V2,V4,V5,P2,P3,P4,P5 full
+V2 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 82s
+  50/614 128s
+  75/614 203s
+  100/614 235s
+  125/614 288s
+  150/614 348s
+  175/614 419s
+  200/614 465s
+  225/614 521s
+  250/614 564s
+  275/614 604s
+  300/614 669s
+  325/614 710s
+  350/614 745s
+  375/614 778s
+  400/614 809s
+  425/614 846s
+  450/614 927s
+  475/614 976s
+  500/614 1025s
+  525/614 1050s
+  550/614 1100s
+  575/614 1150s
+  600/614 1198s
+  done 614/614  issued calls 2070  tokens 26395741/414203  truncated 0  ≈¥0.5693
+V4 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 62s
+  50/614 115s
+  75/614 171s
+  100/614 207s
+  125/614 245s
+  150/614 297s
+  175/614 351s
+  200/614 406s
+  225/614 443s
+  250/614 486s
+  275/614 524s
+  300/614 565s
+  325/614 602s
+  350/614 638s
+  375/614 662s
+  400/614 686s
+  425/614 714s
+  450/614 766s
+  475/614 802s
+  500/614 854s
+  525/614 888s
+  550/614 926s
+  575/614 964s
+  600/614 998s
+  done 614/614  issued calls 2070  tokens 25556013/248142  truncated 0  ≈¥0.5359
+V5 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 0s
+  50/614 0s
+  75/614 0s
+  100/614 0s
+  125/614 1s
+  150/614 1s
+  175/614 1s
+  200/614 1s
+  225/614 1s
+  250/614 1s
+  275/614 1s
+  300/614 1s
+  325/614 1s
+  350/614 1s
+  375/614 2s
+  400/614 2s
+  425/614 2s
+  450/614 2s
+  475/614 2s
+  500/614 2s
+  525/614 2s
+  550/614 2s
+  575/614 2s
+  600/614 2s
+  done 614/614  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 399s
+  50/614 756s
+  75/614 1168s
+  100/614 1406s
+  125/614 1680s
+  150/614 1952s
+  175/614 2254s
+  200/614 2575s
+  225/614 2907s
+  250/614 3266s
+  275/614 3566s
+  300/614 3956s
+  325/614 4234s
+  350/614 4487s
+  375/614 4704s
+=== 2026-11-03T17:12:07Z start gpt-6-luna musique V2,V4,V5,P2,P3,P4,P5 full
+V2 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gpt-6-luna | musique/union | todo 220 (done 394)
+  25/220 246s
+  50/220 634s
+  75/220 902s
+  100/220 1208s
+  125/220 1438s
+  150/220 1678s
+  175/220 2064s
+  200/220 2374s
+  done 220/220  issued calls 8015  tokens 104610088/1856964  truncated 0  ≈¥2.2779
+P3 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 231s
+  50/614 385s
+  75/614 571s
+  100/614 699s
+  125/614 861s
+  150/614 1039s
+  175/614 1238s
+  200/614 1414s
+  225/614 1614s
+  250/614 1804s
+  275/614 1973s
+  300/614 2174s
+  325/614 2350s
+  350/614 2487s
+  375/614 2628s
+  400/614 2738s
+  425/614 2896s
+  450/614 3121s
+  475/614 3308s
+  500/614 3487s
+  525/614 3585s
+  550/614 3760s
+  575/614 3943s
+  600/614 4078s
+  done 614/614  issued calls 9929  tokens 127780995/1309530  truncated 0  ≈¥2.6866
+P4 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 338s
+=== 2026-11-03T19:12:13Z start gpt-6-luna musique V2,V4,V5,P2,P3,P4,P5 full
+V2 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | gpt-6-luna | musique/union | todo 0 (done 614)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | gpt-6-luna | musique/union | todo 584 (done 30)
+  25/584 227s
+  50/584 542s
+  75/584 747s
+  100/584 1019s
+  125/584 1377s
+  150/584 1647s
+  175/584 1924s
+  200/584 2199s
+  225/584 2475s
+  250/584 2712s
+  275/584 2959s
+  300/584 3272s
+  325/584 3499s
+  350/584 3666s
+  375/584 3842s
+  400/584 4048s
+  425/584 4339s
+  450/584 4622s
+  475/584 4788s
+  500/584 4910s
+  525/584 5166s
+  550/584 5496s
+  575/584 5697s
+  done 584/584  issued calls 24136  tokens 321631488/3284868  truncated 0  ≈¥6.7611
+P5 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 2s
+  50/614 4s
+  75/614 5s
+  100/614 7s
+  125/614 8s
+  150/614 9s
+  175/614 11s
+  200/614 12s
+  225/614 14s
+  250/614 15s
+  275/614 16s
+  300/614 18s
+  325/614 19s
+  350/614 20s
+  375/614 22s
+  400/614 23s
+  425/614 25s
+  450/614 26s
+  475/614 27s
+  500/614 28s
+  525/614 30s
+  550/614 31s
+  575/614 33s
+  600/614 34s
+  done 614/614  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 129112, 'misses': 24136, 'hit_rate': 0.842503654207559}
+GRID_DONE full gpt-6-luna musique V2,V4,V5,P2,P3,P4,P5
+GRID_LINE_END gpt-6-luna musique V2,V4,V5,P2,P3,P4,P5 full

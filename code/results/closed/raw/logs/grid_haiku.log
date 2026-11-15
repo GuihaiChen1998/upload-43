@@ -1,0 +1,1046 @@
+=== 2026-11-03T07:32:13Z start claude-haiku-5-5 hotpotqa,musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub,full
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 200 (done 0)
+  25/200 381s
+  50/200 597s
+  75/200 804s
+  100/200 932s
+  125/200 1033s
+  150/200 1111s
+  175/200 1162s
+  200/200 1204s
+  done 200/200  issued calls 1000  tokens 2433855/278484  truncated 0  ≈¥0.0957
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 200 (done 0)
+  25/200 15s
+  50/200 28s
+  75/200 44s
+  100/200 54s
+  125/200 64s
+  150/200 76s
+  175/200 91s
+  200/200 109s
+  done 200/200  issued calls 200  tokens 508506/81146  truncated 0  ≈¥0.0229
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 200 (done 0)
+  25/200 49s
+  50/200 95s
+  75/200 128s
+  100/200 163s
+  125/200 195s
+  150/200 226s
+  175/200 252s
+  200/200 282s
+  done 200/200  issued calls 1000  tokens 2541913/394899  truncated 0  ≈¥0.1129
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 200 (done 0)
+  25/200 0s
+  50/200 0s
+  75/200 0s
+  100/200 0s
+  125/200 0s
+  150/200 1s
+  175/200 1s
+  200/200 1s
+  done 200/200  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 200 (done 0)
+  25/200 12s
+  50/200 24s
+  75/200 38s
+  100/200 52s
+  125/200 69s
+  150/200 88s
+  175/200 102s
+  200/200 113s
+  done 200/200  issued calls 200  tokens 495783/99926  truncated 0  ≈¥0.0249
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 200 (done 0)
+  25/200 34s
+  50/200 65s
+  75/200 96s
+  100/200 121s
+  125/200 151s
+  150/200 181s
+  175/200 210s
+  200/200 240s
+  done 200/200  issued calls 1000  tokens 2478915/482994  truncated 0  ≈¥0.1223
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 200 (done 0)
+  25/200 109s
+  50/200 200s
+  75/200 283s
+  100/200 358s
+  125/200 442s
+  150/200 522s
+  175/200 590s
+  200/200 666s
+  done 200/200  issued calls 6600  tokens 14509265/1686467  truncated 0  ≈¥0.5735
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 200 (done 0)
+  25/200 57s
+  50/200 113s
+  75/200 168s
+  100/200 211s
+  125/200 259s
+  150/200 309s
+  175/200 359s
+  200/200 417s
+  done 200/200  issued calls 2800  tokens 6510406/943454  truncated 0  ≈¥0.2807
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 200 (done 0)
+  25/200 74s
+  50/200 140s
+  75/200 206s
+  100/200 262s
+  125/200 345s
+  150/200 605s
+  175/200 877s
+  200/200 1141s
+  done 200/200  issued calls 6600  tokens 15053341/2263118  truncated 0  ≈¥0.6592
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 200 (done 0)
+  25/200 1s
+  50/200 1s
+  75/200 2s
+  100/200 3s
+  125/200 3s
+  150/200 4s
+  175/200 5s
+  200/200 5s
+  done 200/200  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 26800, 'misses': 19400, 'hit_rate': 0.5800865800865801}
+GRID_DONE sub claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 200 (done 0)
+  25/200 89s
+  50/200 151s
+  75/200 230s
+  100/200 298s
+  125/200 376s
+  150/200 463s
+  175/200 563s
+  200/200 657s
+  done 200/200  issued calls 1000  tokens 4340605/661690  truncated 2  ≈¥0.1912
+V3 | claude-haiku-5-5 | musique/union | todo 200 (done 0)
+  25/200 26s
+  50/200 47s
+  75/200 74s
+  100/200 104s
+  125/200 125s
+  150/200 150s
+  175/200 172s
+  200/200 199s
+  done 200/200  issued calls 200  tokens 891774/104387  truncated 0  ≈¥0.0353
+V4 | claude-haiku-5-5 | musique/union | todo 200 (done 0)
+  25/200 74s
+  50/200 151s
+  75/200 233s
+  100/200 269s
+  125/200 304s
+  150/200 338s
+  175/200 380s
+  200/200 417s
+  done 200/200  issued calls 1000  tokens 4453574/514073  truncated 0  ≈¥0.1756
+V5 | claude-haiku-5-5 | musique/union | todo 200 (done 0)
+  25/200 0s
+  50/200 0s
+  75/200 0s
+  100/200 0s
+  125/200 0s
+  150/200 1s
+  175/200 1s
+  200/200 1s
+  done 200/200  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | musique/union | todo 200 (done 0)
+  25/200 12s
+  50/200 25s
+  75/200 37s
+  100/200 49s
+  125/200 64s
+  150/200 80s
+  175/200 98s
+  200/200 118s
+  done 200/200  issued calls 200  tokens 877142/144326  truncated 0  ≈¥0.0400
+V7 | claude-haiku-5-5 | musique/union | todo 200 (done 0)
+  25/200 34s
+  50/200 67s
+  75/200 103s
+  100/200 138s
+  125/200 177s
+  150/200 215s
+  175/200 268s
+  200/200 337s
+  done 200/200  issued calls 1000  tokens 4384746/700361  truncated 0  ≈¥0.1972
+P2 | claude-haiku-5-5 | musique/union | todo 200 (done 0)
+  25/200 138s
+  50/200 272s
+  75/200 404s
+  100/200 537s
+  125/200 688s
+  150/200 841s
+  175/200 1048s
+=== 2026-11-03T09:41:08Z start claude-haiku-5-5 hotpotqa,musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub,full
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | musique/union | todo 6 (done 194)
+  done 6/6  issued calls 68  tokens 349365/67144  truncated 0  ≈¥0.0171
+P3 | claude-haiku-5-5 | musique/union | todo 200 (done 0)
+  25/200 286s
+  50/200 724s
+  75/200 1242s
+  100/200 1373s
+  125/200 1510s
+  150/200 1633s
+  175/200 1788s
+  200/200 1935s
+  done 200/200  issued calls 4792  tokens 20221751/2411746  truncated 0  ≈¥0.8070
+P4 | claude-haiku-5-5 | musique/union | todo 200 (done 0)
+  25/200 270s
+  50/200 496s
+  75/200 748s
+  ! 3hop1__66872_709625_84283: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__90327_83076_319330: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop2__782397_467331_162182: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__106313_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__321720_650651_7262: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop2__781093_467331_162182: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__139773_88110_21193: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__145194_160545_34751: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop2__668732_223623_162182: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__694534_160088_73916: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop2__57233_106716_56883: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__105767_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__465684_160545_62931: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__389955_132457_47686: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__144439_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__818422_160545_34751: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__145427_106426_77199: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__539312_744503_34754: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__273571_834494_34099: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__208108_547811_80702: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__103751_24918_24991: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__103197_214799_259594: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__857_846_7769: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+=== 2026-11-03T11:41:11Z start claude-haiku-5-5 hotpotqa,musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub,full
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | musique/union | todo 113 (done 87)
+  ! 3hop1__66872_709625_84283: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__90327_83076_319330: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop2__782397_467331_162182: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__106313_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop2__781093_467331_162182: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__139773_88110_21193: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__321720_650651_7262: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__145194_160545_34751: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop2__668732_223623_162182: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__694534_160088_73916: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop2__57233_106716_56883: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__105767_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__465684_160545_62931: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__389955_132457_47686: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__144439_443779_52195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__818422_160545_34751: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__145427_106426_77199: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__539312_744503_34754: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__208108_547811_80702: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__273571_834494_34099: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__103197_214799_259594: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__103751_24918_24991: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__857_846_7769: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 3hop1__135392_87694_124169: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+=== 2026-11-03T14:57:39Z start claude-haiku-5-5 hotpotqa,musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub,full
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | musique/union | todo 113 (done 87)
+  25/113 423s
+  50/113 904s
+  75/113 1465s
+  100/113 2926s
+  done 113/113  issued calls 6731  tokens 28536330/3822931  truncated 0  ≈¥1.1913
+P5 | claude-haiku-5-5 | musique/union | todo 200 (done 0)
+  25/200 3s
+  50/200 5s
+  75/200 6s
+  100/200 8s
+  125/200 10s
+  150/200 11s
+  175/200 13s
+  200/200 14s
+  done 200/200  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 33255, 'misses': 6731, 'hit_rate': 0.8316660831290952}
+GRID_DONE sub claude-haiku-5-5 musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 18s
+  50/522 46s
+  75/522 67s
+  100/522 96s
+  125/522 118s
+  150/522 139s
+  175/522 167s
+  200/522 185s
+  225/522 216s
+  250/522 249s
+  275/522 279s
+  300/522 314s
+  325/522 347s
+  350/522 377s
+  375/522 410s
+  400/522 436s
+  425/522 474s
+  450/522 501s
+  475/522 523s
+  500/522 550s
+  done 522/522  issued calls 1550  tokens 3787770/415660  truncated 0  ≈¥0.1467
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 7s
+  50/522 20s
+  75/522 29s
+  100/522 43s
+  125/522 53s
+  150/522 65s
+  175/522 77s
+  200/522 85s
+  225/522 94s
+  250/522 107s
+  275/522 117s
+  300/522 131s
+  325/522 144s
+  350/522 157s
+  375/522 169s
+  400/522 179s
+  425/522 195s
+  450/522 208s
+  475/522 216s
+  500/522 227s
+  done 522/522  issued calls 310  tokens 791075/126031  truncated 0  ≈¥0.0355
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 21s
+  50/522 53s
+  75/522 80s
+  100/522 119s
+  125/522 143s
+  150/522 170s
+  175/522 207s
+  200/522 227s
+  225/522 255s
+  250/522 293s
+  275/522 318s
+  300/522 354s
+  325/522 392s
+  350/522 432s
+  375/522 464s
+  400/522 499s
+  425/522 550s
+  450/522 588s
+  475/522 611s
+  500/522 642s
+  done 522/522  issued calls 1550  tokens 3955473/616471  truncated 0  ≈¥0.1759
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 0s
+  50/522 0s
+  75/522 0s
+  100/522 0s
+  125/522 0s
+  150/522 0s
+  175/522 1s
+  200/522 1s
+  225/522 1s
+  250/522 1s
+  275/522 1s
+  300/522 1s
+  325/522 1s
+  350/522 1s
+  375/522 1s
+  400/522 1s
+  425/522 1s
+  450/522 1s
+  475/522 2s
+  500/522 2s
+  done 522/522  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 8s
+  50/522 22s
+  75/522 30s
+  100/522 44s
+  125/522 54s
+  150/522 64s
+  175/522 76s
+  200/522 85s
+  225/522 98s
+  250/522 112s
+  275/522 124s
+  300/522 136s
+  325/522 149s
+  350/522 162s
+  375/522 177s
+  400/522 188s
+  425/522 206s
+  450/522 220s
+  475/522 229s
+  500/522 241s
+  done 522/522  issued calls 310  tokens 771530/150392  truncated 0  ≈¥0.0381
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 24s
+  50/522 58s
+  75/522 91s
+  100/522 133s
+  125/522 158s
+  150/522 188s
+  175/522 225s
+  200/522 249s
+  225/522 284s
+  250/522 335s
+  275/522 364s
+  300/522 397s
+  325/522 438s
+  350/522 484s
+  375/522 525s
+  400/522 565s
+  425/522 620s
+  450/522 910s
+  475/522 941s
+  500/522 977s
+  done 522/522  issued calls 1550  tokens 3857650/748024  truncated 0  ≈¥0.1899
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 73s
+  50/522 176s
+  75/522 262s
+  100/522 386s
+  125/522 473s
+  150/522 572s
+  175/522 683s
+  200/522 742s
+  225/522 852s
+  250/522 979s
+  275/522 1068s
+  300/522 1182s
+=== 2026-11-03T16:57:45Z start claude-haiku-5-5 hotpotqa,musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub,full
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub claude-haiku-5-5 musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 217 (done 305)
+  25/217 117s
+  50/217 262s
+  75/217 347s
+  100/217 470s
+  125/217 647s
+  150/217 772s
+  175/217 860s
+  200/217 984s
+  done 217/217  issued calls 4562  tokens 10401155/1153961  truncated 0  ≈¥0.4043
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 61s
+  50/522 149s
+  75/522 221s
+  100/522 312s
+  125/522 380s
+  150/522 451s
+  175/522 539s
+  200/522 596s
+  225/522 684s
+  250/522 788s
+  275/522 858s
+  300/522 953s
+  325/522 1070s
+  350/522 1231s
+  375/522 1329s
+  400/522 1415s
+  425/522 1542s
+  450/522 1637s
+  475/522 1707s
+  500/522 1784s
+  done 522/522  issued calls 4340  tokens 10125001/1458403  truncated 0  ≈¥0.4354
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 86s
+  50/522 210s
+  75/522 311s
+  100/522 427s
+  125/522 525s
+  150/522 635s
+  175/522 765s
+  200/522 847s
+  225/522 953s
+  250/522 1108s
+  275/522 1219s
+  300/522 1347s
+  325/522 1487s
+  350/522 1632s
+  375/522 1772s
+  400/522 1894s
+  425/522 2083s
+  450/522 2232s
+  475/522 2337s
+  500/522 2447s
+  done 522/522  issued calls 10230  tokens 23419614/3469297  truncated 0  ≈¥1.0192
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 1s
+  50/522 1s
+  75/522 2s
+  100/522 3s
+  125/522 3s
+  150/522 4s
+  175/522 5s
+  200/522 5s
+  225/522 6s
+  250/522 7s
+  275/522 7s
+  300/522 8s
+  325/522 9s
+  350/522 9s
+  375/522 10s
+  400/522 11s
+  425/522 12s
+  450/522 12s
+  475/522 13s
+  500/522 14s
+  done 522/522  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 73854, 'misses': 19132, 'hit_rate': 0.7942485965629235}
+GRID_DONE full claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 762 (done 0)
+  25/762 49s
+  50/762 98s
+  75/762 261s
+  100/762 455s
+  125/762 561s
+  150/762 655s
+  175/762 784s
+  200/762 875s
+  225/762 1001s
+  250/762 1107s
+  275/762 1186s
+  300/762 1290s
+  325/762 1370s
+  350/762 1505s
+  375/762 1623s
+=== 2026-11-03T18:57:53Z start claude-haiku-5-5 hotpotqa,musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub,full
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub claude-haiku-5-5 musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE full claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 368 (done 394)
+  25/368 122s
+  50/368 192s
+  75/368 314s
+  100/368 410s
+  125/368 505s
+  150/368 586s
+  175/368 657s
+  200/368 773s
+  225/368 835s
+  250/368 928s
+  275/368 971s
+  300/368 1048s
+  325/368 1133s
+  350/368 1236s
+  done 368/368  issued calls 1125  tokens 4935972/861473  truncated 1  ≈¥0.2311
+V3 | claude-haiku-5-5 | musique/union | todo 762 (done 0)
+  25/762 46s
+  50/762 74s
+  75/762 108s
+  100/762 152s
+  125/762 208s
+  150/762 251s
+  175/762 290s
+  200/762 327s
+  225/762 373s
+  250/762 401s
+  275/762 426s
+  300/762 458s
+  ! 2hop__731228_609866: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__75207_365216: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__747667_52835: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__748615_123956: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__756620_127399: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__75207_53316: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__757497_78606: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__76314_177869: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__763380_74735: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__763840_144857: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__765180_123956: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__765678_310556: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__780238_110949: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__766973_770570: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__781079_9237: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__78401_158262: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__785711_63853: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__810884_22402: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__814856_110882: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__81268_85407: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__815205_590407: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__81659_52835: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__81682_707195: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__817096_15463: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  325/762 2939s
+  350/762 3389s
+  375/762 3647s
+  400/762 3797s
+  425/762 4044s
+  450/762 4339s
+  475/762 4544s
+  500/762 4790s
+  525/762 4997s
+  550/762 5210s
+  575/762 5530s
+=== 2026-11-03T21:00:29Z start claude-haiku-5-5 hotpotqa,musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub,full
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub claude-haiku-5-5 musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE full claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 0 (done 762)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | musique/union | todo 163 (done 599)
+  25/163 288s
+  50/163 409s
+  75/163 452s
+  100/163 572s
+  125/163 679s
+  150/163 806s
+  done 163/163  issued calls 94  tokens 408099/59302  truncated 0  ≈¥0.0176
+V4 | claude-haiku-5-5 | musique/union | todo 762 (done 0)
+  ! 2hop__129499_85379: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__130867_54221: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__128945_47686: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  25/762 1454s
+  ! 2hop__131061_54221: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__131275_72870: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__132469_533882: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__133102_417697: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__13353_85402: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__13548_13529: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__13592_85544: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__13592_49388: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__135993_160249: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__136214_483189: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__13986_40169: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__14078_49084: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__142198_152093: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__142699_67465: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__142881_127399: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__143650_152023: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__143915_68489: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__145203_34088: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__149710_108549: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__149862_108549: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__153532_45326: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__153573_109006: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__153573_44085: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__156044_57816: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__156658_155922: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__157251_556157: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__157602_21567: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__158275_35739: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+=== 2026-11-04T01:01:13Z start claude-haiku-5-5 hotpotqa,musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub,full
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | musique/union | todo 0 (done 200)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub claude-haiku-5-5 musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE full claude-haiku-5-5 hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | claude-haiku-5-5 | musique/union | todo 0 (done 762)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | musique/union | todo 0 (done 762)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | musique/union | todo 734 (done 28)
+  25/734 40s
+  50/734 73s
+=== 2026-11-04T02:01:44Z start claude-haiku-5-5 musique V4,V5 full
+V4 | claude-haiku-5-5 | musique/union | todo 734 (done 28)
+  25/734 313s
+  50/734 540s
+  75/734 751s
+  100/734 941s
+  125/734 1142s
+  150/734 1316s
+  ! 2hop__486314_544665: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__494659_5385: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__496961_554601: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__497191_129669: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  175/734 2653s
+  ! 2hop__498061_88622: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__499577_617190: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__498251_126089: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__502852_75487: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__503085_110222: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__505860_650613: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__507722_124896: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__50910_177869: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__510679_57816: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__51074_75184: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__510860_22402: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__511296_2684: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__51881_20590: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__525242_52835: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__528263_865831: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__53147_7298: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__53433_59035: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__538412_126089: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__538735_3296: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__543050_245420: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__543853_124498: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__544760_35739: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__55129_80460: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__554167_451128: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__555792_30351: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__556426_9237: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__559273_152023: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+=== 2026-11-04T04:01:49Z start claude-haiku-5-5 musique V4,V5,P4,P5 full
+V4 | claude-haiku-5-5 | musique/union | todo 556 (done 206)
+  ! 2hop__496961_554601: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__486314_544665: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__494659_5385: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__497191_129669: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__499577_617190: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__498061_88622: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__498251_126089: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__502852_75487: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__503085_110222: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__505860_650613: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__507722_124896: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__50910_177869: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__51074_75184: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__510679_57816: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__510860_22402: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__511296_2684: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__51881_20590: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__525242_52835: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__528263_865831: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__53147_7298: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__53433_59035: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__538735_3296: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__538412_126089: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__543050_245420: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__543853_124498: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__544760_35739: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later
+  ! 2hop__55129_80460: RuntimeError: claude-haiku-5-5: generation failed after retries: Error code: 429 - Upstream rate limit exceeded, please retry later

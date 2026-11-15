@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Unpacked datasets (the .jsonl.gz versions are tracked)
+code/data/processed/*.jsonl
+
+# Local response caches / secrets
+*.sqlite
+*.sqlite3
+.env
+*.env
+*.sqlite-wal
+*.sqlite-shm
+code/data/constructed/**/*.jsonl
+
+code/data/raw/qasper/*.json
+paper/main.fdb_latexmk
+paper/main.fls
+code/results/figures/matplotlib/

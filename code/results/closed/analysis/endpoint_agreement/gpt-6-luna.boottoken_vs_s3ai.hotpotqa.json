@@ -1,0 +1,41 @@
+{
+ "model": "gpt-6-luna",
+ "endpoint": "boottoken",
+ "instances": "data/constructed/k3/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz",
+ "conditions": [
+  "C",
+  "F"
+ ],
+ "n_variants": 100,
+ "stats": {
+  "full": {
+   "n": 300,
+   "acc_ref": 0.957,
+   "acc_new": 0.963,
+   "agree_cross": 0.9,
+   "agree_within_ref": 0.9
+  },
+  "drop_ap": {
+   "n": 300,
+   "acc_ref": 0.59,
+   "acc_new": 0.613,
+   "agree_cross": 0.74,
+   "agree_within_ref": 0.785
+  },
+  "drop_group": {
+   "n": 300,
+   "acc_ref": 0.287,
+   "acc_new": 0.267,
+   "agree_cross": 0.567,
+   "agree_within_ref": 0.685
+  }
+ },
+ "usage": {
+  "calls": 750,
+  "prompt_tokens": 3659988,
+  "completion_tokens": 40377,
+  "reasoning_tokens": 30465,
+  "finish_length": 0,
+  "latency_s": 3006.233999999999
+ }
+}

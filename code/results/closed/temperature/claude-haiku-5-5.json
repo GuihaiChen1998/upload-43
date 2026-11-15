@@ -1,0 +1,451 @@
+{
+ "summary": {
+  "model": "claude-haiku-5-5",
+  "endpoint": "tian-shu",
+  "k": 5,
+  "probes": {
+   "open": {
+    "0.01": {
+     "distinct_texts": 5,
+     "distinct_answers": null
+    },
+    "0.7": {
+     "distinct_texts": 5,
+     "distinct_answers": null
+    }
+   },
+   "task:2hop__460946_294723": {
+    "0.01": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    },
+    "0.7": {
+     "distinct_texts": 2,
+     "distinct_answers": 2
+    }
+   },
+   "task:2hop__252311_366220": {
+    "0.01": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    },
+    "0.7": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    }
+   },
+   "task:2hop__701895_752697": {
+    "0.01": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    },
+    "0.7": {
+     "distinct_texts": 4,
+     "distinct_answers": 4
+    }
+   }
+  }
+ },
+ "rows": [
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 0,
+   "text": "Grounds for Concern.",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 1,
+   "text": "The Chromatic Threshold.",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 2,
+   "text": "Chromatic Grounds.",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 3,
+   "text": "The Caffeine Cartography.",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 4,
+   "text": "Grounds for Vertigo.",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 0,
+   "text": "The Contraflow Café.",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 1,
+   "text": "Grounds for Complaint.",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 2,
+   "text": "The Perpendicular Bean.",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 3,
+   "text": "The Percolated Paradox.",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 4,
+   "text": "Grounds for Concern.",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Miquette Giraudy\"}\n```",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "```json\n{\"short_answer\": \"Miquette Giraudy\"}\n```",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "```json\n{\"short_answer\": \"Miquette Giraudy\"}\n```",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Miquette Giraudy\"}\n```",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "```json\n{\"short_answer\": \"Miquette Giraudy\"}\n```",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Miquette Giraudy\"}\n```",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "```json\n{\"short_answer\": \"Miquette Giraudy\"}\n```",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "```json\n{\"short_answer\": \"Miquette Giraudy\"}\n```",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Miquette Giraudy\"}\n```",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "{\"short_answer\": \"Information not found in sources\"}",
+   "answer": "information not found in sources",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Tamaulipas\"}\n```",
+   "answer": "tamaulipas",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "```json\n{\"short_answer\": \"Tamaulipas\"}\n```",
+   "answer": "tamaulipas",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "```json\n{\"short_answer\": \"Tamaulipas\"}\n```",
+   "answer": "tamaulipas",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Tamaulipas\"}\n```",
+   "answer": "tamaulipas",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "```json\n{\"short_answer\": \"Tamaulipas\"}\n```",
+   "answer": "tamaulipas",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Tamaulipas\"}\n```",
+   "answer": "tamaulipas",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "",
+   "answer": null,
+   "finish_reason": "length",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "{\"short_answer\": \"Not specified in sources\"}",
+   "answer": "not specified in sources",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Nuevo Laredo Municipality\"}\n```",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "```json\n{\"short_answer\": \"Nuevo Laredo Municipality\"}\n```",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "claude-haiku-5-5"
+  }
+ ]
+}

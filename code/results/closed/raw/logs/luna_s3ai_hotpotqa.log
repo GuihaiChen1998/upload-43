@@ -1,0 +1,41 @@
+V1 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 42s
+  50/178 84s
+  75/178 122s
+  100/178 176s
+  125/178 237s
+  150/178 300s
+  175/178 365s
+  done 178/178  issued calls 166  tokens 522783/14953  truncated 0  ≈¥0.0120
+P1 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 484s
+  50/178 1264s
+  75/178 1735s
+  100/178 2244s
+  125/178 3021s
+  150/178 3379s
+  175/178 3836s
+  done 178/178  issued calls 2269  tokens 18861830/123388  truncated 0  ≈¥0.3896
+cache: {'hits': 229, 'misses': 2435, 'hit_rate': 0.08596096096096097}
+RM64 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 2050s
+V1 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | gpt-6-luna | hotpotqa/union | todo 141 (done 37)
+  25/141 1723s
+  50/141 3309s
+  75/141 4755s
+  100/141 6601s
+V1 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | gpt-6-luna | hotpotqa/union | todo 32 (done 146)
+  25/32 2159s
+  done 32/32  issued calls 1732  tokens 7924607/253118  truncated 0  ≈¥0.1838
+cache: {'hits': 277, 'misses': 1732, 'hit_rate': 0.13787954206072672}
+LUNA_S3AI_HOTPOTQA_DONE

@@ -1,0 +1,21 @@
+\begin{table}[t]
+\centering\small
+\caption{Open-weight models of our earlier study, served locally with vLLM. Eval.: evaluable instances out of 1{,}168 HotpotQA and 2{,}122 MuSiQue candidates (context-dependent and correct; the union over the five unmarked models is the candidate pool, 974 / 1{,}288, and 243 / 99 are evaluable for all five). Top-1: tie-aware, on the instances evaluable for all models of a family (HotpotQA 427 Qwen / 184 Gemma, MuSiQue 186 / 86). Gray: top-1 of the gray-box log-probability drop on MuSiQue, with Wilson 95\% interval. $^\dagger$Not in the pool.}
+\label{tab:open}
+\setlength{\tabcolsep}{2.6pt}
+\begin{tabular}{@{}l rr cc cc c@{}}
+\toprule
+ & \multicolumn{2}{c}{Eval.} & \multicolumn{2}{c}{HotpotQA} & \multicolumn{2}{c}{MuSiQue} & \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}
+Model & HQA & MSQ & \Vb{1} & \Pb{1} & \Vb{1} & \Pb{1} & Gray \\
+\midrule
+Qwen3-1.7B & 669 & 401 & .91 & .70 & .90 & .67 & -- \\
+Qwen3-4B & 685 & 574 & .92 & .67 & .95 & .76 & -- \\
+Qwen3-8B & 649 & 688 & .94 & .69 & .95 & .76 & .83 [.76, .88] \\
+\addlinespace[2pt]
+Gemma-3-1B$^\dagger$ & 431 & 223 & .18 & .68 & .13 & .60 & -- \\
+Gemma-3-4B & 566 & 545 & .91 & .62 & .87 & .70 & -- \\
+Gemma-3-12B & 548 & 862 & .93 & .60 & .91 & .77 & .76 [.66, .83] \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,46 @@
+{
+ "model": "gpt-6-luna",
+ "endpoint": "s3ai",
+ "dataset": "hotpotqa",
+ "pool": "union",
+ "n": 5,
+ "leak_rate": 0.6,
+ "evaluable_rate": 0.0,
+ "bucket_counts": {
+  "leaked": 3,
+  "context_dep": 0,
+  "abstained_correct": 0,
+  "abstained_wrong": 0,
+  "both_wrong": 2,
+  "unparsable": 0
+ },
+ "hop_total": {},
+ "hop_evaluable": {},
+ "usage": {
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "reasoning_tokens": 0,
+  "est_cost_cny": 0.0,
+  "mean_latency_s": null,
+  "finish_reasons": {
+   "null": 10
+  },
+  "calls_recorded": 10
+ },
+ "buckets": {
+  "leaked": [
+   "5a8da2b05542994ba4e3dcdc",
+   "5adf33965542993344016c20",
+   "5ae5e852554299546bf82fb8"
+  ],
+  "context_dep": [],
+  "abstained_correct": [],
+  "abstained_wrong": [],
+  "both_wrong": [
+   "5a907bf05542995651fb5164",
+   "5ae37e6e5542992f92d822e0"
+  ],
+  "unparsable": []
+ },
+ "evaluable": []
+}

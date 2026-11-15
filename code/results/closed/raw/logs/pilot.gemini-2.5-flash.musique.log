@@ -1,0 +1,51 @@
+V1 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 17106/201  truncated 0  ≈¥0.0020
+V2 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 30  tokens 85150/1013  truncated 0  ≈¥0.0101
+V3 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 17082/64  truncated 0  ≈¥0.0019
+V4 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 30  tokens 88155/315  truncated 0  ≈¥0.0098
+V5 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 17365/1997  truncated 0  ≈¥0.0037
+V7 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 30  tokens 87718/11010  truncated 1  ≈¥0.0193
+P1 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 138  tokens 370813/2413  truncated 0  ≈¥0.0422
+P2 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+V1 | gemini-2.5-flash | musique/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V2 | gemini-2.5-flash | musique/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gemini-2.5-flash | musique/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gemini-2.5-flash | musique/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gemini-2.5-flash | musique/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash | musique/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gemini-2.5-flash | musique/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gemini-2.5-flash | musique/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gemini-2.5-flash | musique/intersection | todo 3 (done 3)
+  done 3/3  issued calls 121  tokens 313648/2342  truncated 0  ≈¥0.0360
+P3 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 144  tokens 403072/1529  truncated 0  ≈¥0.0449
+P4 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 378  tokens 1033458/4153  truncated 0  ≈¥0.1153
+P5 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 384  tokens 586622/6933  truncated 0  ≈¥0.0695
+LOI | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 120  tokens 44722/1741  truncated 0  ≈¥0.0064
+cache: {'hits': 1385, 'misses': 1147, 'hit_rate': 0.5469984202211691}
+V1 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 17134/195  truncated 0  ≈¥0.0020
+P1 | gemini-2.5-flash | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 144  tokens 391387/2680  truncated 0  ≈¥0.0447
+cache: {'hits': 0, 'misses': 150, 'hit_rate': 0.0}

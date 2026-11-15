@@ -1,0 +1,31 @@
+{
+ "aggregation": {
+  "beta": 0.3,
+  "lambda": 0.5,
+  "tau": 0.5
+ },
+ "dataset": "musique",
+ "exclude_qids": null,
+ "fingerprint": {
+  "backend": "OpenAIBackend",
+  "base_url": "https://open.xiaojingai.com/v1",
+  "disable_thinking": false,
+  "extra": {},
+  "extra_body": {},
+  "max_tokens": 1024,
+  "presence_penalty": 0.0,
+  "send_thinking_kwarg": false,
+  "top_k": 20,
+  "top_p": null
+ },
+ "full_repeats": 0,
+ "method": "V1",
+ "model": "gpt-6.1-terra",
+ "n_samples": 5,
+ "pool": "intersection",
+ "repeat": 0,
+ "rm_k": null,
+ "sample_n": 6,
+ "sample_seed": 0,
+ "script": "17_run_closed"
+}

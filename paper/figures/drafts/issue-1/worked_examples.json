@@ -1,0 +1,161 @@
+{
+  "source_revision": "9c276cff67cdc7fbd2e363899268c74ece53b4ff",
+  "methods": [
+    "V1",
+    "P1",
+    "LOI",
+    "RM64"
+  ],
+  "examples": [
+    {
+      "letter": "a",
+      "tag": "HotpotQA · exact copy",
+      "model": "Gemini Flash-Lite",
+      "qid": "5ab7867c5542992aa3b8c822::K3::C",
+      "title": "An exact copy masks deletion",
+      "question": "Who animated the TV anime adaptation of Dies irae?",
+      "answer": "A.C.G.T",
+      "baseline": "A.C.G.T",
+      "m": 11,
+      "sources": [
+        {
+          "id": 3,
+          "gold": true,
+          "label": "Anime passage\nStudio A.C.G.T\nExact copy of [7]"
+        },
+        {
+          "id": 7,
+          "gold": true,
+          "label": "Anime passage\nStudio A.C.G.T"
+        },
+        {
+          "id": 8,
+          "gold": true,
+          "label": "Visual novel\nTV anime adaptation"
+        }
+      ],
+      "footer": [
+        "P1: every single deletion",
+        "leaves A.C.G.T unchanged."
+      ],
+      "run": "hotpotqa/gemini-2.5-flash-lite/k3pilot_v2",
+      "suffix": ".r3",
+      "scores": [
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          0.5625,
+          0.5,
+          0.18333333333333335
+        ]
+      ]
+    },
+    {
+      "letter": "b",
+      "tag": "Symmetric FEVER · test",
+      "model": "Claude Haiku",
+      "qid": "symfever_242640000002",
+      "title": "A distractor deletion ties P1",
+      "question": "Claim: Exercise temporarily increases the heart rate.",
+      "answer": "no",
+      "baseline": "no",
+      "m": 10,
+      "sources": [
+        {
+          "id": 7,
+          "gold": true,
+          "label": "Synthetic evidence\n“Exercise temporarily\ndecreases the rate”"
+        },
+        {
+          "id": 6,
+          "gold": false,
+          "label": "Pacemaking cells\nregulate heart rhythm"
+        }
+      ],
+      "footer": [
+        "Delete [6] → unknown.",
+        "Delete [7] also → unknown."
+      ],
+      "run": "symfever/claude-haiku-5-5/main",
+      "suffix": "",
+      "scores": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          -0.09999999999999998
+        ]
+      ]
+    },
+    {
+      "letter": "c",
+      "tag": "Qasper · test",
+      "model": "Gemini Flash-Lite",
+      "qid": "qasper_a28c73a6a8c46a43a1eec2b42b542dd7fde1e30e",
+      "title": "Exact match counts rephrasing",
+      "question": "Which dataset is used for headline generation?",
+      "answer": "English Gigaword corpus",
+      "baseline": "English Gigaword corpus",
+      "m": 10,
+      "sources": [
+        {
+          "id": 7,
+          "gold": true,
+          "label": "Headline generation\nEnglish Gigaword\ncorpus"
+        },
+        {
+          "id": 6,
+          "gold": false,
+          "label": "Machine translation\nIWSLT 2016 dataset"
+        }
+      ],
+      "footer": [
+        "Delete [6] → English Gigaword.",
+        "Same corpus, different string."
+      ],
+      "run": "qasper/gemini-2.5-flash-lite/main",
+      "suffix": "",
+      "scores": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0.7428571428571429,
+          0.2955465587044534
+        ]
+      ]
+    }
+  ]
+}

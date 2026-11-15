@@ -1,0 +1,37 @@
+V1 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 43815/971  truncated 0  ≈¥0.0122
+V2 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+V1 | gpt-6.1-terra | musique/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V2 | gpt-6.1-terra | musique/intersection | todo 4 (done 2)
+  done 4/4  issued calls 15  tokens 103629/3847  truncated 0  ≈¥0.0307
+V3 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 45033/284  truncated 0  ≈¥0.0116
+V4 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 30  tokens 217710/1595  truncated 0  ≈¥0.0564
+V5 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 46418/2036  truncated 0  ≈¥0.0141
+V7 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 30  tokens 220120/6706  truncated 0  ≈¥0.0634
+P1 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 138  tokens 957307/16441  truncated 0  ≈¥0.2599
+P2 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 378  tokens 2612150/34128  truncated 0  ≈¥0.6957
+P3 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 144  tokens 1008146/6418  truncated 0  ≈¥0.2601
+P4 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 378  tokens 2650623/15259  truncated 0  ≈¥0.6817
+P5 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 384  tokens 2147176/56691  truncated 0  ≈¥0.6077
+LOI | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 120  tokens 548997/16047  truncated 0  ≈¥0.1573
+cache: {'hits': 1427, 'misses': 1629, 'hit_rate': 0.46695026178010474}
+V1 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 43622/875  truncated 0  ≈¥0.0120
+P1 | gpt-6.1-terra | musique/intersection | todo 6 (done 0)
+  done 6/6  issued calls 144  tokens 1003688/9150  truncated 0  ≈¥0.2624
+cache: {'hits': 0, 'misses': 150, 'hit_rate': 0.0}

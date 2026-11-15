@@ -1,0 +1,57 @@
+V1 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 69s
+  50/178 122s
+  75/178 160s
+  100/178 196s
+  125/178 330s
+  150/178 539s
+  175/178 733s
+  done 178/178  issued calls 166  tokens 1760395/14147  truncated 0  ≈¥0.0366
+P1 | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 1748s
+  50/178 3243s
+  75/178 3875s
+  100/178 4154s
+  125/178 6038s
+V1 | gpt-6-luna | hotpotqa/union | todo 0 (done 178)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | hotpotqa/union | todo 35 (done 143)
+  25/35 542s
+  done 35/35  issued calls 443  tokens 2136458/18051  truncated 0  ≈¥0.0445
+LOI | gpt-6-luna | hotpotqa/union | todo 178 (done 0)
+  25/178 328s
+  50/178 670s
+  75/178 1314s
+  100/178 1807s
+  125/178 2361s
+  150/178 2757s
+  175/178 3204s
+  done 178/178  issued calls 1654  tokens 361002/24249  truncated 0  ≈¥0.0096
+cache: {'hits': 345, 'misses': 2097, 'hit_rate': 0.14127764127764128}
+V1 | gpt-6-luna | musique/union | todo 614 (done 0)
+  25/614 89s
+  50/614 196s
+  75/614 274s
+  100/614 357s
+  125/614 442s
+  150/614 523s
+  175/614 592s
+  200/614 644s
+  225/614 726s
+  250/614 801s
+  275/614 878s
+  300/614 972s
+  325/614 1074s
+  350/614 1149s
+  375/614 1218s
+  400/614 1306s
+  425/614 1449s
+  450/614 1664s
+  475/614 1869s
+  500/614 2062s
+  525/614 2191s
+  550/614 2382s
+  575/614 2506s
+  600/614 2614s
+  done 614/614  issued calls 602  tokens 3717343/115355  truncated 1  ≈¥0.0859
+P1 | gpt-6-luna | musique/union | todo 614 (done 0)

@@ -1,0 +1,451 @@
+{
+ "summary": {
+  "model": "gpt-6.1-terra",
+  "endpoint": "xiaojingai",
+  "k": 5,
+  "probes": {
+   "open": {
+    "0.01": {
+     "distinct_texts": 2,
+     "distinct_answers": null
+    },
+    "0.7": {
+     "distinct_texts": 2,
+     "distinct_answers": null
+    }
+   },
+   "task:2hop__460946_294723": {
+    "0.01": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    },
+    "0.7": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    }
+   },
+   "task:2hop__252311_366220": {
+    "0.01": {
+     "distinct_texts": 2,
+     "distinct_answers": 2
+    },
+    "0.7": {
+     "distinct_texts": 3,
+     "distinct_answers": 3
+    }
+   },
+   "task:2hop__701895_752697": {
+    "0.01": {
+     "distinct_texts": 2,
+     "distinct_answers": 2
+    },
+    "0.7": {
+     "distinct_texts": 2,
+     "distinct_answers": 2
+    }
+   }
+  }
+ },
+ "rows": [
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 0,
+   "text": "Moth & Kettle",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 1,
+   "text": "Moth & Kettle",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 2,
+   "text": "Moth & Kettle",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 3,
+   "text": "Mothbean",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 4,
+   "text": "Moth & Kettle",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 0,
+   "text": "Moth & Kettle",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 1,
+   "text": "Moth & Kettle",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 2,
+   "text": "Moth & Kettle",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 3,
+   "text": "Moth & Kettle",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 4,
+   "text": "Mothmilk Café",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Miquette Giraudy\"}",
+   "answer": "miquette giraudy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Steven Spielberg, Kathleen Kennedy, and Frank Marshall\"}",
+   "answer": "steven spielberg kathleen kennedy and frank marshall",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Steven Spielberg, Kathleen Kennedy, and Frank Marshall\"}",
+   "answer": "steven spielberg kathleen kennedy and frank marshall",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Steven Spielberg, Kathleen Kennedy, and Frank Marshall\"}",
+   "answer": "steven spielberg kathleen kennedy and frank marshall",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Steven Spielberg, Kathleen Kennedy, and Frank Marshall\"}",
+   "answer": "steven spielberg kathleen kennedy and frank marshall",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Steven Spielberg\"}",
+   "answer": "steven spielberg",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Mike Medavoy\"}",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Municipality of Nuevo Laredo\"}",
+   "answer": "municipality of nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "{\"short_answer\":\"Nuevo Laredo\"}",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "{\"short_answer\":\"Nuevo Laredo\"}",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "{\"short_answer\":\"Nuevo Laredo Municipality\"}",
+   "answer": "nuevo laredo municipality",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "{\"short_answer\":\"Nuevo Laredo\"}",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "{\"short_answer\":\"Nuevo Laredo\"}",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gpt-6.1-terra"
+  }
+ ]
+}

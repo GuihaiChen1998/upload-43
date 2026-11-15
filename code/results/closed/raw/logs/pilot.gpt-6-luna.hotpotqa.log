@@ -1,0 +1,37 @@
+V1 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 16450/819  truncated 0  ≈¥0.0004
+V2 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+V1 | gpt-6-luna | hotpotqa/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V2 | gpt-6-luna | hotpotqa/union | todo 9 (done 3)
+  done 9/9  issued calls 40  tokens 55098/3262  truncated 0  ≈¥0.0014
+V3 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 17261/553  truncated 0  ≈¥0.0004
+V4 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 86287/2703  truncated 0  ≈¥0.0020
+V5 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 16822/1122  truncated 0  ≈¥0.0004
+V7 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 84110/5585  truncated 0  ≈¥0.0022
+P1 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 168  tokens 212172/12515  truncated 0  ≈¥0.0055
+P2 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 396  tokens 490302/29922  truncated 0  ≈¥0.0128
+P3 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 168  tokens 221014/8360  truncated 0  ≈¥0.0053
+P4 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 396  tokens 511119/20178  truncated 0  ≈¥0.0122
+P5 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 744  tokens 526958/129468  truncated 0  ≈¥0.0235
+LOI | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 114  tokens 23392/31653  truncated 0  ≈¥0.0036
+cache: {'hits': 1667, 'misses': 2170, 'hit_rate': 0.43445400052124056}
+V1 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 16450/1144  truncated 0  ≈¥0.0004
+P1 | gpt-6-luna | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 168  tokens 212172/11573  truncated 0  ≈¥0.0054
+cache: {'hits': 0, 'misses': 180, 'hit_rate': 0.0}

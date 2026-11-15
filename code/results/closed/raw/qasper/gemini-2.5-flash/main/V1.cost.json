@@ -1,0 +1,40 @@
+{
+ "runs": [
+  {
+   "calls": 296,
+   "prompt_tokens": 459460,
+   "completion_tokens": 8141,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 1067.3499999999995,
+   "est_cost_cny": 0.05687,
+   "n_instances_run": 304,
+   "wall_s": 139.0,
+   "time": "2026-11-04 10:09:58"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 11:10:36"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 11:54:23"
+  }
+ ]
+}

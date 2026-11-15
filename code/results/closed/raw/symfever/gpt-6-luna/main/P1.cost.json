@@ -1,0 +1,88 @@
+{
+ "runs": [
+  {
+   "calls": 648,
+   "prompt_tokens": 12261369,
+   "completion_tokens": 21076,
+   "reasoning_tokens": 13626,
+   "finish_length": 0,
+   "latency_s": 3096.3500000000004,
+   "est_cost_cny": 0.24733,
+   "n_instances_run": 50,
+   "wall_s": 158.5,
+   "time": "2026-11-04 08:01:16"
+  },
+  {
+   "calls": 887,
+   "prompt_tokens": 9952325,
+   "completion_tokens": 32265,
+   "reasoning_tokens": 22277,
+   "finish_length": 0,
+   "latency_s": 4084.099000000001,
+   "est_cost_cny": 0.20227,
+   "n_instances_run": 73,
+   "wall_s": 234.4,
+   "time": "2026-11-04 08:02:34"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 08:23:08"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 10:03:42"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 10:24:59"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 10:39:03"
+  },
+  {
+   "calls": 0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 0.0,
+   "est_cost_cny": 0.0,
+   "n_instances_run": 0,
+   "wall_s": 0.0,
+   "time": "2026-11-04 11:14:01"
+  }
+ ]
+}

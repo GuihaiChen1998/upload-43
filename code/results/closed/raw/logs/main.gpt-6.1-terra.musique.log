@@ -1,0 +1,40 @@
+V1 | gpt-6.1-terra | musique/intersection | todo 60 (done 0)
+  25/60 57s
+  50/60 104s
+  done 60/60  issued calls 54  tokens 370770/3497  truncated 0  ≈¥0.0971
+P1 | gpt-6.1-terra | musique/intersection | todo 60 (done 0)
+  25/60 947s
+  50/60 1209s
+  done 60/60  issued calls 1242  tokens 7597710/37219  truncated 0  ≈¥1.9460
+LOI | gpt-6.1-terra | musique/intersection | todo 60 (done 0)
+  25/60 216s
+  50/60 548s
+  done 60/60  issued calls 1080  tokens 3637155/119273  truncated 0  ≈¥1.0584
+cache: {'hits': 384, 'misses': 2376, 'hit_rate': 0.1391304347826087}
+V1 | gpt-6.1-terra | musique/intersection | todo 60 (done 0)
+  25/60 45s
+  50/60 122s
+  done 60/60  issued calls 54  tokens 367389/5542  truncated 0  ≈¥0.0988
+P1 | gpt-6.1-terra | musique/intersection | todo 60 (done 0)
+  25/60 395s
+  50/60 922s
+  done 60/60  issued calls 1296  tokens 8920232/67920  truncated 0  ≈¥2.3150
+cache: {'hits': 150, 'misses': 1350, 'hit_rate': 0.1}
+RM64 | gpt-6.1-terra | musique/intersection | todo 60 (done 0)
+  25/60 2088s
+V1 | gpt-6.1-terra | musique/intersection | todo 0 (done 60)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6.1-terra | musique/intersection | todo 0 (done 60)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gpt-6.1-terra | musique/intersection | todo 0 (done 60)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | gpt-6.1-terra | musique/intersection | todo 0 (done 60)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6.1-terra | musique/intersection | todo 0 (done 60)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | gpt-6.1-terra | musique/intersection | todo 17 (done 43)
+  done 17/17  issued calls 820  tokens 3163456/118632  truncated 0  ≈¥0.9392
+cache: {'hits': 285, 'misses': 820, 'hit_rate': 0.2579185520361991}
+MAIN_DONE gpt-6.1-terra musique

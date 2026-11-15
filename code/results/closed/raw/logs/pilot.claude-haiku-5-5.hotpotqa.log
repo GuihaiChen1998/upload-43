@@ -1,0 +1,41 @@
+V1 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 10  tokens 22514/1900  truncated 0  ≈¥0.0008
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 136890/17797  truncated 0  ≈¥0.0056
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 28686/5318  truncated 0  ≈¥0.0014
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+V1 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V2 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 50  tokens 119518/24595  truncated 0  ≈¥0.0061
+V5 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 27918/6999  truncated 0  ≈¥0.0016
+V7 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 139590/33412  truncated 0  ≈¥0.0077
+P1 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 140  tokens 290214/30865  truncated 0  ≈¥0.0111
+P2 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 396  tokens 815673/126934  truncated 0  ≈¥0.0363
+P3 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 168  tokens 366773/62901  truncated 0  ≈¥0.0170
+P4 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 396  tokens 847493/150202  truncated 0  ≈¥0.0400
+P5 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 724  tokens 869293/271775  truncated 0  ≈¥0.0557
+LOI | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 94  tokens 33374/24774  truncated 0  ≈¥0.0039
+cache: {'hits': 1728, 'misses': 2040, 'hit_rate': 0.4585987261146497}
+V1 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 27378/3546  truncated 0  ≈¥0.0011
+P1 | claude-haiku-5-5 | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 168  tokens 352942/51608  truncated 0  ≈¥0.0153
+cache: {'hits': 0, 'misses': 180, 'hit_rate': 0.0}

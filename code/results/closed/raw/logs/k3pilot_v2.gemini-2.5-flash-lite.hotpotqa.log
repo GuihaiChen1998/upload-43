@@ -1,0 +1,59 @@
+K3 premise | gemini-2.5-flash-lite | hotpotqa.gemini-2.5-flash-lite.n50.v2 | todo 250 (done 0)
+  done 250/250  issued calls 1768  ≈¥0.1209  cache {'hits': 182, 'misses': 1768, 'hit_rate': 0.09333333333333334}
+V1 | gemini-2.5-flash-lite | hotpotqa/hotpotqa.gemini-2.5-flash-lite.n50.v2.jsonl.gz | todo 250 (done 0)
+  25/250 41s
+  50/250 86s
+  75/250 115s
+  100/250 160s
+  125/250 190s
+  150/250 222s
+  175/250 290s
+  200/250 316s
+  225/250 340s
+  250/250 360s
+  done 250/250  issued calls 250  tokens 479381/7674  truncated 0  ≈¥0.0184
+P1 | gemini-2.5-flash-lite | hotpotqa/hotpotqa.gemini-2.5-flash-lite.n50.v2.jsonl.gz | todo 250 (done 0)
+  25/250 349s
+  50/250 620s
+  75/250 874s
+  100/250 1112s
+  125/250 1346s
+  150/250 1608s
+  175/250 1923s
+  200/250 2227s
+  225/250 2499s
+  250/250 2791s
+  done 250/250  issued calls 3717  tokens 6827938/55128  truncated 0  ≈¥0.2537
+LOI | gemini-2.5-flash-lite | hotpotqa/hotpotqa.gemini-2.5-flash-lite.n50.v2.jsonl.gz | todo 250 (done 0)
+  25/250 70s
+  50/250 138s
+  75/250 206s
+  100/250 276s
+  125/250 335s
+  150/250 389s
+  175/250 449s
+  200/250 512s
+  225/250 584s
+  250/250 650s
+  done 250/250  issued calls 975  tokens 353876/12542  truncated 0  ≈¥0.0145
+RM64 | gemini-2.5-flash-lite | hotpotqa/hotpotqa.gemini-2.5-flash-lite.n50.v2.jsonl.gz | todo 250 (done 0)
+  25/250 687s
+  50/250 1612s
+K3 premise | gemini-2.5-flash-lite | hotpotqa.gemini-2.5-flash-lite.n50.v2 | todo 0 (done 250)
+  done 0/0  issued calls 0  ≈¥0.0000  cache {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | gemini-2.5-flash-lite | hotpotqa/hotpotqa.gemini-2.5-flash-lite.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gemini-2.5-flash-lite | hotpotqa/hotpotqa.gemini-2.5-flash-lite.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gemini-2.5-flash-lite | hotpotqa/hotpotqa.gemini-2.5-flash-lite.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gemini-2.5-flash-lite | hotpotqa/hotpotqa.gemini-2.5-flash-lite.n50.v2.jsonl.gz | todo 185 (done 65)
+  25/185 593s
+  50/185 1243s
+  75/185 1834s
+  100/185 2425s
+  125/185 3176s
+  150/185 3969s
+  175/185 4716s
+  done 185/185  issued calls 8017  tokens 8612885/113286  truncated 0  ≈¥0.3264
+cache: {'hits': 3852, 'misses': 8017, 'hit_rate': 0.3245429269525655}

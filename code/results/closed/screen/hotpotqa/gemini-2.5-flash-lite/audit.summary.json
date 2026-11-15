@@ -1,0 +1,98 @@
+{
+ "model": "gemini-2.5-flash-lite",
+ "endpoint": "xiaojingai",
+ "dataset": "hotpotqa",
+ "pool": "audit",
+ "n": 50,
+ "leak_rate": 0.4,
+ "evaluable_rate": 0.08,
+ "bucket_counts": {
+  "leaked": 20,
+  "context_dep": 4,
+  "abstained_correct": 0,
+  "abstained_wrong": 3,
+  "both_wrong": 23,
+  "unparsable": 0
+ },
+ "hop_total": {},
+ "hop_evaluable": {},
+ "usage": {
+  "prompt_tokens": 101178,
+  "completion_tokens": 1305,
+  "reasoning_tokens": 0,
+  "est_cost_cny": 0.0038,
+  "mean_latency_s": 0.93,
+  "finish_reasons": {
+   "stop": 100
+  },
+  "calls_recorded": 100
+ },
+ "buckets": {
+  "leaked": [
+   "5a7796e05542992a6e59df0f",
+   "5a7cef5d55429909bec768ac",
+   "5a7770f855429966f1a36d4e",
+   "5a7a650355429941d65f2615",
+   "5a75f1a755429976ec32bcb1",
+   "5a8085705542992bc0c4a74b",
+   "5a8c8f24554299653c1aa0ba",
+   "5a86f2fb554299211dda2b64",
+   "5a892d6f55429951533612d1",
+   "5ab2b95c5542991669774072",
+   "5ab503db5542990594ba9cc8",
+   "5ab48af35542996a3a969f92",
+   "5ab965bb554299743d22eb56",
+   "5ac19ba355429963665198b7",
+   "5ade653f55429975fa854ebb",
+   "5adec5055542995534e8c707",
+   "5ae0ec48554299422ee9955a",
+   "5adcd28c5542994d58a2f6ea",
+   "5ae1443855429920d5234362",
+   "5ae5a3bb55429960a22e0314"
+  ],
+  "context_dep": [
+   "5a80e468554299260e20a1a9",
+   "5ab84bf555429916710eb01f",
+   "5ac26d4d55429951e9e685b7",
+   "5ae7f0c75542994a481bbe44"
+  ],
+  "abstained_correct": [],
+  "abstained_wrong": [
+   "5a85ae455542997175ce1ff0",
+   "5ab69e4f554299710c8d1eee",
+   "5ade69e455429975fa854ec5"
+  ],
+  "both_wrong": [
+   "5a7d147955429909bec76942",
+   "5a7d6a2d5542991319bc93c6",
+   "5a7224ab55429971e9dc92dd",
+   "5a714de95542994082a3e7a8",
+   "5a88658955429938390d3f47",
+   "5ab1f13e554299449642c81c",
+   "5a9070dd5542995b442420b5",
+   "5ab26b60554299449642c898",
+   "5a89d2d75542992e4fca83d2",
+   "5ab2be71554299166977408c",
+   "5ab2f4c95542991669774155",
+   "5ab8c3c65542991b5579effd",
+   "5abc0aba55429959677d6a00",
+   "5abd0553554299700f9d7963",
+   "5ac120c55542992a796dedfc",
+   "5ac10832554299012d1db687",
+   "5ac3b9c5554299657fa2911b",
+   "5ac3a049554299741d48a2ba",
+   "5ac508205542994611c8b32e",
+   "5ae00b9f554299025d62a3c3",
+   "5ae1338d55429901ffe4ade1",
+   "5ae6097c55429929b0807a9a",
+   "5ae74baa5542997b22f6a68f"
+  ],
+  "unparsable": []
+ },
+ "evaluable": [
+  "5a80e468554299260e20a1a9",
+  "5ab84bf555429916710eb01f",
+  "5ac26d4d55429951e9e685b7",
+  "5ae7f0c75542994a481bbe44"
+ ]
+}

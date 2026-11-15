@@ -1,0 +1,23 @@
+{
+ "seed": 20261104,
+ "M": 10,
+ "min_words": 20,
+ "max_span_words": 8,
+ "question_template": "About the paper \"{title}\": {question}",
+ "stats": {
+  "answer_mentions_other>0": 62,
+  "drop_evidence_not_in_text": 3,
+  "drop_no_short_single_span_single_evidence_annotation": 1554,
+  "drop_qualifying_annotations_disagree_on_paragraph": 39,
+  "drop_short_paper": 4,
+  "drop_some_annotator_unanswerable": 378,
+  "kept_dev": 192,
+  "kept_test": 286,
+  "questions": 2456
+ },
+ "n_papers": 333,
+ "inputs_sha256": {
+  "qasper-dev-v0.3.json": "2ae7ee62a65b1c4225791c70de80c2aad4e8998cf1fd4f09a53103db4f21af93",
+  "qasper-test-v0.3.json": "6e29ad410e6e39aa1936017fb965b30a20eb2e7751997f55b97c9d281aa884e5"
+ }
+}

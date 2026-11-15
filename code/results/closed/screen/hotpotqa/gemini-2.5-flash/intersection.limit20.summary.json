@@ -1,0 +1,73 @@
+{
+ "model": "gemini-2.5-flash",
+ "endpoint": "xiaojingai",
+ "dataset": "hotpotqa",
+ "pool": "intersection",
+ "n": 20,
+ "leak_rate": 0.5,
+ "evaluable_rate": 0.5,
+ "bucket_counts": {
+  "leaked": 10,
+  "context_dep": 9,
+  "abstained_correct": 1,
+  "abstained_wrong": 0,
+  "both_wrong": 0,
+  "unparsable": 0
+ },
+ "hop_total": {},
+ "hop_evaluable": {},
+ "usage": {
+  "prompt_tokens": 38523,
+  "completion_tokens": 535,
+  "reasoning_tokens": 0,
+  "est_cost_cny": 0.0046,
+  "mean_latency_s": 1.71,
+  "finish_reasons": {
+   "stop": 40
+  },
+  "calls_recorded": 40
+ },
+ "buckets": {
+  "leaked": [
+   "5a86141f5542996432c571a5",
+   "5a81df7d55429926c1cdadaa",
+   "5a90485755429933b8a204d2",
+   "5adfd22255429906c02daa4f",
+   "5ae1389655429901ffe4ae05",
+   "5abc5951554299114383a116",
+   "5ae685fd5542996d980e7bda",
+   "5ae4bbf05542995ad6573e32",
+   "5ae73ddb554299572ea5478d",
+   "5ae7821b5542997ec2727678"
+  ],
+  "context_dep": [
+   "5a88f180554299206df2b3cc",
+   "5ab7f2d05542993667794064",
+   "5a8e27d45542995a26add46a",
+   "5ab7867c5542992aa3b8c822",
+   "5ab2b7c1554299166977406a",
+   "5ab32256554299233954ff22",
+   "5ab8854555429934fafe6e0c",
+   "5ae6443355429908198fa563",
+   "5ae5aba0554299546bf82f17"
+  ],
+  "abstained_correct": [
+   "5a75083b5542996c70cfae7e"
+  ],
+  "abstained_wrong": [],
+  "both_wrong": [],
+  "unparsable": []
+ },
+ "evaluable": [
+  "5a88f180554299206df2b3cc",
+  "5ab7f2d05542993667794064",
+  "5a8e27d45542995a26add46a",
+  "5ab7867c5542992aa3b8c822",
+  "5ab2b7c1554299166977406a",
+  "5ab32256554299233954ff22",
+  "5ab8854555429934fafe6e0c",
+  "5ae6443355429908198fa563",
+  "5ae5aba0554299546bf82f17",
+  "5a75083b5542996c70cfae7e"
+ ]
+}

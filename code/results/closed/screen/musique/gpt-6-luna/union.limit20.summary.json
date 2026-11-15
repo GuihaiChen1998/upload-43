@@ -1,0 +1,79 @@
+{
+ "model": "gpt-6-luna",
+ "endpoint": "s3ai",
+ "dataset": "musique",
+ "pool": "union",
+ "n": 20,
+ "leak_rate": 0.65,
+ "evaluable_rate": 0.25,
+ "bucket_counts": {
+  "leaked": 13,
+  "context_dep": 2,
+  "abstained_correct": 3,
+  "abstained_wrong": 1,
+  "both_wrong": 1,
+  "unparsable": 0
+ },
+ "hop_total": {
+  "2": 9,
+  "3": 8,
+  "4": 3
+ },
+ "hop_evaluable": {
+  "2": 1,
+  "3": 2,
+  "4": 2
+ },
+ "usage": {
+  "prompt_tokens": 55422,
+  "completion_tokens": 12361,
+  "reasoning_tokens": 11859,
+  "est_cost_cny": 0.0023,
+  "mean_latency_s": 11.04,
+  "finish_reasons": {
+   "stop": 36,
+   "length": 4
+  },
+  "calls_recorded": 40
+ },
+ "buckets": {
+  "leaked": [
+   "2hop__153573_44085",
+   "2hop__753715_51329",
+   "2hop__435087_55984",
+   "2hop__731228_609866",
+   "2hop__64372_83289",
+   "2hop__818302_25719",
+   "2hop__865828_377862",
+   "3hop1__572324_568433_47686",
+   "2hop__434218_29898",
+   "3hop2__11282_57233_56883",
+   "4hop3__324979_836463_161616_77103",
+   "3hop2__781093_467331_162182",
+   "3hop2__90098_125104_10557"
+  ],
+  "context_dep": [
+   "3hop1__159728_91191_156667",
+   "3hop1__465684_160545_62931"
+  ],
+  "abstained_correct": [
+   "2hop__286621_84856",
+   "4hop1__88342_75218_128008_80487",
+   "4hop1__166471_49925_13759_736921"
+  ],
+  "abstained_wrong": [
+   "3hop2__145209_20335_9331"
+  ],
+  "both_wrong": [
+   "3hop1__354480_834494_34099"
+  ],
+  "unparsable": []
+ },
+ "evaluable": [
+  "3hop1__159728_91191_156667",
+  "3hop1__465684_160545_62931",
+  "2hop__286621_84856",
+  "4hop1__88342_75218_128008_80487",
+  "4hop1__166471_49925_13759_736921"
+ ]
+}

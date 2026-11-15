@@ -1,0 +1,2 @@
+drop-gold oracle | gpt-6.1-terra | hotpotqa/intersection | todo 70 (done 0)
+  done 70/70  issued calls 210  ≈¥0.3074  cache {'hits': 0, 'misses': 210, 'hit_rate': 0.0}

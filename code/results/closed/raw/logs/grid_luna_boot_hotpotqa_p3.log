@@ -1,0 +1,25 @@
+=== 2026-11-03T10:48:38Z start gpt-6-luna hotpotqa P3 sub,full
+P3 | gpt-6-luna | hotpotqa/union | todo 166 (done 0)
+  25/166 479s
+  50/166 1029s
+  75/166 1602s
+  ! 5ab6aaff55429953192ad35b: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000194, 需要预扣费额度: $0.001866 (request id: 20261103111835339625387BcPWxQ1lEQI9AnxN)
+  ! 5ab5c984554299488d4d9a21: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001910 (request id: 20261103111837646783448BcPWxQ1lakK9NmoF)
+  ! 5ab8854555429934fafe6e0c: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001886 (request id: 20261103111857580379602BcPWxQ1lICKxbdiT)
+  ! 5ab93841554299131ca422cb: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001894 (request id: 20261103111913870525515BcPWxQ1l1ICVTMwu)
+  ! 5ab97a315542996be2020517: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001932 (request id: 20261103112248831461507BcPWxQ1lDPh4clyg)
+  ! 5aba7c7155429955dce3ee58: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001882 (request id: 20261103112248816982387BcPWxQ1l5HAlM3Mi)
+  ! 5aba901055429955dce3ee87: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001888 (request id: 20261103112309645666004BcPWxQ1llcpwWpdQ)
+  ! 5abaf0ec5542996cc5e49f22: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001920 (request id: 20261103112323393136198BcPWxQ1ljidZ5TyR)
+  ! 5abb14a55542992ccd8e7f06: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001894 (request id: 20261103112703884915535BcPWxQ1lqUL5KN5e)
+  ! 5abb0b5c5542996cc5e49f79: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001902 (request id: 20261103112703404830481BcPWxQ1loYfQumBr)
+  ! 5abb8aaf5542993f40c73b1c: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001882 (request id: 20261103112721052615075BcPWxQ1lE7LMRIMV)
+  ! 5abb9928554299642a094ab9: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001920 (request id: 20261103112735281475050BcPWxQ1lJ9vmrHmB)
+  ! 5abbb0655542992ccd8e7f72: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001896 (request id: 20261103113117452505757BcPWxQ1lo6Wc2mqE)
+  ! 5abbd85a5542993f40c73be1: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001900 (request id: 20261103113117451951244BcPWxQ1lIfKCHQ5h)
+  ! 5abbe4c0554299642a094bc0: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001886 (request id: 20261103113134035539320BcPWxQ1l3fCNVRBD)
+  ! 5abbf519554299114383a0ad: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001892 (request id: 20261103113147940757187BcPWxQ1lro97QwKW)
+  ! 5abcfcf0554299114383a1b4: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001880 (request id: 20261103113530314640969BcPWxQ1lrrlUhd8D)
+  ! 5abcf70b55429959677d6b7e: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001886 (request id: 20261103113531142289361BcPWxQ1l1zOFsU2Y)
+  ! 5abd830455429924427fd033: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001918 (request id: 20261103113547149227085BcPWxQ1lNep4JgPj)
+  ! 5abdc18555429965af743e2b: RuntimeError: gpt-6-luna: generation failed after retries: Error code: 403 - 预扣费额度失败, 用户剩余额度: $0.000352, 需要预扣费额度: $0.001864 (request id: 20261103113602041950813BcPWxQ1loY0HXUYl)

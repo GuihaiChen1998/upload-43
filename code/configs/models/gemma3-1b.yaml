@@ -1,0 +1,11 @@
+name: gemma3-1b
+backend: openai
+model: /data1/ekyang/cgh/cache/huggingface_hub/hub/models--google--gemma-3-1b-it
+base_url: http://localhost:8000/v1
+family: gemma3
+params_b: 1
+disable_thinking: false
+gen:
+  top_p: 0.95
+  top_k: 64
+  max_tokens: 256

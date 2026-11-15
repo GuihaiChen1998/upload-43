@@ -1,0 +1,47 @@
+V1 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 35722/406  truncated 0  ≈¥0.0013
+V2 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 177883/2050  truncated 0  ≈¥0.0067
+V3 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 36981/134  truncated 0  ≈¥0.0014
+V4 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 181249/651  truncated 0  ≈¥0.0066
+V5 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 35881/3198  truncated 0  ≈¥0.0018
+V7 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+V1 | gemini-2.5-flash-lite | musique/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V2 | gemini-2.5-flash-lite | musique/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gemini-2.5-flash-lite | musique/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gemini-2.5-flash-lite | musique/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gemini-2.5-flash-lite | musique/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash-lite | musique/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gemini-2.5-flash-lite | musique/union | todo 1 (done 11)
+  done 1/1  issued calls 1  tokens 2891/301  truncated 0  ≈¥0.0001
+P1 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 276  tokens 775148/4656  truncated 0  ≈¥0.0286
+P2 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 756  tokens 2111193/12645  truncated 0  ≈¥0.0778
+P3 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 288  tokens 821487/3144  truncated 0  ≈¥0.0300
+P4 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 756  tokens 2162245/8227  truncated 0  ≈¥0.0790
+P5 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 768  tokens 1191899/13236  truncated 0  ≈¥0.0448
+LOI | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 240  tokens 81018/3312  truncated 0  ≈¥0.0034
+cache: {'hits': 2656, 'misses': 3085, 'hit_rate': 0.46263717122452536}
+V1 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 34708/401  truncated 0  ≈¥0.0013
+P1 | gemini-2.5-flash-lite | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 288  tokens 805293/4821  truncated 0  ≈¥0.0297
+cache: {'hits': 0, 'misses': 300, 'hit_rate': 0.0}

@@ -1,0 +1,15 @@
+dataset,model,family,params_b,best_v_top1,best_p_top1,parse_failure_rate
+hotpotqa,_baselines,?,,,,
+hotpotqa,gemma3-12b,gemma3,12.0,0.9674,0.8152,0.0002
+hotpotqa,gemma3-1b,gemma3,1.0,0.1739,0.712,0.0022
+hotpotqa,gemma3-4b,gemma3,4.0,0.9293,0.7337,0.0004
+hotpotqa,qwen3-1.7b,qwen3,1.7,0.911,0.7096,0.0
+hotpotqa,qwen3-4b,qwen3,4.0,0.9485,0.6909,0.001
+hotpotqa,qwen3-8b,qwen3,8.0,0.9485,0.7447,0.0
+musique,_baselines,?,,,,
+musique,gemma3-12b,gemma3,12.0,0.9419,0.8372,0.0012
+musique,gemma3-1b,gemma3,1.0,0.1395,0.6977,0.0009
+musique,gemma3-4b,gemma3,4.0,0.9186,0.7558,0.0004
+musique,qwen3-1.7b,qwen3,1.7,0.9247,0.672,0.0001
+musique,qwen3-4b,qwen3,4.0,0.9516,0.7903,0.0029
+musique,qwen3-8b,qwen3,8.0,0.9624,0.8118,0.0

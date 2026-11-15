@@ -1,0 +1,2 @@
+drop-gold oracle | gemini-2.5-flash-lite | musique/union | todo 786 (done 0)
+  done 786/786  issued calls 2358  ≈¥0.2264  cache {'hits': 0, 'misses': 2358, 'hit_rate': 0.0}

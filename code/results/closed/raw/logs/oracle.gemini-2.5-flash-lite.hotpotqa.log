@@ -1,0 +1,2 @@
+drop-gold oracle | gemini-2.5-flash-lite | hotpotqa/union | todo 303 (done 0)
+  done 303/303  issued calls 909  ≈¥0.0503  cache {'hits': 0, 'misses': 909, 'hit_rate': 0.0}

@@ -1,0 +1,41 @@
+{
+ "model": "gpt-6-luna",
+ "endpoint": "boottoken",
+ "instances": "data/constructed/k3/musique.gpt-6-luna.n50.v2.jsonl.gz",
+ "conditions": [
+  "C",
+  "F"
+ ],
+ "n_variants": 100,
+ "stats": {
+  "full": {
+   "n": 300,
+   "acc_ref": 0.927,
+   "acc_new": 0.867,
+   "agree_cross": 0.85,
+   "agree_within_ref": 0.88
+  },
+  "drop_ap": {
+   "n": 300,
+   "acc_ref": 0.627,
+   "acc_new": 0.52,
+   "agree_cross": 0.577,
+   "agree_within_ref": 0.665
+  },
+  "drop_group": {
+   "n": 300,
+   "acc_ref": 0.303,
+   "acc_new": 0.237,
+   "agree_cross": 0.35,
+   "agree_within_ref": 0.445
+  }
+ },
+ "usage": {
+  "calls": 750,
+  "prompt_tokens": 4287609,
+  "completion_tokens": 112915,
+  "reasoning_tokens": 102821,
+  "finish_length": 0,
+  "latency_s": 4094.564000000003
+ }
+}

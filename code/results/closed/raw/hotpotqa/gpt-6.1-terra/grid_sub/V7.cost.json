@@ -1,0 +1,28 @@
+{
+ "runs": [
+  {
+   "calls": 317,
+   "prompt_tokens": 1853416,
+   "completion_tokens": 18313,
+   "reasoning_tokens": 11328,
+   "finish_length": 0,
+   "latency_s": 7856.267000000009,
+   "est_cost_cny": 0.48625,
+   "n_instances_run": 63,
+   "wall_s": 1407.0,
+   "time": "2026-11-03 00:56:31"
+  },
+  {
+   "calls": 3,
+   "prompt_tokens": 16794,
+   "completion_tokens": 159,
+   "reasoning_tokens": 96,
+   "finish_length": 0,
+   "latency_s": 132.38799999999992,
+   "est_cost_cny": 0.0044,
+   "n_instances_run": 1,
+   "wall_s": 95.9,
+   "time": "2026-11-03 01:47:53"
+  }
+ ]
+}

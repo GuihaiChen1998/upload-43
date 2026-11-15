@@ -1,0 +1,12 @@
+{
+ "endpoint": "boottoken",
+ "n": 30,
+ "n_alt_invalid": 0,
+ "reference_agree": 0.8666666666666667,
+ "s3ai_self_change": 0.08888888888888888,
+ "alt_self_change": 0.01111111111111111,
+ "ablated_agree": 1.0,
+ "p1_top1_s3ai": 0.8414814814814816,
+ "p1_top1_alt": 0.7966666666666666,
+ "phi_identical": 0.8
+}

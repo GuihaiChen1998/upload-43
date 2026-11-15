@@ -1,0 +1,13 @@
+dataset,model,V1_first_source_rate,V7_first_source_rate,P1_first_source_rate
+hotpotqa,qwen3-1.7b,0.1218,0.1077,0.377
+hotpotqa,qwen3-4b,0.1639,0.1405,0.459
+hotpotqa,qwen3-8b,0.1663,0.1663,0.4286
+hotpotqa,gemma3-1b,1.0,1.0,0.375
+hotpotqa,gemma3-4b,0.1359,0.1359,0.4891
+hotpotqa,gemma3-12b,0.1576,0.1413,0.5435
+musique,qwen3-1.7b,0.0645,0.0645,0.2849
+musique,qwen3-4b,0.0699,0.1022,0.2473
+musique,qwen3-8b,0.086,0.0806,0.2527
+musique,gemma3-1b,1.0,0.9767,0.2674
+musique,gemma3-4b,0.0814,0.0581,0.2326
+musique,gemma3-12b,0.1047,0.0698,0.2907

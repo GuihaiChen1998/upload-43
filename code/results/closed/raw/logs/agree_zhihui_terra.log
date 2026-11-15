@@ -1,0 +1,8 @@
+P1 | gpt-6.1-terra | hotpotqa/intersection | todo 30 (done 0)
+  25/30 711s
+  done 30/30  issued calls 420  tokens 2410273/8482  truncated 0  ≈¥0.6132
+cache: {'hits': 0, 'misses': 420, 'hit_rate': 0.0}
+P1 | gpt-6.1-terra | musique/intersection | todo 30 (done 0)
+  25/30 601s
+  done 30/30  issued calls 720  tokens 4830689/44794  truncated 0  ≈¥1.2637
+cache: {'hits': 0, 'misses': 720, 'hit_rate': 0.0}

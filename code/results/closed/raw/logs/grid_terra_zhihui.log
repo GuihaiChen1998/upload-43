@@ -1,0 +1,30 @@
+=== 2026-11-03T09:59:19Z start gpt-6.1-terra hotpotqa P3,P4,P5 sub,full
+P3 | gpt-6.1-terra | hotpotqa/intersection | todo 64 (done 0)
+  25/64 374s
+  50/64 733s
+  done 64/64  issued calls 1372  tokens 7853195/19803  truncated 0  ≈¥1.9881
+P4 | gpt-6.1-terra | hotpotqa/intersection | todo 64 (done 0)
+  25/64 952s
+  50/64 1400s
+  done 64/64  issued calls 4224  tokens 24082332/68362  truncated 0  ≈¥6.1060
+P5 | gpt-6.1-terra | hotpotqa/intersection | todo 64 (done 0)
+  25/64 1s
+  50/64 2s
+  done 64/64  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 4900, 'misses': 5596, 'hit_rate': 0.46684451219512196}
+GRID_DONE sub gpt-6.1-terra hotpotqa P3,P4,P5
+P3 | gpt-6.1-terra | hotpotqa/intersection | todo 70 (done 0)
+  25/70 0s
+  50/70 1s
+  done 70/70  issued calls 168  tokens 946294/2250  truncated 0  ≈¥0.2394
+P4 | gpt-6.1-terra | hotpotqa/intersection | todo 70 (done 0)
+  25/70 1s
+  50/70 2s
+  done 70/70  issued calls 396  tokens 2221020/6462  truncated 0  ≈¥0.5633
+P5 | gpt-6.1-terra | hotpotqa/intersection | todo 70 (done 0)
+  25/70 1s
+  50/70 1s
+  done 70/70  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 10916, 'misses': 564, 'hit_rate': 0.9508710801393728}
+GRID_DONE full gpt-6.1-terra hotpotqa P3,P4,P5
+GRID_LINE_END gpt-6.1-terra hotpotqa P3,P4,P5 sub,full

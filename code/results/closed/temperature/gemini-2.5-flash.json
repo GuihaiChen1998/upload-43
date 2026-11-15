@@ -1,0 +1,451 @@
+{
+ "summary": {
+  "model": "gemini-2.5-flash",
+  "endpoint": "xiaojingai",
+  "k": 5,
+  "probes": {
+   "open": {
+    "0.01": {
+     "distinct_texts": 5,
+     "distinct_answers": null
+    },
+    "0.7": {
+     "distinct_texts": 5,
+     "distinct_answers": null
+    }
+   },
+   "task:2hop__460946_294723": {
+    "0.01": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    },
+    "0.7": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    }
+   },
+   "task:2hop__252311_366220": {
+    "0.01": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    },
+    "0.7": {
+     "distinct_texts": 1,
+     "distinct_answers": 1
+    }
+   },
+   "task:2hop__701895_752697": {
+    "0.01": {
+     "distinct_texts": 2,
+     "distinct_answers": 1
+    },
+    "0.7": {
+     "distinct_texts": 2,
+     "distinct_answers": 1
+    }
+   }
+  }
+ },
+ "rows": [
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 0,
+   "text": "ZazzleBean",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 1,
+   "text": "Zilch & Zephyr",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 2,
+   "text": "Mug & Meteor",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 3,
+   "text": "Mugwort & Mumble",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.01,
+   "repeat": 4,
+   "text": "Jolt & Fable",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 0,
+   "text": "FizzMocha",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 1,
+   "text": "Vapor & Velvet",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 2,
+   "text": "Mug & Meteorite",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 3,
+   "text": "Silt & Siphon",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "open",
+   "qid": null,
+   "T": 0.7,
+   "repeat": 4,
+   "text": "Jovian Mud",
+   "answer": null,
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Steve Hillage\"}\n```",
+   "answer": "steve hillage",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "```json\n{\"short_answer\": \"Steve Hillage\"}\n```",
+   "answer": "steve hillage",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "```json\n{\"short_answer\": \"Steve Hillage\"}\n```",
+   "answer": "steve hillage",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Steve Hillage\"}\n```",
+   "answer": "steve hillage",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "```json\n{\"short_answer\": \"Steve Hillage\"}\n```",
+   "answer": "steve hillage",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Steve Hillage\"}\n```",
+   "answer": "steve hillage",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "```json\n{\"short_answer\": \"Steve Hillage\"}\n```",
+   "answer": "steve hillage",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "```json\n{\"short_answer\": \"Steve Hillage\"}\n```",
+   "answer": "steve hillage",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Steve Hillage\"}\n```",
+   "answer": "steve hillage",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__460946_294723",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "```json\n{\"short_answer\": \"Steve Hillage\"}\n```",
+   "answer": "steve hillage",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__252311_366220",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "```json\n{\"short_answer\": \"Mike Medavoy\"}\n```",
+   "answer": "mike medavoy",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Nuevo Laredo\"}\n```",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 1,
+   "text": "```json\n{\"short_answer\": \"Nuevo Laredo\"}\n```",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 2,
+   "text": "```json\n{\"short_answer\": \"Nuevo Laredo\"}\n```",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Nuevo Laredo\"}\n```",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.01,
+   "repeat": 4,
+   "text": "{\"short_answer\": \"Nuevo Laredo\"}",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 0,
+   "text": "```json\n{\"short_answer\": \"Nuevo Laredo\"}\n```",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 1,
+   "text": "```json\n{\"short_answer\": \"Nuevo Laredo\"}\n```",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 2,
+   "text": "```json\n{\"short_answer\": \"Nuevo Laredo\"}\n```",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 3,
+   "text": "```json\n{\"short_answer\": \"Nuevo Laredo\"}\n```",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  },
+  {
+   "probe": "task",
+   "qid": "2hop__701895_752697",
+   "T": 0.7,
+   "repeat": 4,
+   "text": "{\"short_answer\": \"Nuevo Laredo\"}",
+   "answer": "nuevo laredo",
+   "finish_reason": "stop",
+   "served_model": "gemini-2.5-flash"
+  }
+ ]
+}

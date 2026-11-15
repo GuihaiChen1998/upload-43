@@ -1,0 +1,15 @@
+name: claude-haiku
+backend: openai                       # third-party gateway is OpenAI-compatible
+model: anthropic/claude-3-haiku
+base_url: https://api.ominigate.ai/v1
+api_key: ${OMNIGATE_API_KEY}          # resolved from env; never commit the key
+family: closed
+params_b: null
+disable_thinking: false               # not a Qwen model
+send_thinking_kwarg: false            # gateway rejects unknown extra_body fields
+# Closed model: black-box metrics only, no gray-box counterpart exists.
+# Sample budget limited by cost -- report n explicitly in the paper.
+n_instances: 300
+gen:
+  top_p: 0.8
+  max_tokens: 64                      # short answers only; keeps cost down

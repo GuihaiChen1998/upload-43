@@ -1,0 +1,22 @@
+{
+ "claude-haiku-5-5": {
+  "gold_change": 0.9690265486725663,
+  "nongold_change": 0.047525401507702396
+ },
+ "gpt-6-luna": {
+  "gold_change": 0.9502617801047121,
+  "nongold_change": 0.07024432809773123
+ },
+ "gemini-2.5-flash-lite": {
+  "gold_change": 0.9568733153638814,
+  "nongold_change": 0.03563941299790356
+ },
+ "gemini-2.5-flash": {
+  "gold_change": 0.952,
+  "nongold_change": 0.04192592592592593
+ },
+ "gpt-6.1-terra": {
+  "gold_change": 0.961218836565097,
+  "nongold_change": 0.05678670360110803
+ }
+}

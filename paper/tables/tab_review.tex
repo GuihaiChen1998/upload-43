@@ -1,0 +1,41 @@
+\begin{table*}[t]
+\centering\small
+\caption{Answer alignment, equivalence and routing, per cell (common valid set of Table~\ref{tab:main}). Agree: share of instances on which \Vb{1}'s own answer equals the interventional reference $a_0$ after normalisation; $\Delta$\Pb{1}, $\Delta$RM64: difference to \Vb{1} on those instances. Equiv.\ (all instances): the 90\% paired interval of RM64 $-$ \Vb{1} lies within $\pm$0.05 (\checkmark), entirely above ($\uparrow$) or below ($\downarrow$) zero, or neither (?). Routing: LOI, escalated to RM64 when its maximum is not unique; esc.: share escalated; calls: routed / RM64 nominal calls; saving in calls and in prompt characters; $\Delta$: routed $-$ RM64 top-1 with 95\% paired interval.}
+\label{tab:review}
+\setlength{\tabcolsep}{3.6pt}
+\begin{tabular}{@{}ll ccc c c ccc c@{}}
+\toprule
+ & & \multicolumn{3}{c}{answer alignment} & & \multicolumn{5}{c}{routing LOI $\to$ RM64} \\
+\cmidrule(lr){3-5}\cmidrule(l){7-11}
+Data & Model & agree & $\Delta$\Pb{1} & $\Delta$RM64 & equiv. & esc.\ \% & calls & save \% & chars \% & $\Delta$ [95\% CI] \\
+\midrule
+HotpotQA & haiku & .95 & $-$.207 & $-$.001 & \checkmark & 44 & 38/63 & 39 & 49 & $-$.005 [$-$.012, +.001] \\
+ & luna & .90 & $-$.348 & $-$.044 & $\downarrow$ & 53 & 43/63 & 31 & 40 & +.013 [+.000, +.032] \\
+ & flash-lite & .93 & $-$.214 & +.007 & \checkmark & 34 & 32/63 & 49 & 60 & $-$.003 [$-$.010, +.000] \\
+\addlinespace[2pt]
+ & flash & .95 & $-$.282 & +.011 & \checkmark & 46 & 39/63 & 37 & 49 & +.000 [+.000, +.000] \\
+ & terra & .94 & $-$.427 & $-$.019 & ? & 66 & 52/63 & 18 & 30 & +.000 [+.000, +.000] \\
+\midrule
+MuSiQue & haiku & .87 & $-$.159 & +.019 & \checkmark & 69 & 65/65 & 0 & 26 & $-$.004 [$-$.010, +.000] \\
+ & luna & .82 & $-$.284 & $-$.018 & $\downarrow$ & 38 & 46/65 & 30 & 55 & +.000 [$-$.010, +.010] \\
+ & flash-lite & .89 & $-$.181 & +.039 & $\uparrow$ & 27 & 39/65 & 41 & 66 & $-$.004 [$-$.009, +.000] \\
+\addlinespace[2pt]
+ & flash & .97 & $-$.161 & +.010 & \checkmark & 23 & 35/65 & 45 & 70 & +.000 [+.000, +.000] \\
+ & terra & .91 & $-$.161 & +.017 & \checkmark & 22 & 35/65 & 46 & 72 & +.000 [+.000, +.000] \\
+\midrule
+Qasper & haiku & .73 & $-$.253 & $-$.057 & $\downarrow$ & 37 & 34/63 & 46 & 55 & +.055 [+.032, +.080] \\
+ & luna & .72 & $-$.278 & $-$.037 & $\downarrow$ & 42 & 37/63 & 41 & 50 & +.003 [$-$.012, +.019] \\
+ & flash-lite & .81 & $-$.260 & $-$.031 & $\downarrow$ & 28 & 28/63 & 55 & 65 & $-$.013 [$-$.026, $-$.003] \\
+\addlinespace[2pt]
+ & flash & .79 & $-$.259 & $-$.052 & $\downarrow$ & 27 & 28/63 & 56 & 66 & +.000 [+.000, +.000] \\
+ & terra & .73 & $-$.301 & $-$.065 & $\downarrow$ & 39 & 35/63 & 44 & 55 & +.002 [$-$.017, +.021] \\
+\midrule
+Sym.~FEVER & haiku & .97 & $-$.084 & +.001 & \checkmark & 9 & 17/63 & 73 & 80 & +.004 [+.000, +.010] \\
+ & luna & .98 & $-$.128 & $-$.018 & \checkmark & 10 & 17/63 & 72 & 79 & +.003 [$-$.001, +.009] \\
+ & flash-lite & .99 & $-$.101 & $-$.012 & \checkmark & 11 & 18/63 & 72 & 79 & +.000 [+.000, +.000] \\
+\addlinespace[2pt]
+ & flash & .98 & $-$.106 & -- & -- & -- & -- & -- & -- & -- \\
+ & terra & .96 & $-$.101 & -- & -- & -- & -- & -- & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table*}

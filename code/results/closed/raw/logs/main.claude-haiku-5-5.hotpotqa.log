@@ -1,0 +1,165 @@
+V1 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 14s
+  50/522 26s
+  75/522 37s
+  100/522 48s
+  125/522 60s
+  150/522 72s
+  175/522 83s
+  200/522 94s
+  225/522 107s
+  250/522 119s
+  275/522 129s
+  300/522 141s
+  325/522 154s
+  350/522 166s
+  375/522 177s
+  400/522 190s
+  425/522 202s
+  450/522 214s
+  475/522 225s
+  500/522 237s
+  done 522/522  issued calls 510  tokens 1244325/135743  truncated 0  ≈¥0.0481
+P1 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 68s
+  50/522 136s
+  75/522 199s
+  100/522 268s
+  125/522 339s
+  150/522 413s
+  175/522 475s
+  200/522 538s
+  225/522 611s
+  250/522 683s
+  275/522 748s
+  300/522 814s
+  325/522 876s
+  350/522 951s
+  375/522 1073s
+  400/522 1160s
+  425/522 1227s
+  450/522 1294s
+  475/522 1368s
+  500/522 1437s
+  done 522/522  issued calls 7136  tokens 16042854/1736909  truncated 0  ≈¥0.6182
+LOI | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 33s
+  50/522 68s
+  75/522 103s
+  100/522 141s
+  125/522 173s
+  150/522 211s
+  175/522 245s
+  200/522 285s
+  225/522 320s
+  250/522 353s
+  275/522 388s
+  300/522 422s
+  325/522 455s
+  350/522 489s
+  375/522 522s
+  400/522 553s
+  425/522 584s
+  450/522 618s
+  475/522 651s
+  500/522 692s
+  done 522/522  issued calls 5100  tokens 1894709/1260656  truncated 0  ≈¥0.2049
+cache: {'hits': 826, 'misses': 12746, 'hit_rate': 0.06086059534335397}
+V1 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 13s
+  50/522 25s
+  75/522 35s
+  100/522 45s
+  125/522 58s
+  150/522 72s
+  175/522 84s
+  200/522 93s
+  225/522 106s
+  250/522 120s
+  275/522 131s
+  300/522 142s
+  325/522 152s
+  350/522 165s
+  375/522 176s
+  400/522 189s
+  425/522 201s
+  450/522 212s
+  475/522 224s
+  500/522 236s
+  done 522/522  issued calls 510  tokens 1244325/137432  truncated 0  ≈¥0.0483
+P1 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 67s
+  50/522 134s
+  75/522 199s
+  100/522 274s
+  125/522 342s
+  150/522 418s
+  175/522 473s
+  200/522 536s
+  225/522 608s
+  250/522 675s
+  275/522 745s
+  300/522 806s
+  325/522 867s
+  350/522 934s
+  375/522 1001s
+  400/522 1072s
+  425/522 1136s
+  450/522 1206s
+  475/522 1273s
+  500/522 1339s
+  done 522/522  issued calls 7140  tokens 16049885/1747865  truncated 0  ≈¥0.6197
+cache: {'hits': 180, 'misses': 7650, 'hit_rate': 0.022988505747126436}
+RM64 | claude-haiku-5-5 | hotpotqa/union | todo 522 (done 0)
+  25/522 203s
+  50/522 398s
+  75/522 581s
+  100/522 903s
+  125/522 1123s
+  150/522 1334s
+  175/522 1523s
+  200/522 1728s
+  225/522 1932s
+  250/522 2145s
+  275/522 2353s
+  300/522 2561s
+  325/522 2756s
+  350/522 2968s
+V1 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | claude-haiku-5-5 | hotpotqa/union | todo 159 (done 363)
+  25/159 173s
+  50/159 352s
+  75/159 534s
+  100/159 715s
+  125/159 895s
+  150/159 1080s
+  done 159/159  issued calls 9220  tokens 12083249/3142305  truncated 0  ≈¥0.6949
+cache: {'hits': 790, 'misses': 9220, 'hit_rate': 0.07892107892107893}
+MAIN_DONE claude-haiku-5-5 hotpotqa
+V1 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | claude-haiku-5-5 | hotpotqa/union | todo 0 (done 522)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+MAIN_DONE claude-haiku-5-5 hotpotqa

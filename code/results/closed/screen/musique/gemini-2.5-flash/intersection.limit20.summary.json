@@ -1,0 +1,84 @@
+{
+ "model": "gemini-2.5-flash",
+ "endpoint": "xiaojingai",
+ "dataset": "musique",
+ "pool": "intersection",
+ "n": 20,
+ "leak_rate": 0.3,
+ "evaluable_rate": 0.55,
+ "bucket_counts": {
+  "leaked": 6,
+  "context_dep": 5,
+  "abstained_correct": 6,
+  "abstained_wrong": 1,
+  "both_wrong": 2,
+  "unparsable": 0
+ },
+ "hop_total": {
+  "2": 12,
+  "3": 6,
+  "4": 2
+ },
+ "hop_evaluable": {
+  "2": 5,
+  "3": 4,
+  "4": 2
+ },
+ "usage": {
+  "prompt_tokens": 65293,
+  "completion_tokens": 567,
+  "reasoning_tokens": 0,
+  "est_cost_cny": 0.0076,
+  "mean_latency_s": 1.51,
+  "finish_reasons": {
+   "stop": 40
+  },
+  "calls_recorded": 40
+ },
+ "buckets": {
+  "leaked": [
+   "2hop__455158_247871",
+   "2hop__61714_52026",
+   "2hop__64175_90973",
+   "2hop__25788_25855",
+   "2hop__852122_150107",
+   "2hop__794999_113442"
+  ],
+  "context_dep": [
+   "2hop__587048_621800",
+   "2hop__567588_67465",
+   "3hop1__36497_78276_68042",
+   "4hop1__73810_32392_823060_610794",
+   "2hop__135993_160249"
+  ],
+  "abstained_correct": [
+   "2hop__756620_127399",
+   "2hop__559273_152023",
+   "3hop1__354480_834494_34053",
+   "3hop1__273571_834494_34053",
+   "3hop1__816887_127905_80286",
+   "4hop1__711307_49925_13759_736921"
+  ],
+  "abstained_wrong": [
+   "3hop1__604797_443779_52195"
+  ],
+  "both_wrong": [
+   "2hop__189094_612080",
+   "3hop1__222380_443779_52195"
+  ],
+  "unparsable": []
+ },
+ "evaluable": [
+  "2hop__587048_621800",
+  "2hop__567588_67465",
+  "3hop1__36497_78276_68042",
+  "4hop1__73810_32392_823060_610794",
+  "2hop__135993_160249",
+  "2hop__756620_127399",
+  "2hop__559273_152023",
+  "3hop1__354480_834494_34053",
+  "3hop1__273571_834494_34053",
+  "3hop1__816887_127905_80286",
+  "4hop1__711307_49925_13759_736921"
+ ]
+}

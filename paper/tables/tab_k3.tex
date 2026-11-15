@@ -1,0 +1,23 @@
+\begin{table}[t]
+\centering\small
+\caption{Redundancy (exact copies). Top-1 hit on the answer passage or its copy, without (F: neutral filler) and with (C: exact copy) a duplicate of the answer passage in a reserved slot; $\approx$45 base questions per cell. All-zero: share of \Pb{1} score vectors with no signal.}
+\label{tab:k3}
+\setlength{\tabcolsep}{3.2pt}
+\begin{tabular}{@{}lcccccccc@{}}
+\toprule
+ & \multicolumn{4}{c}{luna} & \multicolumn{4}{c}{flash-lite} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}
+ & \multicolumn{2}{c}{Hot} & \multicolumn{2}{c}{MuS} & \multicolumn{2}{c}{Hot} & \multicolumn{2}{c}{MuS} \\
+ & F & C & F & C & F & C & F & C \\
+\midrule
+\Vb{1} & .58 & .57 & .42 & .39 & .64 & .68 & .41 & .52 \\
+\Pb{1} & .57 & .19 & .56 & .09 & .69 & .16 & .64 & .08 \\
+MExGen & .64 & .18 & .59 & .08 & .77 & .18 & .70 & .08 \\
+LOI & .61 & .66 & .70 & .78 & .74 & .80 & .68 & .76 \\
+RM64 & .85 & .71 & .81 & .72 & .86 & .86 & .84 & .61 \\
+\midrule
+chance & .09 & .18 & .05 & .10 & .09 & .18 & .05 & .10 \\
+\Pb{1} all-zero & .18 & .67 & .14 & .51 & .12 & .73 & .09 & .53 \\
+\bottomrule
+\end{tabular}
+\end{table}

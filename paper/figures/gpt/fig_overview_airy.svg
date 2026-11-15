@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="586" viewBox="0 0 1200 586" role="img" aria-label="Pastel Airy">
+<title>Pastel Airy</title>
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arr4B6172" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4B6172"/></marker><marker id="arr84a6d7" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#84a6d7"/></marker><marker id="arr8ebbad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8ebbad"/></marker><marker id="arrd8a683" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#d8a683"/></marker></defs>
+<text x="228" y="89" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4B6172" text-anchor="start" font-weight="700" dominant-baseline="central">Estimator family</text>
+<text x="410" y="89" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4B6172" text-anchor="start" font-weight="700" dominant-baseline="central">Prompt / context</text>
+<text x="571" y="89" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4B6172" text-anchor="start" font-weight="700" dominant-baseline="central">Query draws</text>
+<text x="724" y="89" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4B6172" text-anchor="start" font-weight="700" dominant-baseline="central">Score per source</text>
+<polyline points="169,258 188,258 188,151 205,151" fill="none" stroke="#4B6172" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arr4B6172)"/>
+<polyline points="188,253 205,253" fill="none" stroke="#4B6172" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arr4B6172)"/>
+<polyline points="188,258 188,355 205,355" fill="none" stroke="#4B6172" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arr4B6172)"/>
+<polyline points="905,151 926,151 926,249 953,249" fill="none" stroke="#4B6172" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arr4B6172)"/>
+<polyline points="905,253 926,253" fill="none" stroke="#4B6172" stroke-width="1.65" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="905,355 926,355 926,253" fill="none" stroke="#4B6172" stroke-width="1.65" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="20" y="192" width="150" height="132" rx="18" fill="#f9fafc" stroke="#aabdc9" stroke-width="1"/>
+<text x="95" y="217" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">Instance</text>
+<text x="95" y="247" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#182734" text-anchor="middle" font-weight="400" dominant-baseline="central">Query q</text>
+<rect x="40" y="263" width="24" height="19" rx="4" fill="#ffffff" stroke="#9badbd" stroke-width="1"/>
+<rect x="67" y="263" width="24" height="19" rx="4" fill="#ffffff" stroke="#9badbd" stroke-width="1"/>
+<rect x="94" y="263" width="24" height="19" rx="4" fill="#ffffff" stroke="#9badbd" stroke-width="1"/>
+<rect x="121" y="263" width="24" height="19" rx="4" fill="#ffffff" stroke="#9badbd" stroke-width="1"/>
+<text x="52" y="273" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">1</text>
+<text x="79" y="273" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">2</text>
+<text x="106" y="273" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">…</text>
+<text x="133" y="273" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">M</text>
+<text x="95" y="303" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">Retrieved records</text>
+<rect x="205" y="105" width="700" height="92" rx="18" fill="#f7faff" stroke="#84a6d7" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="231" cy="130" r="12" fill="#84a6d7" stroke="none" stroke-width="1"/>
+<text x="231" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="700" dominant-baseline="central">A</text>
+<text x="250" y="130" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Self-report</text>
+<text x="226" y="158" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">V1–V7</text>
+<rect x="402" y="117" width="146" height="67" rx="9" fill="#ffffff" stroke="#dce6ee" stroke-width="1"/>
+<text x="410" y="136" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Ask for source IDs</text>
+<text x="410" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13.1" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">Vanilla · probe · CoT</text>
+<polyline points="555,145 564,145" fill="none" stroke="#84a6d7" stroke-width="1.35" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arr84a6d7)"/>
+<rect x="563" y="117" width="143" height="67" rx="9" fill="#ffffff" stroke="#dce6ee" stroke-width="1"/>
+<text x="571" y="136" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Full context</text>
+<text x="571" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13.1" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">One or multiple draws</text>
+<polyline points="708,145 717,145" fill="none" stroke="#84a6d7" stroke-width="1.35" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arr84a6d7)"/>
+<rect x="716" y="117" width="171" height="67" rx="9" fill="#ffffff" stroke="#dce6ee" stroke-width="1"/>
+<text x="724" y="136" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Vote over cited IDs</text>
+<text x="724" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13.1" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">Direct or weighted</text>
+<rect x="205" y="207" width="700" height="92" rx="18" fill="#f6fbf8" stroke="#8ebbad" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="231" cy="232" r="12" fill="#8ebbad" stroke="none" stroke-width="1"/>
+<text x="231" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="700" dominant-baseline="central">B</text>
+<text x="250" y="232" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Single-source</text>
+<text x="226" y="260" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">P1/P2/P5 · LOI</text>
+<text x="226" y="280" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">MExGen reuses P1</text>
+<rect x="402" y="219" width="146" height="67" rx="9" fill="#ffffff" stroke="#dce6ee" stroke-width="1"/>
+<text x="410" y="238" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Edit one source</text>
+<text x="410" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13.1" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">LOO: remove · LOI: keep</text>
+<polyline points="555,247 564,247" fill="none" stroke="#8ebbad" stroke-width="1.35" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arr8ebbad)"/>
+<rect x="563" y="219" width="143" height="67" rx="9" fill="#ffffff" stroke="#dce6ee" stroke-width="1"/>
+<text x="571" y="238" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Query each edit</text>
+<text x="571" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13.1" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">One or multiple draws</text>
+<polyline points="708,247 717,247" fill="none" stroke="#8ebbad" stroke-width="1.35" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arr8ebbad)"/>
+<rect x="716" y="219" width="171" height="67" rx="9" fill="#ffffff" stroke="#dce6ee" stroke-width="1"/>
+<text x="724" y="238" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Compare with a₀</text>
+<text x="724" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13.1" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">Answer change / match</text>
+<rect x="205" y="309" width="700" height="92" rx="18" fill="#fffaf5" stroke="#d8a683" stroke-width="1" stroke-dasharray="6 4"/>
+<circle cx="231" cy="334" r="12" fill="#d8a683" stroke="none" stroke-width="1"/>
+<text x="231" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="700" dominant-baseline="central">C</text>
+<text x="250" y="334" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Random subsets</text>
+<text x="226" y="362" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">RM@k</text>
+<rect x="402" y="321" width="146" height="67" rx="9" fill="#ffffff" stroke="#dce6ee" stroke-width="1"/>
+<text x="410" y="340" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Draw k keep masks</text>
+<text x="410" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13.1" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">Bernoulli(½) per source</text>
+<polyline points="555,349 564,349" fill="none" stroke="#d8a683" stroke-width="1.35" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrd8a683)"/>
+<rect x="563" y="321" width="143" height="67" rx="9" fill="#ffffff" stroke="#dce6ee" stroke-width="1"/>
+<text x="571" y="340" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Query each mask</text>
+<text x="571" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13.1" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">Reuse repeated masks</text>
+<polyline points="708,349 717,349" fill="none" stroke="#d8a683" stroke-width="1.35" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrd8a683)"/>
+<rect x="716" y="321" width="171" height="67" rx="9" fill="#ffffff" stroke="#dce6ee" stroke-width="1"/>
+<text x="724" y="340" font-family="Arial, Helvetica, sans-serif" font-size="15.5" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Banzhaf contrast</text>
+<text x="724" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13.1" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">Mean with vs. without</text>
+<rect x="953" y="184" width="224" height="130" rx="18" fill="#eaf0f5" stroke="#8fa4b4" stroke-width="1"/>
+<rect x="963" y="195" width="204" height="32" rx="8" fill="#334155" stroke="none" stroke-width="1"/>
+<text x="1065" y="211" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="700" dominant-baseline="central">Attribution ranking</text>
+<text x="1065" y="251" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">Rank the source scores</text>
+<text x="1065" y="278" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">Keep ties in the top set</text>
+<rect x="953" y="332" width="224" height="62" rx="9" fill="#ffffff" stroke="#a3b3c0" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="1065,314 1065,331" fill="none" stroke="#4B6172" stroke-width="1.35" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5 5" marker-end="url(#arr4B6172)"/>
+<text x="1065" y="351" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">Offline evaluation</text>
+<text x="1065" y="376" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">Tie-aware gold top-1</text>
+<rect x="205" y="411" width="700" height="28" rx="8" fill="#f5f8fb" stroke="#cbd6df" stroke-width="1"/>
+<text x="555" y="425" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#182734" text-anchor="middle" font-weight="400" dominant-baseline="central">Shared by B and C: one full-context reference a₀. Invalid reference → stop.</text>
+<rect x="205" y="454" width="972" height="112" rx="18" fill="#f8fafc" stroke="#c8ced8" stroke-width="1" stroke-dasharray="6 4"/>
+<text x="221" y="470" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">Optional cost-aware route</text>
+<rect x="223" y="495" width="206" height="50" rx="9" fill="#ffffff" stroke="#9fb4c9" stroke-width="1"/>
+<text x="326" y="513" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">Run LOI or P1</text>
+<text x="326" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#4B6172" text-anchor="middle" font-weight="400" dominant-baseline="central">M + 1 calls incl. a₀</text>
+<polyline points="429,520 461,520" fill="none" stroke="#4B6172" stroke-width="1.65" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arr4B6172)"/>
+<polygon points="508,475 553,520 508,565 463,520" fill="#ffffff" stroke="#8da4b5" stroke-width="1.3"/>
+<text x="508" y="513" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">Unique</text>
+<text x="508" y="531" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">top?</text>
+<polyline points="553,520 574,520 574,494 653,494" fill="none" stroke="#4B6172" stroke-width="1.65" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arr4B6172)"/>
+<polyline points="553,520 574,520 574,539 653,539" fill="none" stroke="#d8a683" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrd8a683)"/>
+<text x="610" y="484" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4B6172" text-anchor="middle" font-weight="700" dominant-baseline="central">yes</text>
+<text x="610" y="529" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#d8a683" text-anchor="middle" font-weight="700" dominant-baseline="central">no</text>
+<rect x="653" y="478" width="178" height="32" rx="8" fill="#ffffff" stroke="#b5c3d1" stroke-width="1"/>
+<text x="742" y="494" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">Return probe ranking</text>
+<rect x="653" y="523" width="178" height="32" rx="8" fill="#ffffff" stroke="#d8a683" stroke-width="1"/>
+<text x="742" y="539" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#182734" text-anchor="middle" font-weight="700" dominant-baseline="central">Return RM@k ranking</text>
+<text x="851" y="516" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#182734" text-anchor="start" font-weight="700" dominant-baseline="central">On escalation, reuse a₀.</text>
+<text x="851" y="539" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4B6172" text-anchor="start" font-weight="400" dominant-baseline="central">At most k further calls.</text>
+</svg>

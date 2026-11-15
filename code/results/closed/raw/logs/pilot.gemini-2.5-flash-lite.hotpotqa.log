@@ -1,0 +1,49 @@
+V1 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 20425/333  truncated 0  ≈¥0.0008
+V2 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 103679/1629  truncated 0  ≈¥0.0040
+V3 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 22076/98  truncated 0  ≈¥0.0008
+V4 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 106173/486  truncated 0  ≈¥0.0039
+V5 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 20257/2964  truncated 0  ≈¥0.0012
+V7 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 106446/12926  truncated 0  ≈¥0.0057
+P1 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+V1 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V2 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gemini-2.5-flash-lite | hotpotqa/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gemini-2.5-flash-lite | hotpotqa/union | todo 6 (done 6)
+  done 6/6  issued calls 47  tokens 80188/609  truncated 0  ≈¥0.0030
+P2 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 396  tokens 625083/5279  truncated 0  ≈¥0.0233
+P3 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 168  tokens 279057/1440  truncated 0  ≈¥0.0103
+P4 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 396  tokens 640704/3301  truncated 0  ≈¥0.0235
+P5 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 735  tokens 672411/10048  truncated 0  ≈¥0.0257
+LOI | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 113  tokens 37068/1473  truncated 0  ≈¥0.0015
+cache: {'hits': 1517, 'misses': 1855, 'hit_rate': 0.4498813760379597}
+V1 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 20538/327  truncated 0  ≈¥0.0008
+P1 | gemini-2.5-flash-lite | hotpotqa/union | todo 12 (done 0)
+  done 12/12  issued calls 168  tokens 264864/2272  truncated 0  ≈¥0.0099
+cache: {'hits': 0, 'misses': 180, 'hit_rate': 0.0}

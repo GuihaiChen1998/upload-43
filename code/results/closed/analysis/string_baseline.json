@@ -1,0 +1,107 @@
+[
+ {
+  "dataset": "hotpotqa",
+  "model": "claude-haiku-5-5",
+  "n_common": 510,
+  "string_top1": 0.8464254590725179,
+  "V1_top1": 0.9616993464052288
+ },
+ {
+  "dataset": "hotpotqa",
+  "model": "gemini-2.5-flash-lite",
+  "n_common": 291,
+  "string_top1": 0.8976681394207167,
+  "V1_top1": 0.961340206185567
+ },
+ {
+  "dataset": "hotpotqa",
+  "model": "gemini-2.5-flash",
+  "n_common": 81,
+  "string_top1": 0.9382716049382716,
+  "V1_top1": 0.9855967078189302
+ },
+ {
+  "dataset": "hotpotqa",
+  "model": "gpt-6-luna",
+  "n_common": 155,
+  "string_top1": 0.8350691244239631,
+  "V1_top1": 0.9731182795698925
+ },
+ {
+  "dataset": "hotpotqa",
+  "model": "gpt-6.1-terra",
+  "n_common": 64,
+  "string_top1": 0.9015625,
+  "V1_top1": 0.9869791666666666
+ },
+ {
+  "dataset": "musique",
+  "model": "claude-haiku-5-5",
+  "n_common": 747,
+  "string_top1": 0.9013339909344983,
+  "V1_top1": 0.9498661311914324
+ },
+ {
+  "dataset": "musique",
+  "model": "gemini-2.5-flash-lite",
+  "n_common": 774,
+  "string_top1": 0.9405643738977073,
+  "V1_top1": 0.9336993970714902
+ },
+ {
+  "dataset": "musique",
+  "model": "gemini-2.5-flash",
+  "n_common": 62,
+  "string_top1": 0.9102150537634409,
+  "V1_top1": 0.9529569892473118
+ },
+ {
+  "dataset": "musique",
+  "model": "gpt-6-luna",
+  "n_common": 602,
+  "string_top1": 0.8663923096778492,
+  "V1_top1": 0.9524363233665557
+ },
+ {
+  "dataset": "musique",
+  "model": "gpt-6.1-terra",
+  "n_common": 54,
+  "string_top1": 0.9320987654320987,
+  "V1_top1": 0.9753086419753086
+ },
+ {
+  "dataset": "qasper",
+  "model": "claude-haiku-5-5",
+  "n_common": 294,
+  "string_top1": 0.6357750242954324,
+  "V1_top1": 0.8662131519274376
+ },
+ {
+  "dataset": "qasper",
+  "model": "gemini-2.5-flash-lite",
+  "n_common": 304,
+  "string_top1": 0.8333098370927319,
+  "V1_top1": 0.9353070175438598
+ },
+ {
+  "dataset": "qasper",
+  "model": "gemini-2.5-flash",
+  "n_common": 296,
+  "string_top1": 0.8390524453024453,
+  "V1_top1": 0.9504504504504504
+ },
+ {
+  "dataset": "qasper",
+  "model": "gpt-6-luna",
+  "n_common": 260,
+  "string_top1": 0.6291666666666665,
+  "V1_top1": 0.8917307692307692
+ },
+ {
+  "dataset": "qasper",
+  "model": "gpt-6.1-terra",
+  "n_common": 258,
+  "string_top1": 0.6524547803617571,
+  "V1_top1": 0.8680878552971576
+ }
+]

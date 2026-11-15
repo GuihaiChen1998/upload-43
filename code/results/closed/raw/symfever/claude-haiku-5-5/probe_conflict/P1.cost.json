@@ -1,0 +1,16 @@
+{
+ "runs": [
+  {
+   "calls": 3113,
+   "prompt_tokens": 2434509,
+   "completion_tokens": 336849,
+   "reasoning_tokens": 0,
+   "finish_length": 0,
+   "latency_s": 5868.1370000000015,
+   "est_cost_cny": 0.10297,
+   "n_instances_run": 339,
+   "wall_s": 299.0,
+   "time": "2026-11-06 11:11:01"
+  }
+ ]
+}

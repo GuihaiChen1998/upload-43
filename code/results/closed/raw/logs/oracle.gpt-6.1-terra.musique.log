@@ -1,0 +1,2 @@
+drop-gold oracle | gpt-6.1-terra | musique/intersection | todo 60 (done 0)
+  done 60/60  issued calls 180  ≈¥0.3394  cache {'hits': 0, 'misses': 180, 'hit_rate': 0.0}

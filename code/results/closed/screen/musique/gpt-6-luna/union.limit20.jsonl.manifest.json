@@ -1,0 +1,22 @@
+{
+ "dataset": "musique",
+ "fingerprint": {
+  "backend": "OpenAIBackend",
+  "base_url": "https://ai.furry.vg/v1",
+  "disable_thinking": false,
+  "extra": {},
+  "extra_body": {},
+  "max_tokens": 1024,
+  "presence_penalty": 0.0,
+  "send_thinking_kwarg": false,
+  "top_k": 20,
+  "top_p": null
+ },
+ "limit": 20,
+ "model": "gpt-6-luna",
+ "pool": "union",
+ "repeat": 0,
+ "rules": "01c_leakage_check (imported)",
+ "script": "14_screen_closed",
+ "temperature": 0.01
+}

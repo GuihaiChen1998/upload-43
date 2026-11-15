@@ -1,0 +1,44 @@
+V1 | gpt-6.1-terra | hotpotqa/intersection | todo 70 (done 0)
+  25/70 55s
+  50/70 114s
+  done 70/70  issued calls 64  tokens 341398/1548  truncated 0  ≈¥0.0873
+P1 | gpt-6.1-terra | hotpotqa/intersection | todo 70 (done 0)
+  25/70 842s
+  50/70 998s
+  done 70/70  issued calls 832  tokens 4430543/12943  truncated 0  ≈¥1.1238
+LOI | gpt-6.1-terra | hotpotqa/intersection | todo 70 (done 0)
+  25/70 127s
+  50/70 245s
+  done 70/70  issued calls 640  tokens 2366717/24861  truncated 0  ≈¥0.6228
+cache: {'hits': 284, 'misses': 1536, 'hit_rate': 0.15604395604395604}
+V1 | gpt-6.1-terra | hotpotqa/intersection | todo 70 (done 0)
+  25/70 59s
+  50/70 123s
+  done 70/70  issued calls 64  tokens 328258/1361  truncated 0  ≈¥0.0838
+P1 | gpt-6.1-terra | hotpotqa/intersection | todo 70 (done 0)
+  25/70 360s
+  50/70 684s
+  done 70/70  issued calls 896  tokens 3601393/16239  truncated 0  ≈¥0.9206
+cache: {'hits': 90, 'misses': 960, 'hit_rate': 0.08571428571428572}
+RM64 | gpt-6.1-terra | hotpotqa/intersection | todo 70 (done 0)
+  25/70 1633s
+  50/70 3063s
+  done 70/70  issued calls 3886  tokens 18411234/269459  truncated 0  ≈¥4.9396
+cache: {'hits': 537, 'misses': 3886, 'hit_rate': 0.12141080714447208}
+MAIN_DONE gpt-6.1-terra hotpotqa
+V1 | gpt-6.1-terra | hotpotqa/intersection | todo 0 (done 70)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6.1-terra | hotpotqa/intersection | todo 0 (done 70)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gpt-6.1-terra | hotpotqa/intersection | todo 0 (done 70)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+V1 | gpt-6.1-terra | hotpotqa/intersection | todo 0 (done 70)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6.1-terra | hotpotqa/intersection | todo 0 (done 70)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+RM64 | gpt-6.1-terra | hotpotqa/intersection | todo 0 (done 70)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+MAIN_DONE gpt-6.1-terra hotpotqa

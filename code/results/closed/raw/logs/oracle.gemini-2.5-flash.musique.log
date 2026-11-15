@@ -1,0 +1,2 @@
+drop-gold oracle | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  done 68/68  issued calls 204  ≈¥0.0615  cache {'hits': 0, 'misses': 204, 'hit_rate': 0.0}

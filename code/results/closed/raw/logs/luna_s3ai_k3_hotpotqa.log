@@ -1,0 +1,70 @@
+V1 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 250 (done 0)
+  25/250 47s
+  50/250 96s
+  75/250 140s
+  100/250 182s
+  125/250 227s
+  150/250 267s
+  175/250 314s
+  200/250 360s
+  225/250 400s
+  250/250 443s
+  done 250/250  issued calls 250  tokens 428755/6531  truncated 0  ≈¥0.0092
+P1 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 250 (done 0)
+  25/250 487s
+  50/250 874s
+  75/250 1306s
+  100/250 1738s
+  125/250 2510s
+  150/250 2822s
+  175/250 3099s
+  200/250 3362s
+  225/250 3613s
+  250/250 3932s
+  done 250/250  issued calls 3736  tokens 34142090/145753  truncated 0  ≈¥0.6974
+LOI | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 250 (done 0)
+  25/250 128s
+  50/250 299s
+  75/250 568s
+  100/250 952s
+  125/250 1092s
+  150/250 1265s
+  175/250 1637s
+  200/250 1835s
+  225/250 1974s
+  250/250 2348s
+  done 250/250  issued calls 1437  tokens 22418507/248606  truncated 0  ≈¥0.4732
+RM64 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 250 (done 0)
+V1 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 241 (done 9)
+  25/241 2260s
+  50/241 4052s
+  75/241 5760s
+V1 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 156 (done 94)
+  25/156 1551s
+  50/156 3639s
+  75/156 5651s
+  100/156 7148s
+V1 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+LOI | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 0 (done 250)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gpt-6-luna | hotpotqa/hotpotqa.gpt-6-luna.n50.v2.jsonl.gz | todo 56 (done 194)
+  25/56 1990s
+  50/56 4164s
+  done 56/56  issued calls 2579  tokens 24341888/244270  truncated 0  ≈¥0.5113
+cache: {'hits': 1019, 'misses': 2579, 'hit_rate': 0.283212896053363}
+LUNA_S3AI_K3_HOTPOTQA_DONE

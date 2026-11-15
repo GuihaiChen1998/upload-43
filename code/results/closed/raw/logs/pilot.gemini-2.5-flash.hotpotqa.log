@@ -1,0 +1,55 @@
+V1 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 10750/183  truncated 0  ≈¥0.0013
+V2 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 30  tokens 49459/824  truncated 0  ≈¥0.0061
+V3 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 10382/44  truncated 0  ≈¥0.0012
+V4 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 30  tokens 52648/207  truncated 0  ≈¥0.0059
+V5 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 9277/1651  truncated 0  ≈¥0.0025
+V7 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 30  tokens 52667/7617  truncated 0  ≈¥0.0125
+P1 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 78  tokens 123251/1017  truncated 0  ≈¥0.0142
+P2 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 198  tokens 308770/2489  truncated 0  ≈¥0.0356
+P3 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 84  tokens 137465/687  truncated 0  ≈¥0.0155
+P4 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+V1 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V2 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P1 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 6)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 177  tokens 284360/1369  truncated 0  ≈¥0.0319
+P5 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 373  tokens 350047/4844  truncated 0  ≈¥0.0421
+LOI | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 54  tokens 20988/582  truncated 0  ≈¥0.0028
+cache: {'hits': 668, 'misses': 604, 'hit_rate': 0.5251572327044025}
+V1 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 6  tokens 9909/169  truncated 0  ≈¥0.0012
+P1 | gemini-2.5-flash | hotpotqa/intersection | todo 6 (done 0)
+  done 6/6  issued calls 84  tokens 131734/1050  truncated 0  ≈¥0.0152
+cache: {'hits': 0, 'misses': 90, 'hit_rate': 0.0}

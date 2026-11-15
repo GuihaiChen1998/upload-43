@@ -1,0 +1,37 @@
+V1 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 29759/3062  truncated 0  ≈¥0.0009
+V2 | gpt-6-luna | musique/union | todo 12 (done 0)
+V1 | gpt-6-luna | musique/union | todo 0 (done 12)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V2 | gpt-6-luna | musique/union | todo 11 (done 1)
+  done 11/11  issued calls 49  tokens 119987/15298  truncated 0  ≈¥0.0039
+V3 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 30608/1771  truncated 0  ≈¥0.0008
+V4 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 153017/9037  truncated 0  ≈¥0.0040
+V5 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 30131/4321  truncated 0  ≈¥0.0010
+V7 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 60  tokens 150655/17377  truncated 0  ≈¥0.0048
+P1 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 288  tokens 680749/61512  truncated 0  ≈¥0.0198
+P2 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 756  tokens 1776252/161827  truncated 0  ≈¥0.0517
+P3 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 288  tokens 695727/49117  truncated 0  ≈¥0.0188
+P4 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 756  tokens 1815515/125911  truncated 0  ≈¥0.0489
+P5 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+RM64 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 768  tokens 974262/329716  truncated 0  ≈¥0.0525
+LOI | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 240  tokens 48251/148599  truncated 2  ≈¥0.0158
+cache: {'hits': 2838, 'misses': 3289, 'hit_rate': 0.4631956912028725}
+V1 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 12  tokens 29759/3438  truncated 0  ≈¥0.0009
+P1 | gpt-6-luna | musique/union | todo 12 (done 0)
+  done 12/12  issued calls 288  tokens 680749/62046  truncated 0  ≈¥0.0198
+cache: {'hits': 0, 'misses': 300, 'hit_rate': 0.0}

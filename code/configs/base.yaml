@@ -1,0 +1,22 @@
+# Global defaults. Model/dataset/method configs override these.
+seed: 0
+cache:
+  enabled: true
+  path: results/cache/queries.sqlite
+
+sampling:
+  single_pass_temperature: 0.01   # not 0: some APIs reject T=0
+  multi_sample_temperature: 0.7   # Qwen3 non-thinking recommendation
+  n_samples_verbalize: 5          # odd; votes spread over M candidates
+  n_samples_perturbation: 3       # odd; binary decision converges faster,
+                                  # and cost is O(M*N) here
+
+aggregation:
+  lambda: 0.5     # w(unsure); 0 = hard filter, 1 = no down-weighting
+  beta: 0.3       # weight of the confidence-drop auxiliary signal
+  tau: 0.5        # set-prediction threshold
+
+paths:
+  raw: results/raw
+  tables: results/tables
+  figures: results/figures

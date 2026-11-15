@@ -1,0 +1,230 @@
+=== 2026-11-03T07:32:16Z start gemini-2.5-flash hotpotqa,musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub,full
+V2 | gemini-2.5-flash | hotpotqa/intersection | todo 81 (done 0)
+  25/81 113s
+  50/81 155s
+  75/81 195s
+  done 81/81  issued calls 405  tokens 675830/11016  truncated 0  ≈¥0.0828
+V3 | gemini-2.5-flash | hotpotqa/intersection | todo 81 (done 0)
+  25/81 10s
+  50/81 25s
+  75/81 39s
+  done 81/81  issued calls 81  tokens 142383/632  truncated 0  ≈¥0.0159
+V4 | gemini-2.5-flash | hotpotqa/intersection | todo 81 (done 0)
+  25/81 208s
+  50/81 263s
+  75/81 467s
+  done 81/81  issued calls 405  tokens 713777/3317  truncated 0  ≈¥0.0800
+V5 | gemini-2.5-flash | hotpotqa/intersection | todo 81 (done 0)
+  25/81 0s
+  50/81 0s
+  75/81 0s
+  done 81/81  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash | hotpotqa/intersection | todo 81 (done 0)
+  25/81 22s
+  50/81 51s
+  75/81 72s
+  done 81/81  issued calls 81  tokens 138913/15970  truncated 0  ≈¥0.0292
+V7 | gemini-2.5-flash | hotpotqa/intersection | todo 81 (done 0)
+  25/81 41s
+  50/81 91s
+  75/81 131s
+  done 81/81  issued calls 405  tokens 691132/76594  truncated 0  ≈¥0.1428
+P2 | gemini-2.5-flash | hotpotqa/intersection | todo 81 (done 0)
+  25/81 136s
+  50/81 230s
+  75/81 336s
+  done 81/81  issued calls 2673  tokens 4071882/35464  truncated 0  ≈¥0.4713
+P3 | gemini-2.5-flash | hotpotqa/intersection | todo 81 (done 0)
+  25/81 79s
+  50/81 142s
+  75/81 243s
+  done 81/81  issued calls 1134  tokens 1800623/9242  truncated 0  ≈¥0.2027
+P4 | gemini-2.5-flash | hotpotqa/intersection | todo 81 (done 0)
+  25/81 158s
+  50/81 307s
+  75/81 459s
+  done 81/81  issued calls 2673  tokens 4209119/21951  truncated 0  ≈¥0.4741
+P5 | gemini-2.5-flash | hotpotqa/intersection | todo 81 (done 0)
+  25/81 1s
+  50/81 2s
+  75/81 2s
+  done 81/81  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 10854, 'misses': 7857, 'hit_rate': 0.5800865800865801}
+GRID_DONE sub gemini-2.5-flash hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | gemini-2.5-flash | musique/intersection | todo 62 (done 0)
+  25/62 28s
+  50/62 54s
+  done 62/62  issued calls 310  tokens 885295/9744  truncated 0  ≈¥0.1043
+V3 | gemini-2.5-flash | musique/intersection | todo 62 (done 0)
+  25/62 12s
+  50/62 27s
+  done 62/62  issued calls 62  tokens 184239/637  truncated 0  ≈¥0.0205
+V4 | gemini-2.5-flash | musique/intersection | todo 62 (done 0)
+  25/62 50s
+  50/62 80s
+  done 62/62  issued calls 310  tokens 914225/3075  truncated 0  ≈¥0.1015
+V5 | gemini-2.5-flash | musique/intersection | todo 62 (done 0)
+  25/62 0s
+  50/62 0s
+  done 62/62  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash | musique/intersection | todo 62 (done 0)
+  25/62 10s
+  50/62 24s
+  done 62/62  issued calls 62  tokens 180416/15729  truncated 0  ≈¥0.0335
+V7 | gemini-2.5-flash | musique/intersection | todo 62 (done 0)
+  25/62 37s
+  50/62 74s
+  done 62/62  issued calls 310  tokens 889346/79824  truncated 3  ≈¥0.1671
+P2 | gemini-2.5-flash | musique/intersection | todo 62 (done 0)
+  25/62 170s
+  50/62 350s
+  done 62/62  issued calls 3903  tokens 10586831/62923  truncated 0  ≈¥1.1994
+P3 | gemini-2.5-flash | musique/intersection | todo 62 (done 0)
+  25/62 153s
+  50/62 250s
+  done 62/62  issued calls 1487  tokens 4152199/15557  truncated 0  ≈¥0.4623
+P4 | gemini-2.5-flash | musique/intersection | todo 62 (done 0)
+  25/62 656s
+  50/62 2508s
+=== 2026-11-03T09:41:11Z start gemini-2.5-flash hotpotqa,musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub,full
+V2 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 81)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 81)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 81)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 81)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 81)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 81)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 81)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 81)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 81)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | gemini-2.5-flash | hotpotqa/intersection | todo 0 (done 81)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 0, 'misses': 0, 'hit_rate': 0.0}
+GRID_DONE sub gemini-2.5-flash hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | gemini-2.5-flash | musique/intersection | todo 0 (done 62)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gemini-2.5-flash | musique/intersection | todo 0 (done 62)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gemini-2.5-flash | musique/intersection | todo 0 (done 62)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gemini-2.5-flash | musique/intersection | todo 0 (done 62)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash | musique/intersection | todo 0 (done 62)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gemini-2.5-flash | musique/intersection | todo 0 (done 62)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gemini-2.5-flash | musique/intersection | todo 0 (done 62)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | gemini-2.5-flash | musique/intersection | todo 0 (done 62)
+  done 0/0  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | gemini-2.5-flash | musique/intersection | todo 5 (done 57)
+  done 5/5  issued calls 181  tokens 593857/1975  truncated 0  ≈¥0.0659
+P5 | gemini-2.5-flash | musique/intersection | todo 62 (done 0)
+  25/62 2s
+  50/62 4s
+  done 62/62  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 8389, 'misses': 181, 'hit_rate': 0.9788798133022171}
+GRID_DONE sub gemini-2.5-flash musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 0s
+  50/87 0s
+  75/87 0s
+  done 87/87  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 0s
+  50/87 0s
+  75/87 0s
+  done 87/87  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 0s
+  50/87 0s
+  75/87 0s
+  done 87/87  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 0s
+  50/87 0s
+  75/87 0s
+  done 87/87  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 0s
+  50/87 0s
+  75/87 0s
+  done 87/87  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 0s
+  50/87 0s
+  75/87 0s
+  done 87/87  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 1s
+  50/87 1s
+  75/87 2s
+  done 87/87  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 0s
+  50/87 1s
+  75/87 1s
+  done 87/87  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 1s
+  50/87 1s
+  75/87 2s
+  done 87/87  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | gemini-2.5-flash | hotpotqa/intersection | todo 87 (done 0)
+  25/87 1s
+  50/87 1s
+  75/87 2s
+  done 87/87  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 20097, 'misses': 0, 'hit_rate': 1.0}
+GRID_DONE full gemini-2.5-flash hotpotqa V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+V2 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 0s
+  50/68 0s
+  done 68/68  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V3 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 0s
+  50/68 0s
+  done 68/68  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V4 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 0s
+  50/68 0s
+  done 68/68  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V5 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 0s
+  50/68 0s
+  done 68/68  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V6 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 0s
+  50/68 0s
+  done 68/68  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+V7 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 0s
+  50/68 0s
+  done 68/68  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P2 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 1s
+  50/68 2s
+  done 68/68  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P3 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 0s
+  50/68 1s
+  done 68/68  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P4 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 2s
+  50/68 3s
+  done 68/68  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+P5 | gemini-2.5-flash | musique/intersection | todo 68 (done 0)
+  25/68 1s
+  50/68 3s
+  done 68/68  issued calls 0  tokens 0/0  truncated 0  ≈¥0.0000
+cache: {'hits': 27251, 'misses': 0, 'hit_rate': 1.0}
+GRID_DONE full gemini-2.5-flash musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5
+GRID_LINE_END gemini-2.5-flash hotpotqa,musique V2,V3,V4,V5,V6,V7,P2,P3,P4,P5 sub,full
